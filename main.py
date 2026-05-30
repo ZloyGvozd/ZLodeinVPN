@@ -3,7 +3,6 @@ import socket
 import re
 from urllib.parse import urlparse
 
-# Сюда можно добавлять любые ссылки на txt файлы с серверами
 SOURCES = [
     "https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt",
     "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt",
@@ -17,7 +16,6 @@ SOURCES = [
 
 def check_port(ip, port):
     try:
-        # Пытаемся подключиться к порту. Даем 2 секунды на ответ.
         socket.create_connection((ip, int(port)), timeout=2)
         return True
     except:
@@ -32,22 +30,30 @@ for url in SOURCES:
         
         for line in text.splitlines():
             line = line.strip()
-            # Пропускаем комментарии и берем только ссылки
+            # Пропускаем чужие строчки с названиями профилей
+            if line.startswith("#") and "profile-" in line.lower():
+                continue
             if not line.startswith("#") and "://" in line:
                 if line not in working_servers:
-                    # Вытаскиваем IP и порт для проверки
                     clean = line.split('#')[0]
                     netloc = urlparse(clean).netloc.split("@")[-1]
                     if ":" in netloc:
                         host, port = netloc.split(":")[:2]
                         port = re.split(r'[/?]', port)[0]
                         
-                        # Если сервер отвечает, добавляем в белый список
                         if check_port(host, port):
                             working_servers.append(line)
     except:
         pass
 
-# Сохраняем все рабочие сервера в новый файл
+# Формируем файл СРАЗУ с твоим правильным названием профиля
+final_lines = [
+    "# profile-title: 🌸ZLodeinVPN🌸",       # Прописываем имя прямо в начало файла
+    "# profile-update-interval: 1",    # Говорим приложению проверять обновление каждый час
+    f"# Всего рабочих серверов: {len(working_servers)}"
+]
+final_lines.extend(working_servers)
+
+# Сохраняем результат
 with open("cleaned_sub.txt", "w", encoding="utf-8") as f:
-    f.write("\n".join(working_servers))
+    f.write("\n".join(final_lines))
