@@ -21,8 +21,8 @@ SOURCES = [
 def check_port_and_ping(ip, port):
     try:
         start_time = time.perf_counter()
-        # Жесткий таймаут 1.5 сек, чтобы скрипт не зависал на мертвых серверах
-        sock = socket.create_connection((ip, int(port)), timeout=1.5)
+        # Жестокий таймаут 1.0 сек. Все что медленнее - мусор.
+        sock = socket.create_connection((ip, int(port)), timeout=1.0)
         sock.close()
         return time.perf_counter() - start_time
     except:
@@ -35,9 +35,19 @@ def process_line(line):
     try:
         clean = line.split('#')[0]
         netloc = urlparse(clean).netloc.split("@")[-1]
+        
+        # Защита от криво спаршенных строк
+        if not netloc:
+             return None
+
         if ":" in netloc:
+            # Извлекаем хост и порт, убираем пути и параметры
             host, port = netloc.split(":")[:2]
             port = re.split(r'[/?]', port)[0]
+            
+            # Базовые проверки на валидность порта
+            if not port.isdigit() or int(port) > 65535:
+                return None
             
             latency = check_port_and_ping(host, port)
             if latency is not None:
@@ -47,7 +57,7 @@ def process_line(line):
     return None
 
 def main():
-    print("=== ЗАПУСК СКОРОСТНОГО ЧЕКЕРА (ВАРИАНТ 1) ===")
+    print("=== ЗАПУСК СКОРОСТНОГО ЧЕКЕРА (ЖЕСТКАЯ ФИЛЬТРАЦИЯ) ===")
     checked_servers = []
     seen_configs = set()
     all_lines = []
@@ -73,39 +83,41 @@ def main():
     total_found = len(all_lines)
     print(f" Всего уникальных серверов в базах: {total_found}")
 
-    # ОПТИМИЗАЦИЯ ДЛЯ GITHUB: перемешиваем и берем безопасный пул в 500 штук
-    if total_found > 500:
-        print(" Серверов слишком много! Выбираем случайные 500 для быстрой проверки...")
+    # УВЕЛИЧИЛИ ПУЛ: Проверяем до 2500 серверов, чтобы найти реальные алмазы
+    if total_found > 2500:
+        print(" Серверов слишком много! Выбираем 2500 случайных для проверки...")
         random.shuffle(all_lines)
-        all_lines = all_lines[:500]
+        all_lines = all_lines[:2500]
 
-    print(f"Запускаю 40 параллельных потоков для проверки {len(all_lines)} конфигураций...")
+    print(f"Запускаю 100 параллельных потоков для проверки {len(all_lines)} конфигураций...")
 
-    # 2. Быстрая проверка пулом
-    with ThreadPoolExecutor(max_workers=40) as executor:
+    # 2. Быстрая проверка пулом на 100 потоков
+    with ThreadPoolExecutor(max_workers=100) as executor:
         futures = [executor.submit(process_line, line) for line in all_lines]
         for i, future in enumerate(as_completed(futures)):
             res = future.result()
             if res is not None:
                 checked_servers.append(res)
-            if i > 0 and i % 100 == 0:
-                print(f" Проверено серверов: {i}...")
+            if i > 0 and i % 500 == 0:
+                print(f" Обработано: {i}...")
 
-    print(f"Проверка завершена! Найдено живых в этой пачке: {len(checked_servers)}")
+    print(f"Проверка завершена! Найдено с открытым портом: {len(checked_servers)}")
 
-    # 3. Сортируем по скорости и отбираем топ-300 лучших
+    # 3. Сортируем по скорости и отбираем топ-100 лучших
+    # Большая часть с открытым портом - фейки (CDN или Reality). 
+    # Берем только самые быстрые 100 штук (раньше было 300)
     checked_servers.sort(key=lambda x: x[0])
-    top_fast_servers = checked_servers[:300]
+    top_fast_servers = checked_servers[:100]
     working_servers = [line for latency, line in top_fast_servers]
 
     timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
 
-    # 4. Формируем файл с уникальным таймстампом, чтобы Git никогда не ругался на пустой коммит
+    # 4. Формируем файл
     final_lines = [
         "# profile-title: 🌸ZLodeinVPN🌸",
         "# profile-update-interval: 1",
         f"# Последнее обновление: {timestamp} UTC",
-        f"# Живых из проверенной пачки: {len(checked_servers)} | Отобрано топ-300 лучших"
+        f"# Проверено: {len(all_lines)} | Отобрано ТОП-100 лучших"
     ]
     final_lines.extend(working_servers)
 
