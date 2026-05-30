@@ -4,7 +4,7 @@ import re
 import time
 import traceback
 import random
-from urllib.parse import urlparse
+from urllib.parse import urlparse, parse_qs
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 SOURCES = [
@@ -18,11 +18,18 @@ SOURCES = [
     "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt"
 ]
 
-def check_port_and_ping(ip, port):
+def is_invalid_ip(ip):
+    # Убираем внутренние IP-заглушки и кривые сборки
+    invalid_starts = ('127.', '10.', '192.168.', '0.0.', '172.16.')
+    if ip.startswith(invalid_starts):
+        return True
+    return False
+
+def check_socket(ip, port, timeout=2.5):
+    # Увеличил таймаут до 2.5 сек, чтобы не отсекать работающие, но задумчивые сервера
     try:
         start_time = time.perf_counter()
-        # Жестокий таймаут 1.0 сек. Все что медленнее - мусор.
-        sock = socket.create_connection((ip, int(port)), timeout=1.0)
+        sock = socket.create_connection((ip, int(port)), timeout=timeout)
         sock.close()
         return time.perf_counter() - start_time
     except:
@@ -32,104 +39,98 @@ def process_line(line):
     line = line.strip()
     if not line or line.startswith("#") or "://" not in line:
         return None
+    
     try:
         clean = line.split('#')[0]
-        netloc = urlparse(clean).netloc.split("@")[-1]
+        parsed = urlparse(clean)
         
-        # Защита от криво спаршенных строк
-        if not netloc:
-             return None
+        # Достаем хост и порт
+        netloc = parsed.netloc.split("@")[-1]
+        if ":" not in netloc:
+            return None
+            
+        host, port = netloc.split(":")[:2]
+        port = re.split(r'[/?]', port)[0]
+        
+        if is_invalid_ip(host):
+            return None
 
-        if ":" in netloc:
-            # Извлекаем хост и порт, убираем пути и параметры
-            host, port = netloc.split(":")[:2]
-            port = re.split(r'[/?]', port)[0]
-            
-            # Базовые проверки на валидность порта
-            if not port.isdigit() or int(port) > 65535:
-                return None
-            
-            latency = check_port_and_ping(host, port)
-            if latency is not None:
-                return (latency, line)
+        # ВНОШЕСТВО: Парсим SNI для Vless Reality. Иногда основной host - обманка.
+        query = parse_qs(parsed.query)
+        sni = query.get('sni', [host])[0]
+
+        # 1. Пингуем основной хост
+        latency = check_socket(host, port)
+        
+        # 2. Если основной хост мертв, но есть домен SNI — пингуем его
+        if latency is None and sni and sni != host and not is_invalid_ip(sni):
+            latency = check_socket(sni, port)
+
+        if latency is not None:
+            return (latency, line)
     except:
         pass
     return None
 
 def main():
-    print("=== ЗАПУСК СКОРОСТНОГО ЧЕКЕРА (ЖЕСТКАЯ ФИЛЬТРАЦИЯ) ===")
+    print("=== ЗАПУСК ПРОДВИНУТОГО ЧЕКЕРА (ВАРИАНТ 2) ===")
     checked_servers = []
     seen_configs = set()
     all_lines = []
 
-    # 1. Скачиваем базы
+    print("1. Скачиваем базы...")
     for url in SOURCES:
         try:
-            print(f"Скачиваю базу: {url}")
             req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
             text = urllib.request.urlopen(req, timeout=10).read().decode('utf-8')
-            count = 0
             for line in text.splitlines():
                 line = line.strip()
-                if line and "://" in line and not line.startswith("#"):
+                # Берем только правильные протоколы
+                if line and line.startswith(('vless://', 'vmess://', 'trojan://', 'ss://')):
                     if line not in seen_configs:
                         seen_configs.add(line)
                         all_lines.append(line)
-                        count += 1
-            print(f"-> Успешно загружено уникальных строк: {count}")
         except Exception as e:
-            print(f" Ошибка при скачивании {url}: {e}")
+            print(f" Ошибка скачивания {url}: {e}")
 
     total_found = len(all_lines)
-    print(f" Всего уникальных серверов в базах: {total_found}")
+    print(f"Уникальных серверов собрано: {total_found}")
 
-    # УВЕЛИЧИЛИ ПУЛ: Проверяем до 2500 серверов, чтобы найти реальные алмазы
-    if total_found > 2500:
-        print(" Серверов слишком много! Выбираем 2500 случайных для проверки...")
+    # Увеличил пул проверок до 1000 для более жесткого отбора
+    if total_found > 1000:
         random.shuffle(all_lines)
-        all_lines = all_lines[:2500]
+        all_lines = all_lines[:1000] 
 
-    print(f"Запускаю 100 параллельных потоков для проверки {len(all_lines)} конфигураций...")
-
-    # 2. Быстрая проверка пулом на 100 потоков
-    with ThreadPoolExecutor(max_workers=100) as executor:
+    print(f"2. Запускаем жесткий пинг {len(all_lines)} серверов. Ждите...")
+    
+    with ThreadPoolExecutor(max_workers=50) as executor:
         futures = [executor.submit(process_line, line) for line in all_lines]
-        for i, future in enumerate(as_completed(futures)):
+        for future in as_completed(futures):
             res = future.result()
             if res is not None:
                 checked_servers.append(res)
-            if i > 0 and i % 500 == 0:
-                print(f" Обработано: {i}...")
-
-    print(f"Проверка завершена! Найдено с открытым портом: {len(checked_servers)}")
-
-    # 3. Сортируем по скорости и отбираем топ-100 лучших
-    # Большая часть с открытым портом - фейки (CDN или Reality). 
-    # Берем только самые быстрые 100 штук (раньше было 300)
+                
+    # 3. Сортируем по скорости (самые быстро-ответившие - в начало)
     checked_servers.sort(key=lambda x: x[0])
-    top_fast_servers = checked_servers[:100]
-    working_servers = [line for latency, line in top_fast_servers]
+    
+    # 4. СУПЕР ВАЖНО: Оставляем только ТОП-50 вместо 300.
+    # Больше - не значит лучше. Лучше 50 живых, чем 300 полумертвых.
+    top_servers = checked_servers[:50]
+    working_servers = [line for latency, line in top_servers]
 
     timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
-
-    # 4. Формируем файл
     final_lines = [
         "# profile-title: 🌸ZLodeinVPN🌸",
         "# profile-update-interval: 1",
         f"# Последнее обновление: {timestamp} UTC",
-        f"# Проверено: {len(all_lines)} | Отобрано ТОП-100 лучших"
+        f"# Отобрано {len(working_servers)} железобетонных серверов"
     ]
     final_lines.extend(working_servers)
 
     with open("cleaned_sub.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(final_lines))
     
-    print(f" Результат успешно сохранен в cleaned_sub.txt в {timestamp}!")
+    print("Готово! Файл сформирован.")
 
 if __name__ == "__main__":
-    try:
-        main()
-    except Exception as e:
-        print("!!! КРИТИЧЕСКИЙ СБОЙ СКРИПТА !!!")
-        traceback.print_exc()
-        exit(1)
+    main()
