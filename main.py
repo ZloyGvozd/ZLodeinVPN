@@ -3,6 +3,7 @@ import socket
 import re
 import time
 import traceback
+import random
 from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -20,8 +21,8 @@ SOURCES = [
 def check_port_and_ping(ip, port):
     try:
         start_time = time.perf_counter()
-        # Таймаут 2.0 секунды, чтобы не отсекать рабочие сервера с высоким пингом
-        sock = socket.create_connection((ip, int(port)), timeout=2.0)
+        # УВЕЛИЧИЛИ ТАЙМАУТ С 1.5 ДО 3.5 СЕКУНД (очень важно для VPN)
+        sock = socket.create_connection((ip, int(port)), timeout=3.5)
         sock.close()
         return time.perf_counter() - start_time
     except:
@@ -34,41 +35,29 @@ def process_line(line):
     try:
         clean = line.split('#')[0]
         netloc = urlparse(clean).netloc.split("@")[-1]
-        
-        # Обработка IPv6 и стандартных IPv4
-        if "]" in netloc:
-             host_port = netloc.split("]:")
-             if len(host_port) == 2:
-                 host = host_port[0].replace("[", "")
-                 port = re.split(r'[/?]', host_port[1])[0]
-             else:
-                 return None
-        elif ":" in netloc:
-            # IPv4
+        if ":" in netloc:
             host, port = netloc.split(":")[:2]
             port = re.split(r'[/?]', port)[0]
-        else:
-            return None
             
-        latency = check_port_and_ping(host, port)
-        if latency is not None:
-            return (latency, line)
+            latency = check_port_and_ping(host, port)
+            if latency is not None:
+                return (latency, line)
     except:
         pass
     return None
 
 def main():
-    print("=== ЗАПУСК СКОРОСТНОГО ЧЕКЕРА ===\n")
+    print("=== ЗАПУСК ЧЕКЕРА: МАКСИМАЛЬНЫЙ ПОИСК ===")
     checked_servers = []
     seen_configs = set()
     all_lines = []
 
-    # 1. Скачиваем ВСЕ базы
+    # 1. Скачиваем базы
     for url in SOURCES:
         try:
-            print(f"Скачиваю: {url}")
+            print(f"Скачиваю базу: {url}")
             req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-            text = urllib.request.urlopen(req, timeout=10).read().decode('utf-8')
+            text = urllib.request.urlopen(req, timeout=15).read().decode('utf-8')
             count = 0
             for line in text.splitlines():
                 line = line.strip()
@@ -77,34 +66,37 @@ def main():
                         seen_configs.add(line)
                         all_lines.append(line)
                         count += 1
-            print(f" -> Добавлено: {count} шт.")
+            print(f"-> Успешно загружено уникальных строк: {count}")
         except Exception as e:
-            print(f" Ошибка : {e}")
+            print(f" Ошибка при скачивании {url}: {e}")
 
     total_found = len(all_lines)
-    print(f"\nВсего собрано уникальных серверов: {total_found}")
-    print(f"Запускаю 200 параллельных потоков (GitHub Actions мощный, это займет мало времени)...\n")
+    print(f" Всего уникальных серверов в базах: {total_found}")
 
-    # 2. Массовая проверка ВСЕХ серверов в 200 потоков
-    with ThreadPoolExecutor(max_workers=200) as executor:
+    # Увеличили лимит с 500 до 3500! Чтобы проверить все доступные в репозиториях.
+    if total_found > 3500:
+        print(" Серверов очень много! Берем случайные 3500 для проверки...")
+        random.shuffle(all_lines)
+        all_lines = all_lines[:3500]
+
+    print(f"Запускаю 120 параллельных потоков для проверки {len(all_lines)} конфигураций...")
+
+    # 2. Быстрая проверка пулом. Потоков теперь 120.
+    with ThreadPoolExecutor(max_workers=120) as executor:
         futures = [executor.submit(process_line, line) for line in all_lines]
         for i, future in enumerate(as_completed(futures)):
             res = future.result()
             if res is not None:
                 checked_servers.append(res)
-            
-            # Лог прогресса каждые 500 штук
-            if i > 0 and i % 500 == 0:
-                print(f" Проверено: {i} / {total_found} | Найдено живых на тест: {len(checked_servers)}")
+            if i > 0 and i % 300 == 0:
+                print(f" Проверено: {i} / {len(all_lines)}...")
 
-    print(f"\nПроверка завершена! На порт откликнулись: {len(checked_servers)} серверов.")
+    print(f"Проверка завершена! Найдено живых серверов: {len(checked_servers)}")
 
-    # 3. Сортируем по скорости (от самого быстрого к медленному)
+    # 3. Сортируем по скорости и отбираем топ-150 лучших
+    # Можешь поменять цифру 150 ниже на 100 или 200, если нужно
     checked_servers.sort(key=lambda x: x[0])
-    
-    # Отбираем РОВНО ТОП-100 самых быстрых
-    top_limit = 100
-    top_fast_servers = checked_servers[:top_limit]
+    top_fast_servers = checked_servers[:150]
     working_servers = [line for latency, line in top_fast_servers]
 
     timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
@@ -114,14 +106,14 @@ def main():
         "# profile-title: 🌸ZLodeinVPN🌸",
         "# profile-update-interval: 1",
         f"# Последнее обновление: {timestamp} UTC",
-        f"# Успешных коннектов: {len(checked_servers)} | Отобрано топ-{len(working_servers)} самых быстрых"
+        f"# Всего проверено: {len(all_lines)} | Живых: {len(checked_servers)} | Отобрано топ-{len(working_servers)} лучших"
     ]
     final_lines.extend(working_servers)
 
     with open("cleaned_sub.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(final_lines))
     
-    print(f"Результат ({len(working_servers)} серверов) сохранен в cleaned_sub.txt!")
+    print(f" Результат успешно сохранен в cleaned_sub.txt!")
 
 if __name__ == "__main__":
     try:
