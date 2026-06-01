@@ -43,7 +43,7 @@ def test_all(parsed_configs):
         vendor_path=str(project_root / "vendor"),
         core_engine_path=str(project_root / "core_engine")
     )
-    results = tester.test_uris(parsed_configs, timeout=60)
+    results = tester.test_uris(parsed_configs, timeout=120)
     #print(f"Results: {results}")
     return results
 
