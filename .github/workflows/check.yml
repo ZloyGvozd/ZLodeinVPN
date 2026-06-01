@@ -40,6 +40,9 @@ jobs:
     - name: Run checker script
       run: python main.py
 
+    - name: Run converter script
+      run: python converter.py
+
     - name: Commit and Push changes
       run: |
         git config --local user.email "actions@github.com"
