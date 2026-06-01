@@ -38,7 +38,7 @@ jobs:
 
     # Запускаем скрипт. sudo здесь больше не нужен, так как библиотеки установлены в текущего пользователя.
     - name: Run checker script
-      run: python main.py
+      run: python checker.py
 
     - name: Run converter script
       run: python converter.py
