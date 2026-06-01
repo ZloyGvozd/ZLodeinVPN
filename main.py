@@ -124,7 +124,7 @@ def main():
 
     # 4. Формируем файл
     final_lines = [
-        "# profile-title: 🌸ZLodeinVPN🌸",
+        "# profile-title: 🌸ZlodeinVPN mod by ZloyGvozd🌸",
         "# profile-update-interval: 1",
         f"# Последнее обновление: {timestamp} UTC",
         f"# Всего проверено: {len(all_lines)} | Живых: {len(checked_servers)} | Отобрано топ лучших"
