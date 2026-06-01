@@ -99,7 +99,7 @@ def main():
     for sub in splited_subs:
         timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
         final_lines = [
-            "# profile-title: 🌸ZlodeinVPN mod by ZloyGvozd🌸",
+            f"# profile-title: 🐟{sub} | {timestamp}",
             "# profile-update-interval: 1",
             f"# Последнее обновление: {timestamp} UTC"
         ]
