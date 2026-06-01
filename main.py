@@ -13,6 +13,8 @@ from python_v2ray.config_parser import parse_uri
 import logging
 logging.basicConfig(level=logging.WARNING)
 logging.getLogger().setLevel(logging.WARNING)
+import base64
+from urllib.parse import quote, urlencode
 
 SOURCES = [
     "https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt",
@@ -102,16 +104,22 @@ def main():
         config["result"] = servers_lookup.get(tag)
 
     for config in parsed_configs:
+        config["uri"] = all_lines[int(config.get("tag"))]
+
+    for config in parsed_configs:
         config["tag"] = reserve_tags[int(config.get("tag"))]
 
     print(f"Проверка завершена! Найдено живых серверов: {len(checked_servers)}")
 
-    print(parsed_configs)
+    #print(parsed_configs)
     parsed_configs = [server for server in parsed_configs if(server["result"]["ping_ms"]!=-1)]
     parsed_configs.sort(key=lambda x: x["result"]["ping_ms"])
-    top_fast_servers = parsed_configs[:150]
+    top_fast_servers = parsed_configs[:200]
     print(top_fast_servers)
 
+    out = []
+    for server in top_fast_servers:
+        out.append(server.get("uri"))
     timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
 
     # 4. Формируем файл
@@ -121,7 +129,7 @@ def main():
         f"# Последнее обновление: {timestamp} UTC",
         f"# Всего проверено: {len(all_lines)} | Живых: {len(checked_servers)} | Отобрано топ лучших"
     ]
-    #final_lines.extend(working_servers)
+    final_lines.extend(out)
 
     with open("cleaned_sub.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(final_lines))
