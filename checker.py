@@ -8,6 +8,8 @@ from python_v2ray.tester import ConnectionTester
 from python_v2ray.config_parser import parse_uri
 import logging
 from pprint import pprint
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 #отключение логов у библиотеки
 logging.basicConfig(level=logging.WARNING)
@@ -97,11 +99,11 @@ def main():
         splited_subs[sub] = splited_subs[sub][:50]
 
     for sub in splited_subs:
-        timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
+        moscow_time = datetime.now(ZoneInfo("Europe/Moscow"))
+        timestamp = moscow_time.strftime("%Y-%m-%d %H:%M:%S")
         final_lines = [
-            f"# profile-title: 🐟{sub} | {timestamp}",
-            "# profile-update-interval: 1",
-            f"# Последнее обновление: {timestamp} UTC"
+            f"# profile-title: 🐟 {sub} | {timestamp}",
+            "# profile-update-interval: 1"
         ]
         out = []
         for server in splited_subs[sub]:
