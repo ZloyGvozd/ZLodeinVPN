@@ -6,6 +6,13 @@ import traceback
 import random
 from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
+from python_v2ray.downloader import BinaryDownloader
+from python_v2ray.tester import ConnectionTester
+from python_v2ray.config_parser import parse_uri
+import logging
+logging.basicConfig(level=logging.WARNING)
+logging.getLogger().setLevel(logging.WARNING)
 
 SOURCES = [
     "https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt",
@@ -18,33 +25,25 @@ SOURCES = [
     "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt"
 ]
 
-def check_port_and_ping(ip, port):
-    try:
-        start_time = time.perf_counter()
-        # УВЕЛИЧИЛИ ТАЙМАУТ С 1.5 ДО 3.5 СЕКУНД (очень важно для VPN)
-        sock = socket.create_connection((ip, int(port)), timeout=3.5)
-        sock.close()
-        return time.perf_counter() - start_time
-    except:
-        return None
+#SOURCES = ["https://raw.githubusercontent.com/zlodeih/ZLodeinVPN/refs/heads/main/cleaned_sub.txt"]
 
-def process_line(line):
-    line = line.strip()
-    if not line or line.startswith("#") or "://" not in line:
-        return None
-    try:
-        clean = line.split('#')[0]
-        netloc = urlparse(clean).netloc.split("@")[-1]
-        if ":" in netloc:
-            host, port = netloc.split(":")[:2]
-            port = re.split(r'[/?]', port)[0]
-            
-            latency = check_port_and_ping(host, port)
-            if latency is not None:
-                return (latency, line)
-    except:
-        pass
-    return None
+project_root = Path("./")
+print("--- Verifying binaries ---")
+try:
+    downloader = BinaryDownloader(project_root)
+    downloader.ensure_all()
+except Exception as e:
+    print(f"Fatal Error: {e}")
+
+def test_all(parsed_configs):
+    #print(f"Parsed configs: {parsed_configs}")
+    tester = ConnectionTester(
+        vendor_path=str(project_root / "vendor"),
+        core_engine_path=str(project_root / "core_engine")
+    )
+    results = tester.test_uris(parsed_configs, timeout=60)
+    #print(f"Results: {results}")
+    return results
 
 def main():
     print("=== ЗАПУСК ЧЕКЕРА: МАКСИМАЛЬНЫЙ ПОИСК ===")
@@ -79,25 +78,39 @@ def main():
         random.shuffle(all_lines)
         all_lines = all_lines[:3500]
 
-    print(f"Запускаю 120 параллельных потоков для проверки {len(all_lines)} конфигураций...")
+    print(f"Запускаю проверки {len(all_lines)} конфигураций...")
 
-    # 2. Быстрая проверка пулом. Потоков теперь 120.
-    with ThreadPoolExecutor(max_workers=120) as executor:
-        futures = [executor.submit(process_line, line) for line in all_lines]
-        for i, future in enumerate(as_completed(futures)):
-            res = future.result()
-            if res is not None:
-                checked_servers.append(res)
-            if i > 0 and i % 300 == 0:
-                print(f" Проверено: {i} / {len(all_lines)}...")
+    reserve_tags = {}
+    parsed_configs = [p for p in (parse_uri(uri) for uri in all_lines) if p]
+    for i in range(len(parsed_configs)):
+        reserve_tags[i] = parsed_configs[i].display_tag
+        parsed_configs[i].tag = str(i)
+        parsed_configs[i].display_tag = str(i)
+
+    print(parsed_configs[0])
+    checked_servers = test_all(parsed_configs)
+
+    parsed_configs = [vars(obj) for obj in parsed_configs]
+
+    # 1. Создаем быстрый справочник из второго списка по ключу "tag"
+    servers_lookup = {server["tag"]: server for server in checked_servers}
+
+    # 2. Проходим по первому списку и безопасно добавляем совпадения
+    for config in parsed_configs:
+        tag = config.get("tag")
+        # Ищем сервер по тегу. Если не нашли, запишется None (можно заменить на {})
+        config["result"] = servers_lookup.get(tag)
+
+    for config in parsed_configs:
+        config["tag"] = reserve_tags[int(config.get("tag"))]
 
     print(f"Проверка завершена! Найдено живых серверов: {len(checked_servers)}")
 
-    # 3. Сортируем по скорости и отбираем топ-150 лучших
-    # Можешь поменять цифру 150 ниже на 100 или 200, если нужно
-    checked_servers.sort(key=lambda x: x[0])
-    top_fast_servers = checked_servers[:150]
-    working_servers = [line for latency, line in top_fast_servers]
+    print(parsed_configs)
+    parsed_configs = [server for server in parsed_configs if(server["result"]["ping_ms"]!=-1)]
+    parsed_configs.sort(key=lambda x: x["result"]["ping_ms"])
+    top_fast_servers = parsed_configs[:150]
+    print(top_fast_servers)
 
     timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
 
@@ -106,19 +119,23 @@ def main():
         "# profile-title: 🌸ZLodeinVPN🌸",
         "# profile-update-interval: 1",
         f"# Последнее обновление: {timestamp} UTC",
-        f"# Всего проверено: {len(all_lines)} | Живых: {len(checked_servers)} | Отобрано топ-{len(working_servers)} лучших"
+        f"# Всего проверено: {len(all_lines)} | Живых: {len(checked_servers)} | Отобрано топ лучших"
     ]
-    final_lines.extend(working_servers)
+    #final_lines.extend(working_servers)
 
     with open("cleaned_sub.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(final_lines))
-    
+
     print(f" Результат успешно сохранен в cleaned_sub.txt!")
+
 
 if __name__ == "__main__":
     try:
         main()
+        None
     except Exception as e:
         print("!!! КРИТИЧЕСКИЙ СБОЙ СКРИПТА !!!")
         traceback.print_exc()
         exit(1)
+
+#process_line("vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.24:2087?security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#%F0%9F%87%A9%F0%9F%87%AA%20%5BVL%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%237650%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd")
