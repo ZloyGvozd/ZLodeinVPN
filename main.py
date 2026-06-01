@@ -145,5 +145,3 @@ if __name__ == "__main__":
         print("!!! КРИТИЧЕСКИЙ СБОЙ СКРИПТА !!!")
         traceback.print_exc()
         exit(1)
-
-#process_line("vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.24:2087?security=tls&sni=fgnix832fx.fx6hsv0.ccwu.cc&type=ws&headerType=none&host=fgnix832fx.fx6hsv0.ccwu.cc&path=/#%F0%9F%87%A9%F0%9F%87%AA%20%5BVL%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%237650%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd")

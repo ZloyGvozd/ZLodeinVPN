@@ -3,6 +3,7 @@ on:
   schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
+
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -12,24 +13,51 @@ jobs:
     - uses: actions/checkout@v4
       with:
         fetch-depth: 0
-        
+
     - uses: actions/setup-python@v5
       with:
         python-version: '3.10'
-        
-    - run: python main.py
-    
-    - run: |
+
+    # [ВАЖНО] Кэшируем бинарники V2Ray, чтобы не качать их каждый час и не поймать бан от GitHub API
+    - name: Cache V2Ray Binaries
+      uses: actions/cache@v3
+      with:
+        path: |
+          vendor
+          core_engine
+        key: v2ray-binaries-${{ runner.os }}-${{ hashFiles('main.py') }}
+        restore-keys: |
+          v2ray-binaries-${{ runner.os }}-
+
+    # [ВАЖНО] Устанавливаем библиотеки.
+    # Если у вас есть requirements.txt, лучше использовать: pip install -r requirements.txt
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install python-v2ray
+
+    # Запускаем скрипт. sudo здесь больше не нужен, так как библиотеки установлены в текущего пользователя.
+    - name: Run checker script
+      run: python main.py
+
+    - name: Commit and Push changes
+      run: |
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
-        git add cleaned_sub.txt
         
-        # Проверяем, есть ли реальные изменения в файле
-        if git diff --staged --quiet; then
-          echo "Файл не изменился, коммит не требуется."
+        # Проверяем, создался ли файл вообще
+        if [ -f "cleaned_sub.txt" ]; then
+          git add cleaned_sub.txt
+          
+          # Проверяем, есть ли реальные изменения в файле
+          if git diff --staged --quiet; then
+            echo "Файл не изменился, коммит не требуется."
+          else
+            git commit -m "Auto-update servers [skip ci]"
+            git pull --rebase origin main
+            git push origin main
+          fi
         else
-          git commit -m "Auto-update servers"
-          # Аккуратно подтягиваем изменения, если они были сделаны вручную на сайте
-          git pull --rebase origin main
-          git push origin main
+          echo "Ошибка: Файл cleaned_sub.txt не был создан скриптом!"
+          exit 1
         fi
