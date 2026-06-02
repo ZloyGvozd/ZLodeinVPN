@@ -96,22 +96,35 @@ def main():
 
     for sub in splited_subs:
         splited_subs[sub].sort(key=lambda x: x["result"]["ping_ms"])
-        splited_subs[sub] = splited_subs[sub][:50]
+        splited_subs[sub] = splited_subs[sub][:40]
 
+    moscow_time = datetime.now(ZoneInfo("Europe/Moscow"))
+    timestamp = moscow_time.strftime("%Y-%m-%d %H:%M:%S")
+    write_to_all = []
+    lte_list = []
     for sub in splited_subs:
-        moscow_time = datetime.now(ZoneInfo("Europe/Moscow"))
-        timestamp = moscow_time.strftime("%Y-%m-%d %H:%M:%S")
         final_lines = [
             f"# profile-title: 🐟 {sub} | {timestamp}",
             "# profile-update-interval: 1"
         ]
         out = []
         for server in splited_subs[sub]:
+            if "lte" in server.get("uri").lower():
+                lte_list.append(server.get("uri"))
             out.append(server.get("uri"))
         final_lines.extend(out)
+        write_to_all.extend(out)
 
-        with open(sub+".txt", "w", encoding="utf-8") as f:
+        with open(f"out_configs/{sub}.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(final_lines))
+
+    write_to_all = [f"# profile-title: 🐟 all | {timestamp}","# profile-update-interval: 1"] + write_to_all
+    lte_list = [f"# profile-title: 🐟 all_lte | {timestamp}", "# profile-update-interval: 1"] + lte_list
+
+    with open(f"out_configs/all.txt", "w", encoding="utf-8") as f:
+        f.write("\n".join(write_to_all))
+    with open(f"out_configs/all_lte.txt", "w", encoding="utf-8") as f:
+        f.write("\n".join(lte_list))
 
 if __name__ == "__main__":
     main()

@@ -25,7 +25,7 @@ jobs:
         path: |
           vendor
           core_engine
-        key: v2ray-binaries-${{ runner.os }}-${{ hashFiles('main.py') }}
+        key: v2ray-binaries-${{ runner.os }}-${{ hashFiles('checker.py') }}
         restore-keys: |
           v2ray-binaries-${{ runner.os }}-
 
