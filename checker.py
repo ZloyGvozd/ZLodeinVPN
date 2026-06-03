@@ -1,3 +1,4 @@
+import random
 import urllib.request
 from pathlib import Path
 from python_v2ray.downloader import BinaryDownloader
@@ -86,6 +87,10 @@ def main():
         parse_all.extend(parsed)
         parse_dict_all.extend(parsed_dict)
 
+    if(len(parse_all) >= 150):
+        random.shuffle(parse_all)
+        parse_all = parse_all[:150]
+
     #сортировка по тегам
     tested = test_all(parse_all)
     servers_lookup = {server["tag"]: server for server in tested}
@@ -93,6 +98,8 @@ def main():
         tag = config.get("tag")
         config["result"] = servers_lookup.get(tag)
     del parse_all
+
+    parse_dict_all = [server for server in parse_dict_all if(server["result"])]
 
     parse_dict_all = [server for server in parse_dict_all if(server["result"]["ping_ms"]!=-1)]
 
