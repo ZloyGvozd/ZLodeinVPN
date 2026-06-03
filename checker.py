@@ -1,19 +1,29 @@
 import urllib.request
-import time
-import traceback
-import random
 from pathlib import Path
 from python_v2ray.downloader import BinaryDownloader
 from python_v2ray.tester import ConnectionTester
 from python_v2ray.config_parser import parse_uri
 import logging
-from pprint import pprint
 from datetime import datetime
 from zoneinfo import ZoneInfo
+import sys
 
 #отключение логов у библиотеки
 logging.basicConfig(level=logging.WARNING)
 logging.getLogger().setLevel(logging.WARNING)
+
+class TimeoutErrorHandler(logging.Handler):
+    def emit(self, record):
+        log_message = self.format(record)
+        # Если прилетел лог с нашей ошибкой
+        if "Timeout: Not all proxy SOCKS ports became ready" in log_message:
+            print("\n[КРИТИЧЕСКАЯ ОШИБКА] Обнаружен таймаут прокси! Завершение работы...", file=sys.stderr)
+            sys.exit(1) # Завершаем код с ошибкой (exit code 1)
+
+# 3. Регистрируем перехватчик в системе логирования
+root_logger = logging.getLogger()
+handler = TimeoutErrorHandler()
+root_logger.addHandler(handler)
 
 #скачивает бинарники
 project_root = Path("./")
