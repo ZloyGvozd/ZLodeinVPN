@@ -1,2 +1,4 @@
-# profile-title: 🐟 nothing | 2026-06-03 16:05:48
+# profile-title: 🐟 nothing | 2026-06-03 21:16:24
 # profile-update-interval: 1
+vless://af555232-0c87-487b-bcb0-87a378a1a371@usa6.odavpn.online:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=www.kinopoisk.ru&fp=chrome&pbk=CJ1B3eJWwwIUmz2BGFis0tNpas8fnwXTeri-dkhCclo&sid=aabbccdd&type=xhttp&path=%2FdF6yXt9bRj3Lh2qVp7Nw#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20www.kinopoisk.ru
+vless://af555232-0c87-487b-bcb0-87a378a1a371@usa6.odavpn.online:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=reality&sni=www.kinopoisk.ru&fp=chrome&pbk=CJ1B3eJWwwIUmz2BGFis0tNpas8fnwXTeri-dkhCclo&sid=aabbccdd&type=xhttp&host=www.kinopoisk.ru&path=%2FdF6yXt9bRj3Lh2qVp7Nw&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20www.kinopoisk.ru
