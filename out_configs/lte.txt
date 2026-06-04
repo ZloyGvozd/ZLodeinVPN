@@ -1,5 +1,4 @@
-# profile-title: 🐟 lte | 2026-06-04 13:54:15
+# profile-title: 🐟 lte | 2026-06-04 16:52:44
 # profile-update-interval: 1
-vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwiYWlkIjoiMCIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwiaWQiOiJkZjljOTM1NS1iMDJjLTRjMTItOTA5ZC0wZGJlYjcyNWQ1MmIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Hs/Cfh7EgVGhlIE5ldGhlcmxhbmRzIHwgWypDSURSXSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidiI6IjIiLCJzY3kiOiJhdXRvIiwiYWxwbiI6IiIsImZwIjoiIn0=
-vless://db3355c6-9c50-43ef-b378-782d9efeb4a8@64.188.63.152:443?type=tcp&encryption=none&security=reality&pbk=98abGlGIU1BrVR_9rN-V-2K4gODAzFPEfNAZphIt2F8&fp=chrome&sni=www.google.com%3A443&sid=a801e3e86c&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://argoovpn@argovpn.imanaghapour.ir:19326?encryption=none&fp=chrome&pbk=z9FqCc1BwCVF0PRFlaW3JrADk2ImO9a4QmbDeYk4qx0&security=reality&sid=4cf9831d1922&sni=www.samsung.com&spx=/dz1wtigT6WmYfHq&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
+vless://e77e2c21-f469-4474-8f94-e2f2e67fcb58@d.lv-cdn.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=d.lv-cdn.ru&fp=edge&pbk=fHNZm9NrW_3Bp9xzCZhhoPuL4DFLqfaPu-uBhPE6dW4&sid=7a3f9e2b1c8d4f6a&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D
+vless://63a16ebb-8687-42ac-972a-5914cafad1d5@146.185.211.107:8444?type=tcp&headerType=none&security=reality&encryption=none&sni=yandex.ru&fp=chrome&pbk=hL6rNCNtquIMhYV8V3WOrowSgIwko61yQIX2o1w6_lY&sid=0d62c138f2bf1ba8&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D%20VK
