@@ -1,4 +1,4 @@
-# profile-title: 🐟 nothing | 2026-06-05 02:00:50
+# profile-title: 🐟 nothing | 2026-06-05 05:12:44
 # profile-update-interval: 1
-vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@82.202.169.202:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20id.vk.com
-vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@83.136.235.101:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5BSNI-RU%5D%20id.vk.com
+vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@45.142.44.12:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20id.vk.com
+vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@80.64.24.185:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20%5BSNI-RU%5D%20id.vk.com

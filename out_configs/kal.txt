@@ -1,10 +1,6 @@
-# profile-title: 🐟 kal | 2026-06-05 02:00:50
+# profile-title: 🐟 kal | 2026-06-05 05:12:44
 # profile-update-interval: 1
-vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@45.8.93.12:443?sid=f37fb7531c60780d&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&flow=xtls-rprx-vision&type=tcp&sni=newsw.stardevs.top&pbk=YU7hzDkfhfrA8v2rhMEUhgh7EQs4mHX9M60fkraccis&fp=chrome#🇸🇪🚀%20Швеция%20[🏳️LTE]%20|%20🥭🔥
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@217.16.21.116:5443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ#🇧🇸🚀%20Эщкерия%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376&security=&type=tcp?security=none&encryption=none&type=tcp&seq=you_are_beautiful0211#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
-vless://9168313a-6528-4567-ab18-173c8c86fc26@hd.teleincognito.com:80?path=%2FtdM8fSnq1aRrgXTanQ7vaHEIH3&host=hd.teleincognito.com&encryption=none&type=ws&security=none&descriptions=люби_себяe2465e#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@144.31.171.102:4443?type=grpc&security=none#🇸🇪🚀%20Швеция%20[🏳️LTE]%20|%20🥭🔥
-vless://e84064cc-617f-4ba8-aa6f-13e920fd2610@104.21.23.131:80?host=main.boobie.eu.cc&Telegram=&Telegram=&Telegram=&type=ws&security=none&Telegram=&path=/&encryption=none&Telegram=#🇫🇮🚀%20Финляндия%20[🏳️LTE]%20|%20🥭🔥
-vless://18b81103-30a2-4d92-96b8-3fca27c22a90@artmis2.rostamii.ir:8443?security=none&host=ap.isowli.ir&path=%2F&encryption=none&type=ws#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
-vless://d78c12c4-6927-40b8-8550-ed9be00334da@nether2cxc.ignorelist.com:443?sid=22f2d3f943dfcb40&sni=nether2cxc.ignorelist.com&type=tcp&security=reality&flow=xtls-rprx-vision&pbk=MNfRDUdBmptd-zKqgIljosss5-oNO44Lt68hgVwa_Qo&encryption=none&fp=&descriptions=СвободуИнтернету406#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
+vless://a06565e7-b96a-41f0-91af-dea4dab20e54@64.188.91.26:443?encryption=none&headerType=none&fp=chrome&sni=addons.mozilla.org&flow=xtls-rprx-vision&pbk=lOCJA77F2V7AfA1aEvq32aYrXXuBoH-TM2q_gAe2b2c&type=tcp&security=reality#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
+vless://c2b6a323-19ec-4e4f-a95c-8b0e99aa7660@109.120.138.95:443?security=none&encryption=none&headerType=none&type=tcp&_t=f31151ea#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@52.144.45.118:11003?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=trNcbZqs-1u3CDgb9-NiL4AoZTtCvaq5trvMpgBYnDQ&sid=d2f6a308&sni=www.cloudflare.com&servername=www.cloudflare.com&spx=%2F&fp=safari&nonce=jRwzVbtd#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
+vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@us.healthy-connected.com:443?type=tcp&security=reality&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&sid=30e570274c0c72cc&fp=chrome&headertype=none&flow=xtls-rprx-vision#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
