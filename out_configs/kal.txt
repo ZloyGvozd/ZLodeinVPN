@@ -1,9 +1,2 @@
-# profile-title: 🐟 kal | 2026-06-05 21:53:55
+# profile-title: 🐟 kal | 2026-06-06 02:58:33
 # profile-update-interval: 1
-vless://dd0a1a36-cfbf-48ae-8436-4f0388b94b36@5.75.196.174:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&security=reality&sid=6f7ed5&sni=www.cloudflare.com&spx=%2FyGcn9VmlLfNSF0x&type=tcp&descriptions=СвободуИнтернету321#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
-vless://b9727d8b-8eaa-435d-b436-b655b9fdd98a@168.138.166.89:8899?allowInsecure=1&fp=qq&headerType=none&encryption=none&sid=f0cce996&flow=xtls-rprx-vision&type=tcp&sni=www.lovelive-anime.jp&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&security=reality#🇸🇬🚀%20Сингапур%20[🏳️LTE]%20|%20🥭🔥
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880/?flow=&type=grpc&encryption=none#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
-vless://2c36bf33-1ec0-45e8-84af-84eeccd56ca5@45.152.67.34:47488?security=none&headertype=none&type=tcp&burmalda=8d87ad2d#🇬🇧🚀%20Великобритания%20[🏳️LTE]%20|%20🥭🔥
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.120:8880?type=grpc&descriptions=люби_себяa7c905#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
-vless://64297ec6-f701-49a7-8337-31af0561debc@de7.niekotin.de:80?path=%2Fvless&security=&encryption=none&host=de7.niekotin.de&type=ws&freeinternet=kizyak_vpn1780681776671#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
-vless://bee8df77-2780-5a7b-b005-9da84fcb7aaf@ru-lv.illusion-vpn.ru:443?sid=9ec378e393a94f&headerType=none&fp=firefox&flow=xtls-rprx-vision&type=tcp&encryption=none&pbk=86DiKd_LyZ_9L4WyaADZsNJH5wnaTGoZyywz0CGFYwg&spx=%2F&security=reality&sni=ru-lv.illusion-vpn.ru#🇪🇺🚀%20Европа%20[🏳️LTE]%20|%20🥭🔥
