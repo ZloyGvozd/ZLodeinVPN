@@ -1,5 +1,4 @@
-# profile-title: 🐟 lte2 | 2026-06-05 19:25:35
+# profile-title: 🐟 lte2 | 2026-06-05 21:53:55
 # profile-update-interval: 1
-hysteria2://05d79f12-6a07-47ce-a566-5d5f571b8c59@103.88.241.133:8443?sni=slopllex.app&insecure=0&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-vless://478ada59-0a0a-4467-9d76-af3dcbdfd4eb@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-vless://7283d2d5-7b14-431b-9d1f-96f2dac4a97b@83.229.14.125:13569?encryption=none&flow=xtls-rprx-vision&security=reality&sni=business.vk.ru&pbk=Xl6notHrxamdPvx0cZGGPRQOT-PR1rkjryRazI9i1VI&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://322d6d6e-2e34-4ef5-b866-35dab761f1ab@gam2r.skystreamgame.com:8443?security=reality&encryption=none&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=gam2r.skystreamgame.com&sid=6d6f13013d3e1d0c#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+hysteria2://05d79f12-6a07-47ce-a566-5d5f571b8c59@103.88.241.133:8443?headerType=none&encryption=none&sni=slopllex.app&insecure=0#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
