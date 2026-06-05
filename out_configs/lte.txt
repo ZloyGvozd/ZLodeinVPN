@@ -1,4 +1,3 @@
-# profile-title: 🐟 lte | 2026-06-05 16:48:01
+# profile-title: 🐟 lte | 2026-06-05 19:25:35
 # profile-update-interval: 1
-vless://c09f00bc-ef4c-441e-8317-17ac954c54ad@ss.ll0ll.vip:2096?mode=gun&security=reality&encryption=none&authority=&echfq=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&allowinsecure=0&type=grpc&serviceName=vless-grpc-reality&sni=id.vk.com#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B%2ACIDR%5D
-hysteria2://05d79f12-6a07-47ce-a566-5d5f571b8c59@103.88.241.133:8443?sni=slopllex.app&insecure=0&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://05d79f12-6a07-47ce-a566-5d5f571b8c59@103.88.241.133:8443?headerType=none&encryption=none&sni=slopllex.app&insecure=0#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
