@@ -1,5 +1,3 @@
-# profile-title: 🐟 nothing | 2026-06-07 00:56:04
+# profile-title: 🐟 nothing | 2026-06-07 01:56:05
 # profile-update-interval: 1
-vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@78.17.134.254:47200?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=stats.vk-portal.net&fp=firefox&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE&sid=b2a9bd658fc81dc6#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5BSNI-RU%5D%20stats.vk-portal.net
-vless://ffaa8e95-74e2-4ef4-8974-69dd3651b6f9@194.93.0.180:47200?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=stats.vk-portal.net&fp=firefox&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE&sid=b2a9bd658fc81dc6#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20stats.vk-portal.net
-vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l1-2.l-itx.info:443?type=xhttp&security=reality&fp=firefox&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3&sni=yandex.by&path=/xh&mode=stream-up&extra={"scMaxEachPostBytes":1000000.0,"scMaxConcurrentPosts":100.0,"scMinPostsIntervalMs":30.0,"xPaddingBytes":"100-1000","noGRPCHeader":false}#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20yandex.by
+vless://38f8b792-9e44-40d2-ab8d-c3bfc0b71bdc@78.17.134.254:47200?encryption=none&security=reality&sni=stats.vk-portal.net&fp=qq&pbk=aom9XGtg9tre2RGo8XkCaRqlE02nrZ4smmnpLpzidRE&sid=b2a9bd658fc81dc6&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5BSNI-RU%5D%20stats.vk-portal.net
