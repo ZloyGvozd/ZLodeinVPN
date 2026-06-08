@@ -1,11 +1,7 @@
-# profile-title: 🐟 universal | 2026-06-08 11:44:34
+# profile-title: 🐟 universal | 2026-06-08 19:45:31
 # profile-update-interval: 1
-vless://0687273a-23e8-4735-97c2-db4d88cc0f6d@84.201.166.160:443?encryption=none&type=grpc&security=tls&mode=gun&serviceName=%2Fsequre%2Fgrpc%2F&sni=95.85.246.14.speed-storage.ru#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%23294
-vless://8c636341-10e8-45e2-a78d-b4138769c8fb@51.250.17.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23174
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.158.107:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23179
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.159.156:8443?encryption=none&type=tcp&security=tls&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23189
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@185.233.186.88:443?encryption=none&type=xhttp&security=tls&path=%2Fvk&extra=null&fp=chrome&sni=es-xh-02.hpdata.click#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%E2%80%94%20%23109
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%239
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=qq&sni=loadtest.dev.urent.ru&pbk=_AXs-QnufIq918tbb2pwM3MDbe7kQ6i0cIHDMLwPmGs&sid=3210e0eee6605048#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23133
-vless://e8d0f687-b369-4071-9c9b-eb6c4359bf26@188.124.37.11:11443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.microsoft.com&pbk=WLGNuDVWlkss4TANQ6pBedJyLV-VM8CisOLWngsIzx0&sid=3ee506a4#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23195
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=loadtest.dev.urent.ru&pbk=aVu6XB9_RKR1xLtusyQ1_YOWCs4Ofi9GEJd6oERNH2Q&sid=689def22fcb54e86#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23134
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@188.225.58.59:443?encryption=none&type=xhttp&security=tls&path=%2Fvk&mode=packet-up&extra=null&sni=es-xh-02.hpdata.click#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%E2%80%94%20%23135
+vless://58981005-f75b-4feb-b376-6953a42f8fbe@51.250.24.232:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23117
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.159.141:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23219
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@213.171.24.172:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23214
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@82.202.156.143:8443?encryption=none&type=tcp&security=tls&fp=chrome&sni=cdn7-09.vk-cdnvideo.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%E2%80%94%20%23209
