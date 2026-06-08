@@ -1,8 +1,10 @@
-# profile-title: 🐟 lte | 2026-06-07 22:05:30
+# profile-title: 🐟 lte | 2026-06-08 11:44:34
 # profile-update-interval: 1
-vless://a321980f-54ce-432a-862a-76035b9d78ad@141.193.213.10:443/?type=ws&encryption=none&flow=&host=m.udemy.com.r3xxe.eu.cc&path=%2Fnl-tw&security=tls&sni=m.udemy.com.r3xxe.eu.cc&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-trojan://Telegram-Config0plus-983ced63-fcf0-4d15-b81b-432e32e9b932@141.193.213.11:443?path=/us-gllc&security=tls&sni=api24-normal.tiktokv.com.r3xxe.eu.cc&type=ws&sni=api24-normal.tiktokv.com.r3xxe.eu.cc#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D
-vless://d89a329c-c256-4956-ab21-517606ac3370@panels2.airboxvip.top:4028?type=tcp&security=none&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&fp=chrome&sni=ru-vk-5.1001notes.ru&path=/vk&mode=packet-up#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-trojan://humanity@216.24.57.6:443?security=tls&sni=www.calmloud.com&fp=chrome&alpn=http/1.1&type=ws&path=/assignment#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%5B%2ACIDR%5D
-trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D
+vless://c135158e-5869-4397-8116-6695ca18cd48@www.epicgames.com:443?encryption=none&security=tls&sni=cf.hulume.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cf.hulume.ccwu.cc&path=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@188.225.58.59:443?encryption=none&type=xhttp&security=tls&path=/vk&mode=packet-up&extra=null&fp=chrome&sni=es-xh-02.hpdata.click#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@188.225.58.59:443?type=xhttp&security=tls&path=/vk&sni=es-xh-02.hpdata.click&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
+vless://65321979-42ca-438e-89a4-9d22adad2781@max1r.skystreamgame.com:8080?type=xhttp&security=reality&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c&sni=ozon.ru&mode=auto#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-5.1001notes.ru:443?type=xhttp&security=tls&sni=ru-vk-5.1001notes.ru&path=%2Fvk&mode=auto#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@185.233.186.88:443?encryption=none&type=xhttp&security=tls&path=/vk&mode=packet-up&extra=null&fp=chrome&sni=es-xh-02.hpdata.click#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@es-xh-01.hpdata.click:443?type=xhttp&security=tls&sni=es-xh-01.hpdata.click&path=%2Fvk&mode=packet-up#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@es-xh-01.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=es-xh-01.hpdata.click&path=/vk#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%5B%2ACIDR%5D
