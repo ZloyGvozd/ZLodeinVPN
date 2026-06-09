@@ -1,10 +1,5 @@
-# profile-title: 🐟 universal2 | 2026-06-10 00:29:53
+# profile-title: 🐟 universal2 | 2026-06-10 02:09:46
 # profile-update-interval: 1
-vless://6585a62b-4d8b-48cc-bdad-e2542504d748@45.131.4.173:8443?type=xhttp&security=tls&path=/&sni=Itsrezu2.dr-ping.com&fp=chrome#🇧🇪 Бельгия 6 | [BL]%20t.me%2Frjsxrd
 vless://14ca5431-b1e3-4e70-909a-c8ed2b770adc@89.169.38.249.blanesik.space:443?encryption=none&security=tls&sni=89.169.38.249.blanesik.space&fp=safari&insecure=0&allowInsecure=0&type=grpc&authority=89.169.38.249.blanesik.space&serviceName=%2Fsequre%2Fgrpc&mode=gun#🇧🇦 Босния 1 | [BL]%20t.me%2Frjsxrd
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%20t.me%2Frjsxrd
-vless://8bbf020e-653f-4a82-9900-1214e4e37dab@195.184.247.138:443?flow=xtls-rprx-vision&fp=firefox&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&security=reality&sid=fcd9787f&sni=www.microsoft.com&type=tcp#🇬🇧 Великобритания 1 | [BL]%20t.me%2Frjsxrd
 vless://87e60810-bb71-41ea-a2a6-f05c8ab903ef@5.196.51.152:54809?type=tcp&security=reality&sni=dash.cloudflare.com&fp=chrome&flow=xtls-rprx-vision-udp443&pbk=06rvKjC9dE_Ndd-dw6B-0zAyEpn-jUs7mcNFAPQ_1G8&sid=b4b3#FR 🇫🇷 ┇ VLESS-TCP-RLT - OVH SAS ┇ 5.196.51.152%20t.me%2Frjsxrd
-vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:443?path=%2Ffl%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=mjtbknetmkhremge.ordak.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=mjtbknetmkhremge.ordak.qzz.io#CF%E4%B8%AD%E8%BD%AC_0609206700%20t.me%2Frjsxrd
-vless://8bbf020e-653f-4a82-9900-1214e4e37dab@103.119.18.159:443?security=reality&encryption=none&echfq=none&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=fcd9787f#🇨🇿 Чехия 2 | [BL]%20t.me%2Frjsxrd
-vless://8bbf020e-653f-4a82-9900-1214e4e37dab@45.151.183.101:443?flow=xtls-rprx-vision&fp=firefox&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&security=reality&sid=fcd9787f&sni=www.microsoft.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.249:443?path=%2Flivestreamcontent%2F&security=tls&encryption=none&insecure=0&host=top707762634.mwscdn.ru&fp=chrome&type=ws&allowInsecure=0&sni=top707762634.mwscdn.ru#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%5B%2ACIDR%5D%20t.me%2Frjsxrd
