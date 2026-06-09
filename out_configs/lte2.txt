@@ -1,3 +1,4 @@
-# profile-title: 🐟 lte2 | 2026-06-09 13:27:51
+# profile-title: 🐟 lte2 | 2026-06-09 16:37:11
 # profile-update-interval: 1
-vless://8cd00214-09da-48d9-8004-8281ff918d36@ru-selectel-01.com:8443?encryption=none&sni=sni.ru-selectel-01.com&security=reality&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=1c74cf626ef50bb3&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&udp=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://882e17c8-b013-4e99-9774-36e26e5001ff@185.242.19.250:443?encryption=none&type=xhttp&security=tls&path=/livestreamcontent/&extra=null&fp=chrome&sni=top3739667002.mwscdn.ru#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%5B%2ACIDR%5D
+vless://882e17c8-b013-4e99-9774-36e26e5001ff@185.242.19.249:443?encryption=none&type=xhttp&security=tls&path=/livestreamcontent&mode=auto&extra=null&sni=top3739667002.mwscdn.ru#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20%5B%2ACIDR%5D
