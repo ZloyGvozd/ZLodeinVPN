@@ -1,3 +1,5 @@
-# profile-title: 🐟 nothing | 2026-06-12 00:11:51
+# profile-title: 🐟 nothing | 2026-06-12 02:13:49
 # profile-update-interval: 1
-vless://f885cecc-a6ea-4e9b-87da-c7dc4b745348@uk.riotvpn.eu:8443?mode=multi&security=reality&encryption=none&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&fp=qq&type=grpc&serviceName=grpc-yandex&sni=avatars.mds.yandex.net&sid=844352756c1fabba#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5BSNI-RU%5D%20avatars.mds.yandex.net
+vless://8bbf020e-653f-4a82-9900-1214e4e37dab@45.91.55.234:7443?flow=xtls-rprx-vision&fp=firefox&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=rutube.ru&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20%5BSNI-RU%5D%20rutube.ru
+vless://1dfd369b-d13c-4a2d-89e8-60961656d1ce@109.237.98.81:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=uAabfPYujQGS9CY-h1on-TOtHU-y-vrumPXWo6G6AVg&sid=e92d8fca&sni=api-maps.yandex.ru&spx=/Z3n3VfMdMT9bjWg#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20api-maps.yandex.ru
+vless://1dfd369b-d13c-4a2d-89e8-60961656d1ce@109.237.98.81:8080?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=firefox&host=&mode=auto&path=%2F&pbk=QPIGKqqN_iEsm-7Wh-SGXKI77Srub_yvqIfq3dUU_SM&security=reality&sid=8ffcbc4643&sni=api-maps.yandex.ru&spx=%2FWPvYUmvLcDEecwm&type=xhttp&x_padding_bytes=100-1000#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20api-maps.yandex.ru
