@@ -1,4 +1,12 @@
-# profile-title: 🐟 kal | 2026-06-11 13:04:06
+# profile-title: 🐟 kal | 2026-06-11 17:29:49
 # profile-update-interval: 1
-vless://0a3da644-d343-443f-8c28-72c98d960cdb@140.82.59.79:8080?security=none&type=ws&encryption=none&path=%2Fws&host=snapp.ir&burmalda=d1a3a866#🇳🇱🚀%20Нидерланды%20[🏳️LTE]%20|%20🥭🔥
-vless://0a3da644-d343-443f-8c28-72c98d960cdb@140.82.59.79:8080?encryption=none&security=none&type=ws&host=snapp.ir&path=%2Fws&descriptions=люби_себя8bdbbd#🇳🇱🚀%20Нидерланды%20[🏳️LTE]%20|%20🥭🔥
+vless://734d7287-27d5-4ed4-ad86-8639669e0607@172.86.109.206:17121?encryption=none&security=none&type=ws&host=www.google.com&path=/&descriptions=СвободуИнтернету546#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
+vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.76.38.18:7443?fp=firefox&type=tcp&flow=xtls-rprx-vision&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&security=reality&sni=icloud.com&encryption=none&seq=you_are_beautiful6943#🇺🇸🚀%20США%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://5a96b986-1a96-4005-b5ae-45096ae6f85a@nl.locklance.lol:443?encryption=none&fp=chrome&security=reality&type=tcp&pbk=UOEIvOJ7skJaLjoj-jcLCh16Pg3esdl6bhHAX8737xk&spx=/&sid=00dfc715f34eb536&flow=xtls-rprx-vision&sni=nl.locklance.lol#🇳🇱🚀%20Нидерланды%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://5729c1fc-c7cf-41b7-8c17-f9b5f59772da@217.149.25.154:443?security=reality&encryption=none&fp=firefox&sni=abuse.sellflow.org&type=tcp&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇨🇭🚀%20Швейцария%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://5729c1fc-c7cf-41b7-8c17-f9b5f59772da@217.149.25.154:443?security=reality&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=abuse.sellflow.org&fp=firefox&encryption=none&type=tcp#🇨🇭🚀%20Швейцария%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://5a96b986-1a96-4005-b5ae-45096ae6f85a@142.91.98.248:443?flow=xtls-rprx-vision&fp=chrome&pbk=r1Kfa7J4LtBrAluydukevUSBeOo-1DvZJdvZGrWkOQg&security=reality&sid=6dba2e08344e6bf5&sni=sgp.locklance.lol&spx=/&type=tcp&seq=you_are_beautiful6649#🇸🇬🚀%20Сингапур%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://5fb6c5d2-629b-48c6-bb3c-595caf2007ee@47.80.24.245:8123?allowInsecure=1&pbk=ZXcygBPTlVUgYDMViBKgs2TXyRHcxVzo4lycLXOG1GQ&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&security=reality&fp=firefox&seq=you_are_beautiful3923#🇰🇷🚀%20Южная Корея%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://5fb6c5d2-629b-48c6-bb3c-595caf2007ee@47.80.24.245:8123?flow=xtls-rprx-vision&sni=addons.mozilla.org&pbk=ZXcygBPTlVUgYDMViBKgs2TXyRHcxVzo4lycLXOG1GQ&allowInsecure=1&security=reality&type=tcp&fp=firefox#🇰🇷🚀%20Южная Корея%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://5a96b986-1a96-4005-b5ae-45096ae6f85a@nl.locklance.lol:443?sni=nl.locklance.lol&security=reality&flow=xtls-rprx-vision&pbk=UOEIvOJ7skJaLjoj-jcLCh16Pg3esdl6bhHAX8737xk&encryption=none&sid=00dfc715f34eb536&fp=chrome&spx=/&type=tcp&descriptions=СвободуИнтернету156#🇳🇱🚀%20Нидерланды%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://5fb6c5d2-629b-48c6-bb3c-595caf2007ee@47.80.24.245:8123?pbk=ZXcygBPTlVUgYDMViBKgs2TXyRHcxVzo4lycLXOG1GQ&flow=xtls-rprx-vision&fp=firefox&type=tcp&security=reality&sni=addons.mozilla.org&allowInsecure=1&__rand=60ddc4b8#🇰🇷🚀%20Южная Корея%20🔐%20[🏳️LTE]%20|%20🥭🔥
