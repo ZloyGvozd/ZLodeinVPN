@@ -1,4 +1,4 @@
-# profile-title: 🐟 kal2 | 2026-06-13 00:24:05
+# profile-title: 🐟 kal2 | 2026-06-13 02:06:53
 # profile-update-interval: 1
-hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?insecure=1&sni=slopllex.app#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
-vless://ac006062-f051-43c6-bd4c-f409285c8635@192.200.160.120:443?encryption=none&type=xhttp&mode=auto&host=www.yallda.com&path=/v2raylink&security=tls&fp=chrome&sni=shop.yallda.com&alpn=http/1.1,h2#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+vless://08fc840b-e673-4031-aa2f-2663cadf838a@31.76.34.86:443?flow=xtls-rprx-vision&fp=firefox&pbk=QlqHO6ZquIkQtxA3F3T0JA74g40W2jqmoYOByIBX2QY&security=reality&sid=91b252bd7f15acc4&sni=ya.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%20|%20🥭🔧%20ya.ru
+vless://be018243-71b9-4e87-a6d0-db512d31c554@31.76.34.85:443?flow=xtls-rprx-vision&fp=firefox&pbk=Kk3tSi31p89ZivGdW0El-2MDshu_ILzK6h-xVnacT34&security=reality&sid=cd0aca5fd14e7546&sni=ya.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Сингапур%20|%20🥭🔧%20ya.ru
