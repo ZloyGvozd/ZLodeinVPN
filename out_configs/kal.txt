@@ -1,7 +1,6 @@
-# profile-title: 🐟 kal | 2026-06-12 10:12:21
+# profile-title: 🐟 kal | 2026-06-12 14:34:48
 # profile-update-interval: 1
 vless://b52de812-c5a7-4d1d-a945-a80d89962d92@restless-bread-773a.bademjonvpn.workers.dev:80?encryption=none&security=none&type=ws&host=restless-bread-773a.bademjonvpn.workers.dev&path=%2FeyJqdW5rIjoicXFmSWZOeTciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&descriptions=СвободуИнтернету607#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
-vless://6cd78ec7-b715-471c-92b4-0c3842caea4b@104.25.122.72:80?security=none&ed=2560&type=ws&eh=Sec-WebSocket-Protocol&path=%2FeyJqdW5rIjoiVXRIT2UwaDUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D&encryption=none&host=billowing-cloud-d339.sospanel.workers.dev#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
-vless://bb35decd-af9d-4aa5-a70e-1437dd80a54a@chess.com:2086?type=ws&security=none&path=%2F&host=andro010101111011111000000010101000000101010101.andro-meda.ir&encryption=none#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
-vless://Shh-proxy@45.131.5.144:8880?encryption=none&type=ws&host=shhp.akbarjoojeh.shop&path=/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY&descriptions=СвободуИнтернету959#🇳🇱🚀%20Нидерланды%20[🏳️LTE]%20|%20🥭🔥
-vless://9bccefee-13d9-4005-8cc4-c3fe3af87ed6@38.180.104.124:49709?type=ws&security=none&path=/&encryption=none#🇹🇷🚀%20Турция%20[🏳️LTE]%20|%20🥭🔥
+vless://Shh-proxy@45.131.5.144:8880?encryption=none&type=ws&host=shhp.akbarjoojeh.shop&path=/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY&burmalda=52f8c012#🇳🇱🚀%20Нидерланды%20[🏳️LTE]%20|%20🥭🔥
+vless://Shh-proxy@45.131.5.144:8880?encryption=none&type=ws&host=shhp.akbarjoojeh.shop&path=/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY&__rand=46284b45#🇳🇱🚀%20Нидерланды%20[🏳️LTE]%20|%20🥭🔥
+vless://a265805b-b887-4431-a3b4-fd6eb5647fac@31.76.93.56:8443?sni=eh.vk.com&flow=xtls-rprx-vision&type=tcp&sid=a987b6bd1781daa3&headerType=none&security=reality&pbk=BrGL0gTKK_Ir2VwJOa91Vd8870DswnOXhA6-F92RBGI&fp=randomized&encryption=none&seq=you_are_beautiful1092#🇩🇪🚀%20Германия%20🔐%20[🏳️LTE]%20|%20🥭🔥

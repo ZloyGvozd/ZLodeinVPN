@@ -1,6 +1,4 @@
-# profile-title: 🐟 lte2 | 2026-06-12 10:12:21
+# profile-title: 🐟 lte2 | 2026-06-12 14:34:48
 # profile-update-interval: 1
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.92:7443?type=grpc&security=reality&encryption=none&sni=loadtest.dev.urent.ru&fp=chrome&alpn=http%2F1.1&pbk=_AXs-QnufIq918tbb2pwM3MDbe7kQ6i0cIHDMLwPmGs&sid=3210e0eee6605048&headerType=none&serviceName=grpc&allowInsecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D%20VK
-hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?headerType=none&encryption=none&sni=slopllex.app&insecure=0#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-vless://11139aeb-0261-4ccb-9721-9897b6309e3d@93.77.184.41:443?flow=xtls-rprx-vision&fp=firefox&pbk=M2dek5DMa7H0A6CYcK6x4_JEamdFTsjFZP-gagZbTB8&security=reality&sid=e96bf646630a2071&sni=ya.ru&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D%20YA
-vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwiYWlkIjoiMCIsImFsbG93aW5zZWN1cmUiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsImlkIjoiZGY5YzkzNTUtYjAyYy00YzEyLTkwOWQtMGRiZWI3MjVkNTJiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7Pwn4exIFRoZSBOZXRoZXJsYW5kcyB8IFsqQ0lEUl0iLCJzY3kiOiJhdXRvIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?sni=slopllex.app#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+vless://ac006062-f051-43c6-bd4c-f409285c8635@192.200.160.120:443?encryption=none&type=xhttp&mode=auto&host=www.yallda.com&path=/v2raylink&security=tls&fp=chrome&sni=shop.yallda.com&alpn=http/1.1,h2#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
