@@ -1,6 +1,2 @@
-# profile-title: 🐟 kal2 | 2026-06-12 17:32:31
+# profile-title: 🐟 kal2 | 2026-06-12 20:31:04
 # profile-update-interval: 1
-hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?insecure=1&sni=slopllex.app#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
-vless://bbaaff1e-c914-4817-9d33-58be35a3bee6@186.246.19.177:10444?flow=xtls-rprx-vision&fp=firefox&pbk=praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4&security=reality&sid=378086fbdb7c61cd&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%20|%20🥭🔧%20api-maps.yandex.ru
-vless://aa9d833c-254b-4ce0-9bd4-2d535532f5d6@31.76.34.81:443?flow=xtls-rprx-vision&fp=firefox&pbk=jMx1Rx9vulp8Dqv1cSUYyhL31s2gXVCH0t_wvD9CCCA&security=reality&sid=ee7d1ed3c7d3c358&sni=ya.ru&type=tcp#%F0%9F%87%AE%F0%9F%87%B1%20Израиль%20%7C%20%F0%9F%8C%90%20|%20🥭🔧%20ya.ru
-vless://be018243-71b9-4e87-a6d0-db512d31c554@31.76.34.85:443?flow=xtls-rprx-vision&fp=firefox&pbk=Kk3tSi31p89ZivGdW0El-2MDshu_ILzK6h-xVnacT34&security=reality&sid=cd0aca5fd14e7546&sni=ya.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Сингапур%20|%20🥭🔧%20ya.ru
