@@ -1,3 +1,2 @@
-# profile-title: 🐟 nothing2 | 2026-06-12 05:30:45
+# profile-title: 🐟 nothing2 | 2026-06-12 10:12:21
 # profile-update-interval: 1
-vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.67.215.134:8443?encryption=none&type=xhttp&security=tls&mode=auto&extra=null&fp=chrome&sni=vo.new-persian-song.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
