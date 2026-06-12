@@ -1,2 +1,6 @@
-# profile-title: 🐟 kal2 | 2026-06-12 20:31:04
+# profile-title: 🐟 kal2 | 2026-06-12 22:51:31
 # profile-update-interval: 1
+vless://a265805b-b887-4431-a3b4-fd6eb5647fac@45.154.98.180:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=eh.vk.com&fp=chrome&pbk=BrGL0gTKK_Ir2VwJOa91Vd8870DswnOXhA6-F92RBGI&sid=a987b6bd1781daa3&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20|%20🥭🔧%20eh.vk.com
+vless://5fb6c5d2-629b-48c6-bb3c-595caf2007ee@47.80.24.245:8123?security=reality&type=tcp&allowInsecure=1&sni=addons.mozilla.org&fp=firefox&flow=xtls-rprx-vision&pbk=ZXcygBPTlVUgYDMViBKgs2TXyRHcxVzo4lycLXOG1GQ#%F0%9F%87%B0%F0%9F%87%B7%20Южная Корея%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?insecure=1&sni=slopllex.app#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
+vless://aa9d833c-254b-4ce0-9bd4-2d535532f5d6@31.76.34.81:443?flow=xtls-rprx-vision&fp=firefox&pbk=jMx1Rx9vulp8Dqv1cSUYyhL31s2gXVCH0t_wvD9CCCA&security=reality&sid=ee7d1ed3c7d3c358&sni=ya.ru&type=tcp#%F0%9F%87%AE%F0%9F%87%B1%20Израиль%20%7C%20%F0%9F%8C%90%20|%20🥭🔧%20ya.ru

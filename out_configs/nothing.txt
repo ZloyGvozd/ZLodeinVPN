@@ -1,3 +1,3 @@
-# profile-title: 🐟 nothing | 2026-06-12 20:31:04
+# profile-title: 🐟 nothing | 2026-06-12 22:51:31
 # profile-update-interval: 1
 vless://aa9d833c-254b-4ce0-9bd4-2d535532f5d6@31.76.34.81:443?flow=xtls-rprx-vision&fp=firefox&pbk=jMx1Rx9vulp8Dqv1cSUYyhL31s2gXVCH0t_wvD9CCCA&security=reality&sid=ee7d1ed3c7d3c358&sni=ya.ru&type=tcp#%F0%9F%87%AE%F0%9F%87%B1%20Israel%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20ya.ru
