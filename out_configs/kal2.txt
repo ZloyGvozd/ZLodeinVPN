@@ -1,3 +1,8 @@
-# profile-title: 🐟 kal2 | 2026-06-13 18:25:35
+# profile-title: 🐟 kal2 | 2026-06-13 20:09:59
 # profile-update-interval: 1
-hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?security=tls&fm=%7B%7D&sni=slopllex.app#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
+vless://a8160c2f-561b-4849-83d2-9900d1442c74@144.31.178.160:8443?type=xhttp&headerType=none&security=reality&encryption=none&sni=sun1-90.userapi.com&fp=firefox&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34&path=%2F#%F0%9F%87%AA%F0%9F%87%AA%20Эстония%20|%20🥭🔧%20sun1-90.userapi.com
+vless://621373a2-606c-11f1-8f5c-027630170c1d@194.67.102.216:2053?type=grpc&headerType=none&security=reality&encryption=none&sni=cam-reg-2.live-cams.ru&fp=firefox&pbk=nd2gyce_j_Erx4odsTQnTY9W8Iz9n-ecR95k4l_dCSE&sid=f5fcd679e35aebd1&serviceName=grpc-direct#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+vless://47ab09c5-b2cc-441f-b5e5-6782b722d3ee@85.239.40.249:443?encryption=none&fp=chrome&mode=auto&pbk=dzpKdY2nJ5SDkizuORY2BQ0pvOd5TWwUkyjou4pFhAI&security=reality&sid=3b591a1227f69e03&sni=ru.locklance.lol&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+vless://47ab09c5-b2cc-441f-b5e5-6782b722d3ee@85.239.40.249:443?fp=firefox&mode=auto&pbk=dzpKdY2nJ5SDkizuORY2BQ0pvOd5TWwUkyjou4pFhAI&security=reality&sid=5cdb398a7baa0765&sni=ru.locklance.lol&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?insecure=1&sni=slopllex.app#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
+vless://98dab41c-f18a-406b-8de2-3cc8bb797d5d@194.93.0.219:48350?type=tcp&headerType=none&security=reality&encryption=none&sni=stats.vk-portal.net&fp=firefox&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20|%20🥭🔧%20stats.vk-portal.net
