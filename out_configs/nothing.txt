@@ -1,3 +1,4 @@
-# profile-title: 🐟 nothing | 2026-06-13 20:09:59
+# profile-title: 🐟 nothing | 2026-06-14 00:02:00
 # profile-update-interval: 1
-vless://39c61035-36aa-4892-8cf8-b6f3ffc0b145@uk-gthost-01.com:8443?flow=xtls-rprx-vision&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=c20b1035d72d7793&sni=rbc.ru&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5BSNI-RU%5D%20rbc.ru
+vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg4.auragg.org:48350?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk&sni=stats.vk-portal.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20stats.vk-portal.net
+vless://023a668a-d1ab-4acb-831e-5589b7e8a24c@176.109.85.114:5555?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20max.ru
