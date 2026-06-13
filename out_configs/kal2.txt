@@ -1,4 +1,5 @@
-# profile-title: 🐟 kal2 | 2026-06-13 02:06:53
+# profile-title: 🐟 kal2 | 2026-06-13 05:11:33
 # profile-update-interval: 1
-vless://08fc840b-e673-4031-aa2f-2663cadf838a@31.76.34.86:443?flow=xtls-rprx-vision&fp=firefox&pbk=QlqHO6ZquIkQtxA3F3T0JA74g40W2jqmoYOByIBX2QY&security=reality&sid=91b252bd7f15acc4&sni=ya.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%20|%20🥭🔧%20ya.ru
-vless://be018243-71b9-4e87-a6d0-db512d31c554@31.76.34.85:443?flow=xtls-rprx-vision&fp=firefox&pbk=Kk3tSi31p89ZivGdW0El-2MDshu_ILzK6h-xVnacT34&security=reality&sid=cd0aca5fd14e7546&sni=ya.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Сингапур%20|%20🥭🔧%20ya.ru
+vless://3bf526cd-2764-436e-bee8-f2082dc993f9@de.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20[🏳️LTE]%20|%20🥭🔧
+vless://ac006062-f051-43c6-bd4c-f409285c8635@192.200.160.120:443?encryption=none&type=xhttp&mode=auto&host=www.yallda.com&path=/v2raylink&security=tls&fp=chrome&sni=shop.yallda.com&alpn=http/1.1,h2#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+vless://bbaaff1e-c914-4817-9d33-58be35a3bee6@186.246.19.177:10444?flow=xtls-rprx-vision&fp=firefox&pbk=praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4&security=reality&sid=378086fbdb7c61cd&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%20|%20🥭🔧%20api-maps.yandex.ru

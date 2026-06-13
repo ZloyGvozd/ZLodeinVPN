@@ -1,5 +1,4 @@
-# profile-title: 🐟 kal | 2026-06-13 02:06:53
+# profile-title: 🐟 kal | 2026-06-13 05:11:33
 # profile-update-interval: 1
+vless://3bb03d0d-d44d-47e9-9611-0f4a3a29498f@212.87.222.62:443?flow=xtls-rprx-vision&fp=firefox&pbk=heEiJwp6ZIwUkD6PVSwYwTthV7ybHCbpkS3qPBoqsHc&security=reality&sid=c1663b15b964d89d&sni=united.lightningrus.ru&type=tcp&__rand=3356daee#🇫🇮🚀%20Финляндия%20🔐%20[🏳️LTE]%20|%20🥭🔥
 vless://9dcedf8a-c410-45a1-ba63-be4fbdfe07de@46.224.2.35:443?headerType=none&sni=www.digikala.com&type=tcp&encryption=none&security=reality&sid=143ec8c1&spx=/PSPUtbgQebkGWSN&fp=chrome&pbk=uLFFVUmk5iRtO95QrmDQ9bwpcYjlOXEW75K-ExOV-3U#🇩🇪🚀%20Германия%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://bbaaff1e-c914-4817-9d33-58be35a3bee6@186.246.19.177:10444?security=reality&pbk=praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=firefox&sid=378086fbdb7c61cd&type=tcp#🇺🇸🚀%20США%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://bbaaff1e-c914-4817-9d33-58be35a3bee6@186.246.19.177:10444?flow=xtls-rprx-vision&fp=firefox&pbk=praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4&security=reality&sid=378086fbdb7c61cd&sni=api-maps.yandex.ru&type=tcp&__rand=d2d58192#🇺🇸🚀%20США%20🔐%20[🏳️LTE]%20|%20🥭🔥
