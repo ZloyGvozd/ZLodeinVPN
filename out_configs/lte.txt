@@ -1,5 +1,4 @@
-# profile-title: 🐟 lte | 2026-06-14 00:02:00
+# profile-title: 🐟 lte | 2026-06-14 16:26:42
 # profile-update-interval: 1
-hysteria2://a8160c2f-561b-4849-83d2-9900d1442c74@83.147.255.83:8443?sni=yandexcdn9.ookcdn.ru&pinSHA256=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+hysteria2://723af53a-b131-3270-8ce0-13f8ecaaa322@193.142.59.97:443?sni=u723828us1244.csgfw.top&insecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
 hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?security=tls&sni=slopllex.app&pinSHA256=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-vless://2f02476e-d5b7-4913-abc7-bc91641ef632@51.250.102.69:443?flow=xtls-rprx-vision&fp=firefox&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&security=reality&sid=8ec792bfd725be8a&sni=cdp.x5.ru&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D%20YA
