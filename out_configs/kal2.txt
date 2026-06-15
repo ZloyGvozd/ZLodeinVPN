@@ -1,7 +1,6 @@
-# profile-title: 🐟 kal2 | 2026-06-15 03:01:10
+# profile-title: 🐟 kal2 | 2026-06-15 09:14:10
 # profile-update-interval: 1
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@68.209.56.54:443?flow=xtls-rprx-vision&fp=firefox&pbk=K3v40g4aiQoyyIYu8gJ347qCN7ZLFA61GQP_rRQYbG4&security=reality&sid=50835d9e6c5b5cd3&sni=auto.buycloud.app&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20[🏳️LTE]%20|%20🥭🔧
+vless://506b861f-1c06-465f-94d7-b23b814b7141@176.117.75.153:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=max.ru&fp=firefox&pbk=8M7VqCsm8R7A_fQcGHexSOM6mt_wIkw8jn6iNy9pUlk&sid=098d48622995a2bb&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20|%20🥭🔧%20max.ru
+vless://9c387b24-56ea-458d-b113-ab750a4c9b7b@31.76.34.87:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ya.ru&fp=firefox&pbk=9LuMI1vI6vzfZZv-2A5D24YgdvXXTXja2qNtKT-TpBQ&sid=355d76d8fe14a7df&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%20|%20🥭🔧%20ya.ru
 hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?headerType=none&encryption=none&sni=slopllex.app&insecure=0#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?security=tls&sni=slopllex.app&pinSHA256=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
-vmess://eyJhZGQiOiIzNy4yMjAuMTYxLjI0OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsImlkIjoiZGY5YzkzNTUtYjAyYy00YzEyLTkwOWQtMGRiZWI3MjVkNTJiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7Pwn4exIFRoZSBOZXRoZXJsYW5kcyB8IFsqQ0lEUl0iLCJzY3kiOiJhdXRvIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://08fc840b-e673-4031-aa2f-2663cadf838a@31.76.34.86:443?flow=xtls-rprx-vision&fp=chrome&pbk=QlqHO6ZquIkQtxA3F3T0JA74g40W2jqmoYOByIBX2QY&security=reality&sid=91b252bd7f15acc4&sni=ya.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20Соединенные Штаты%20|%20🥭🔧%20ya.ru
+vless://f7166a73-c0d8-0001-8c33-00af87919774@144.31.61.17:443?flow=xtls-rprx-vision&fp=firefox&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&security=reality&sid=a696de84963656de&sni=ya.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20|%20🥭🔧%20ya.ru
