@@ -1,6 +1,6 @@
-# profile-title: 🐟 kal2 | 2026-06-15 09:14:10
+# profile-title: 🐟 kal2 | 2026-06-15 20:51:02
 # profile-update-interval: 1
-vless://506b861f-1c06-465f-94d7-b23b814b7141@176.117.75.153:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=max.ru&fp=firefox&pbk=8M7VqCsm8R7A_fQcGHexSOM6mt_wIkw8jn6iNy9pUlk&sid=098d48622995a2bb&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20|%20🥭🔧%20max.ru
-vless://9c387b24-56ea-458d-b113-ab750a4c9b7b@31.76.34.87:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ya.ru&fp=firefox&pbk=9LuMI1vI6vzfZZv-2A5D24YgdvXXTXja2qNtKT-TpBQ&sid=355d76d8fe14a7df&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%20|%20🥭🔧%20ya.ru
-hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?headerType=none&encryption=none&sni=slopllex.app&insecure=0#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
-vless://f7166a73-c0d8-0001-8c33-00af87919774@144.31.61.17:443?flow=xtls-rprx-vision&fp=firefox&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&security=reality&sid=a696de84963656de&sni=ya.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20|%20🥭🔧%20ya.ru
+trojan://mitivpn@216.24.57.210:443?security=tls&sni=gamingdll.ir&alpn=http%2F1.1&type=ws&host=gamingdll.ir&path=%2Fed%3Dmitivpn%2Findex.php#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20[🏳️LTE]%20|%20🥭🔧
+trojan://mitivpn@216.24.57.246:443?security=tls&sni=gamingdll.ir&fp=chrome&alpn=http/1.1&type=ws&sni=gamingdll.ir&path=/index.php/ed=mitivpn#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20[🏳️LTE]%20|%20🥭🔧
+vless://bbcde690-aca4-48dd-8da7-85fbad4b6d99@84.252.131.124:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=firefox&sni=api.events.plus.yandex.net&pbk=4Opj8Sbz5aL7S2AXbBNfUuRBfRpdN8nO55WmZsD3IV8&sid=edd10b6d4b8f7ce4#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://cc2282b8-eceb-493b-9fd2-0c898840f6ee@45.197.134.32:8443?flow=xtls-rprx-vision&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Швейцария%20[🏳️LTE]%20|%20🥭🔧
