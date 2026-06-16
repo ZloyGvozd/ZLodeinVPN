@@ -1,2 +1,3 @@
-# profile-title: 🐟 lte2 | 2026-06-16 15:02:51
+# profile-title: 🐟 lte2 | 2026-06-16 20:54:00
 # profile-update-interval: 1
+vless://4e5017e0-07da-48ef-a882-fa26a845ead6@109.120.188.54:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=4woJiVyGtLro6qRQdUcM2EJDHI3CLOeeE-knmSHk8lE&sid=1ca44564cda56661#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
