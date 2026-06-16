@@ -1,4 +1,5 @@
-# profile-title: 🐟 lte | 2026-06-16 20:54:00
+# profile-title: 🐟 lte | 2026-06-16 23:36:31
 # profile-update-interval: 1
-vless://d757aa0d-77a7-0457-8442-7b9ba9294dbf@158.160.92.193:8443?encryption=none&security=reality&sni=yastatic.net&fp=firefox&pbk=-IYdVZN6tM8hKc6QXD7MNL8qiT_zjIHlCciyrDLcqSQ&sid=ccd4a76a26&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@5.42.105.202:443?type=tcp&headerType=none&security=reality&encryption=none&sni=se.sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@37.139.34.63:23356?fp=firefox&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&security=reality&serviceName=api&sid=483d116ad48a4091&sni=apple.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@157.22.241.100:443?encryption=none&type=xhttp&security=reality&path=/xh&mode=stream-up&extra=null&fp=firefox&sni=yandex.by&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&sid=6ba85179e30d4fc3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://3b7950ed-e076-4a51-8df2-222a88689700@45.197.134.33:8443?flow=xtls-rprx-vision&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=d037f6f67cc90016&sni=storage.yandex.net&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5B%2ACIDR%5D
