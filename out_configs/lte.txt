@@ -1,10 +1,4 @@
-# profile-title: 🐟 lte | 2026-06-16 03:23:12
+# profile-title: 🐟 lte | 2026-06-16 09:24:07
 # profile-update-interval: 1
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@104.17.147.22:2052?encryption=none&type=xhttp&mode=auto&host=u2.pabloping.cloud&path=/pabloping&security=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@5.42.120.30:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sellflow.org&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@85.239.37.150:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://4efaf684-3e7b-47a6-9193-d8d8f3481210@84.201.133.156:8443?flow=xtls-rprx-vision&fp=firefox&pbk=fXsQV_dib6rKGAl6EncN6Pm-fTb6TqOa3uTCQWe86Dg&security=reality&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B%2ACIDR%5D%20YA
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@217.149.25.143:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.sellflow.org&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=itx-server.digital#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.39:443?type=tcp&security=reality&sni=eh.vk.ru&fp=qq&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@95.163.211.133:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ai.sellflow.org&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
+vless://ce846a9a-cfd2-4086-b484-caf1f6e4503e@104.17.148.22:80?mode=packet-up&path=%2F&security=none&encryption=none&host=xn--ciqw7gu0bc2o9kjszc247i.reza-barfi.xyz.&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://e8eded42-f7c4-453a-933f-ef2bacabfe02@51.250.108.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D%20YA
