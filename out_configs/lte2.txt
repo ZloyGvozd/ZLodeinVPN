@@ -1,8 +1,3 @@
-# profile-title: 🐟 lte2 | 2026-06-16 23:36:31
+# profile-title: 🐟 lte2 | 2026-06-17 01:47:50
 # profile-update-interval: 1
-vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@37.139.34.63:23356?fp=firefox&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&security=reality&serviceName=api&sid=483d116ad48a4091&sni=apple.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-vless://1e05097f-8aaf-0003-8d55-0732a1b373aa@155.212.146.159:443?flow=xtls-rprx-vision&fp=firefox&pbk=TPFB4tiIQpMR-_kVAGz7IlQT-q8QomLiGNOzjfF4xRU&security=reality&sid=9b3d61f0a8c4e72b&sni=converso.dropluch.com&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
-vless://1e05097f-8aaf-0007-8d55-0732a1b373aa@91.222.236.229:443?flow=xtls-rprx-vision&fp=firefox&pbk=TPFB4tiIQpMR-_kVAGz7IlQT-q8QomLiGNOzjfF4xRU&security=reality&sid=9b3d61f0a8c4e72b&sni=convert.dropluch.com&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%5B%2ACIDR%5D
-vless://1e05097f-8aaf-0006-8d55-0732a1b373aa@155.212.146.159:443?flow=xtls-rprx-vision&fp=firefox&pbk=TPFB4tiIQpMR-_kVAGz7IlQT-q8QomLiGNOzjfF4xRU&security=reality&sid=9b3d61f0a8c4e72b&sni=converso.dropluch.com&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D
-vless://1e05097f-8aaf-0001-8d55-0732a1b373aa@convert.dropluch.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=convert.dropluch.com&fp=firefox&pbk=TPFB4tiIQpMR-_kVAGz7IlQT-q8QomLiGNOzjfF4xRU&sid=9b3d61f0a8c4e72b&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
-vless://1e05097f-8aaf-0004-8d55-0732a1b373aa@91.222.236.229:443?flow=xtls-rprx-vision&fp=firefox&pbk=TPFB4tiIQpMR-_kVAGz7IlQT-q8QomLiGNOzjfF4xRU&security=reality&sid=9b3d61f0a8c4e72b&sni=convert.dropluch.com&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%5B%2ACIDR%5D
+vless://f777818a-fa93-4096-8235-68e090c8714c@185.229.9.58:443?flow=xtls-rprx-vision&fp=firefox&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&security=reality&sid=&sni=eh.vk.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D

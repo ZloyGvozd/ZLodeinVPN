@@ -1,7 +1,5 @@
-# profile-title: 🐟 universal | 2026-06-16 23:36:31
+# profile-title: 🐟 universal | 2026-06-17 01:47:50
 # profile-update-interval: 1
-vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@37.139.34.63:23356?encryption=none&type=grpc&security=reality&mode=gun&serviceName=api&fp=edge&sni=apple.com&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&sid=483d116ad48a4091#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%231
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@155.212.182.19:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=wildberries.ru&pbk=A7g4cVaB6_5cmIrGbv-PmkVpS4pvHWp2HfLZbjv-SDQ&sid=5e841fab#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23256
-vless://bc5bfc10-95af-42e3-8980-02f1c4124813@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%237
-vless://4288b4c1-36b3-488f-84e8-3776b8d7e7d4@217.16.29.23:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=mtdklsqa&fp=firefox&sni=yandex.ru&pbk=DmpMjyYBIU4KdMNY-0M8TxX5OBrQQ1A5E28Y9_-VQDk&sid=aaaa#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23138
-vless://1e05097f-8aaf-0002-8d55-0732a1b373aa@155.212.146.159:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=converso.dropluch.com&pbk=TPFB4tiIQpMR-_kVAGz7IlQT-q8QomLiGNOzjfF4xRU&sid=9b3d61f0a8c4e72b#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2333
+vless://bcd69ea5-54e4-43bc-adfb-01714576077c@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%238
+vless://b6578acd-9b9e-4293-beef-f14c6ffb7751@51.250.108.162:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2393
+vless://8bbf020e-653f-4a82-9900-1214e4e37dab@45.91.55.232:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rutube.ru&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23202
