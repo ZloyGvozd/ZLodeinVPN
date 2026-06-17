@@ -1,4 +1,4 @@
-# profile-title: 🐟 lte2 | 2026-06-17 08:59:31
+# profile-title: 🐟 lte2 | 2026-06-17 13:56:57
 # profile-update-interval: 1
-vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@157.22.241.100:2053?encryption=none&type=ws&security=tls&path=%2Fws&host=itx-server.digital&fp=firefox&sni=554dad6ab34f7baf.itx-server.digital#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://7f6e2a3e-ef0a-48d1-9ae4-9866bf11f958@217.16.18.240:8443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=JtZBeqMIUhvQz6_2dCAI6swHQcsfMTn1Odg3bxfErAQ&security=reality&sid=2511ff7592fc3844&sni=hex.whitehero.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D%20VK
+vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.39:443?type=tcp&security=reality&sni=eh.vk.ru&fp=firefox&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.112:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK

@@ -1,5 +1,4 @@
-# profile-title: 🐟 nothing | 2026-06-17 08:59:31
+# profile-title: 🐟 nothing | 2026-06-17 13:56:57
 # profile-update-interval: 1
-vless://837e9ea2-cf0b-46a1-93a8-7e25c3a4066c@185.170.10.249:48350?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk&sni=stats.vk-portal.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20stats.vk-portal.net
-vless://98dab41c-f18a-406b-8de2-3cc8bb797d5d@argg6.auragg.org:48350?flow=xtls-rprx-vision&fp=firefox&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk&security=reality&sni=stats.vk-portal.net&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5BSNI-RU%5D%20stats.vk-portal.net
-vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?fp=firefox&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20www.kinopoisk.ru
+vless://c65e5625-fdb4-44f6-8b83-3734123310a0@2.59.80.65:8443?flow=xtls-rprx-vision&fp=firefox&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&security=reality&sid=1c74cf626ef50bb3&sni=rbc.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20rbc.ru
+vless://c65e5625-fdb4-44f6-8b83-3734123310a0@2.59.80.65:8443?flow=xtls-rprx-vision&fp=chrome&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&security=reality&sid=caa0a516476ad539&sni=rbc.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20rbc.ru

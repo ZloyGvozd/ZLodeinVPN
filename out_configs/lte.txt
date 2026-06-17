@@ -1,5 +1,5 @@
-# profile-title: 🐟 lte | 2026-06-17 08:59:31
+# profile-title: 🐟 lte | 2026-06-17 13:56:57
 # profile-update-interval: 1
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.79.94.192:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&allowInsecure=1&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B7%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%B0%F0%9F%87%B7%20%5B%2ACIDR%5D
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=itx-server.digital#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://f0933f3c-4a73-4409-93ad-8d3a43d253c0@62.152.58.111:443?flow=xtls-rprx-vision&fp=firefox&pbk=kjTspDrisV8226wHoYmGlK3M3f5ti3J3SABdhRqAMCY&security=reality&sid=&sni=sun1-87.userapi.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.39:443?type=tcp&security=reality&sni=eh.vk.ru&fp=firefox&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://90559dd7-c86b-45d8-aa04-81f9380202fb@51.250.102.69:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D%20YA
+vless://1dea5bff-4fcb-43e9-aa2b-d9d662800cbf@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AC%F0%9F%87%A7%20%5B%2ACIDR%5D%20YA
