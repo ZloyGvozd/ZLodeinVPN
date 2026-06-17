@@ -1,3 +1,2 @@
-# profile-title: 🐟 lte2 | 2026-06-17 22:58:08
+# profile-title: 🐟 lte2 | 2026-06-18 00:57:41
 # profile-update-interval: 1
-vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@nl.mail-appstatus.net:23356?mode=gun&security=reality&encryption=none&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&fp=edge&type=grpc&serviceName=api&sni=apple.com&sid=483d116ad48a4091#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
