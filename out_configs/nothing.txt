@@ -1,5 +1,5 @@
-# profile-title: 🐟 nothing | 2026-06-17 17:24:43
+# profile-title: 🐟 nothing | 2026-06-17 20:44:35
 # profile-update-interval: 1
-vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@85.158.109.113:443?fp=firefox&mode=auto&path=%2FtDjkeuxyQPUDqF8wT2&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&security=reality&sid=aabbccdd&sni=www.kinopoisk.ru&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20www.kinopoisk.ru
-vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg4.auragg.org:48350?security=reality&encryption=none&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20stats.vk-portal.net
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@155.212.182.19:443?fp=firefox&pbk=A7g4cVaB6_5cmIrGbv-PmkVpS4pvHWp2HfLZbjv-SDQ&security=reality&sid=5e841fab&sni=wildberries.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20wildberries.ru
+vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:443?fp=firefox&mode=stream-up&path=%2Fxh&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA&security=reality&sni=yandex.by&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20yandex.by
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@155.212.182.19:443?fp=firefox&nonce=iLaZ8xoJ&pbk=A7g4cVaB6_5cmIrGbv-PmkVpS4pvHWp2HfLZbjv-SDQ&security=reality&sid=5e841fab&sni=wildberries.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20wildberries.ru
+vless://837e9ea2-cf0b-46a1-93a8-7e25c3a4066c@185.170.10.249:48350?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk&sni=stats.vk-portal.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20stats.vk-portal.net

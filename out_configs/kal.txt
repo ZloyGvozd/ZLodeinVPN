@@ -1,6 +1,7 @@
-# profile-title: 🐟 kal | 2026-06-17 17:24:43
+# profile-title: 🐟 kal | 2026-06-17 20:44:35
 # profile-update-interval: 1
-vless://a7896b5b-1c7d-4148-9429-fcdf949137bf@151.101.7.243:80?mode=auto&path=/&security=none&encryption=none&host=kakapi.global.ssl.fastly.net&type=xhttp&descriptions=СвободуИнтернету958#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
+vless://ded3638e-ab7f-4ff8-bc60-9fc6666cff22@186.246.13.22:443?type=grpc&mode=gun&sid=3e0c736d79&pbk=dEdb0K8U-uTlYx8OAyuaFFbwiL0eS7ZuVsPAYdZUvyk&security=reality&fp=firefox&serviceName=gun&sni=ubuntu.ubuntuhosting.host&_t=2f14a605#🇺🇸🚀%20США%20🔐%20[🏳️LTE]%20|%20🥭🔥
 vless://783d226a-2a05-4b38-a93e-616da5990c42@45.195.137.2:8443?sni=storage.yandex.net&flow=xtls-rprx-vision&type=tcp&sid=cf9d145ad8f1ea55&security=reality&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&fp=firefox&nonce=rayx6Swv#🇹🇷🚀%20Турция%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://30ac5a8b-5022-43c0-b0c2-11b9a98a986e@3.106.54.135:57001?sni=yahoo.com&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=aSK0B0bgRalAWw_5d7buTjy4dYLF2WGTZhUojypI618&type=tcp&spx=/&sid=b2dd66706eb2#🇦🇺🚀%20Австралия%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@157.22.241.100:443?encryption=none&type=xhttp&security=reality&path=%2Fxh&mode=stream-up&extra=null&fp=firefox&sni=yandex.by&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA#🇷🇺🚀%20Россия%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://a7896b5b-1c7d-4148-9429-fcdf949137bf@151.101.7.243:80?host=kakapi.global.ssl.fastly.net&mode=auto&path=/&encryption=none&security=none&type=xhttp#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?type=raw&security=reality&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&sni=ya.ru#🇷🇺🚀%20Россия%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://a1c11603-aefe-0007-9df3-4856f085811a@94.139.247.211:443?sni=b02.connectv.net&pbk=0RegtdcQHk9Fg95kgn5jmRglN6N3sdk3ZhrFXvmbrgk&encryption=none&type=tcp&flow=xtls-rprx-vision&fp=chrome&security=reality&_t=14de83ea#🇪🇪🚀%20Эстония%20🔐%20[🏳️LTE]%20|%20🥭🔥
