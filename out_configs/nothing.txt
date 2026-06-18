@@ -1,2 +1,3 @@
-# profile-title: 🐟 nothing | 2026-06-18 17:44:38
+# profile-title: 🐟 nothing | 2026-06-18 20:55:06
 # profile-update-interval: 1
+vless://4c0e1fb5-08a6-4809-8723-9721f1b1990b@85.239.58.39:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rutube.ru&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&sid=6c6082a2223c1d03#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20rutube.ru

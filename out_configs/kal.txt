@@ -1,4 +1,5 @@
-# profile-title: 🐟 kal | 2026-06-18 17:44:38
+# profile-title: 🐟 kal | 2026-06-18 20:55:06
 # profile-update-interval: 1
+vless://82d47c52-9738-4d40-93a4-220bab575c60@treng.loralden.com:443?mode=gun&authority=treng.loralden.com&serviceName=grpc&security=reality&encryption=none&sni=treng.loralden.com&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&fp=firefox&spx=%2F&sid=ed72a429f0135a3f&type=grpc&_t=7d2b3034#🇳🇱🚀%20Нидерланды%20[🏳️LTE]%20|%20🥭🔥
 vless://b72c86e5-c223-44c3-b5ca-06ec9cf1730d@72.56.100.75:8443?pbk=6roYotDPfQD04Gytf57-gYiGGLks9PeKzthWcvm5j2Y&fp=firefox&type=tcp&security=reality&sni=www.vk.com&flow=xtls-rprx-vision&nonce=BESxYU6X#🇳🇱🚀%20Нидерланды%20[🏳️LTE]%20|%20🥭🔥
-vless://0e49e208-e09e-49bc-afee-2907e5419107@usa.ldtp.com:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N--0r-eUKZ-23lmSHvsC4ywFbsAWRahFtxv_N02AgFY&security=reality&sid=df2becfa7b040c78&sni=usa.ldtp.com&type=tcp&burmalda=d946c02e#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
+vless://0e49e208-e09e-49bc-afee-2907e5419107@usa.ldtp.com:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N--0r-eUKZ-23lmSHvsC4ywFbsAWRahFtxv_N02AgFY&security=reality&sid=df2becfa7b040c78&sni=usa.ldtp.com&type=tcp&_t=4c30043e#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥

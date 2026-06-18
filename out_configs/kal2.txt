@@ -1,3 +1,4 @@
-# profile-title: 🐟 kal2 | 2026-06-18 17:44:38
+# profile-title: 🐟 kal2 | 2026-06-18 20:55:06
 # profile-update-interval: 1
-vless://7096e7da-0f87-4553-a2ee-0ca7e6d51f0b@94.156.155.234:443?security=reality&flow=xtls-rprx-vision&sni=germany70.clearorbitllc.com&type=tcp&fp=firefox&pbk=5RrWbrejRg6gGFbWuWxps6wbz0YLBgLJ3ZSfwfbnkg0&sid=1eb16f60#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+vless://98dab41c-f18a-406b-8de2-3cc8bb797d5d@argg1.auragg.org:48350?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stats.vk-portal.net&fp=firefox&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20|%20🥭🔧%20stats.vk-portal.net
+vless://7096e7da-0f87-4553-a2ee-0ca7e6d51f0b@germany70.clearorbitllc.com:443?security=reality&encryption=none&pbk=5RrWbrejRg6gGFbWuWxps6wbz0YLBgLJ3ZSfwfbnkg0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=germany70.clearorbitllc.com&sid=1eb16f60#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧

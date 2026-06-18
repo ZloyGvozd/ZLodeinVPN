@@ -1,3 +1,6 @@
-# profile-title: 🐟 lte | 2026-06-18 17:44:38
+# profile-title: 🐟 lte | 2026-06-18 20:55:06
 # profile-update-interval: 1
-vless://3c533416-8852-4f1a-befa-23289b2f32d1@212.193.152.65:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s86255.cdn.ngenix.net&fp=chrome&sni=s86255.cdn.ngenix.net#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%BA%F0%9F%87%B8%20%5B%2ACIDR%5D
+vless://1750bd54-55e6-4d6b-9e0b-2d32c58dad23@141.8.199.170:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+hysteria2://be7441a663ef465566e3a6e441a16357@188.225.80.130:7443?sni=tw-vds.t1n2.com&pinSHA256=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://5a95bfac-2a72-11f1-92cb-12ba70109d32@155.212.215.179:2053?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-direct&fp=chrome&sni=vk.com&pbk=eskKUMw6Dwq1x4OL0VWvnxVAI_XDTTNSpJV5u-N9XzA&sid=e4073bc670efdc0c#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AA%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
+vless://cfe3ee90-07fb-44ab-9f68-8bf501ca5abc@82.117.87.162:8440?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=streaming-1.barryvpn.com&pbk=-Kous6J91_U5J9dTp_8lhV0nY1o7Sh7HJwQCOZRUmwA&sid=ae#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
