@@ -1,6 +1,4 @@
-# profile-title: 🐟 universal | 2026-06-18 10:26:26
+# profile-title: 🐟 universal | 2026-06-18 14:44:49
 # profile-update-interval: 1
-vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@185.241.195.217:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23207
-vless://493de030-d144-435e-b20c-60218904a2f8@51.250.106.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=cdp.x5.ru&pbk=wgXD4k3A16WR0aL63N9Mx8xoqFigJLyQWJXi-l3MPXI&sid=8ec792bfd725be8a#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2333
-vless://3c533416-8852-4f1a-befa-23289b2f32d1@212.193.152.65:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s86255.cdn.ngenix.net&fp=chrome&sni=s86255.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%23273
-vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@185.241.195.217:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.tesla.com&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23195
+vless://77cbe227-1574-4935-80cd-2269149e2115@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%235
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@81.19.135.87:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%238

@@ -1,5 +1,4 @@
-# profile-title: 🐟 kal2 | 2026-06-18 10:26:26
+# profile-title: 🐟 kal2 | 2026-06-18 14:44:49
 # profile-update-interval: 1
-vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@89.106.86.101:443?type=tcp&security=tls&sni=nlxeon41x611.potatosubge20.org&fp=firefox&flow=xtls-rprx-vision#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
-vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@argg4.auragg.org:48350?security=reality&encryption=none&pbk=Ea23HWLvV6k7UjJ8xCsUH2UI0oyasSLjXV84aTXQ6Uk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20|%20🥭🔧%20stats.vk-portal.net
-vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwiYWlkIjoiMCIsImFsbG93SW5zZWN1cmUiOiIwIiwiYWxsb3dfaW5zZWN1cmUiOiIwIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0xLTQxMS5taXJyYS5ub3ciLCJpZCI6ImRmOWM5MzU1LWIwMmMtNGMxMi05MDlkLTBkYmViNzI1ZDUyYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4ez8J+HsSBUaGUgTmV0aGVybGFuZHMgfCBbKkNJRFJdIiwic2VjdXJpdHkiOiJhdXRvIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsInRscyI6InRscyIsInYiOiIyIiwidHlwZSI6Im5vbmUiLCJzY3kiOiJhdXRvIiwiYWxwbiI6IiIsImZwIjoiIn0=
+hysteria2://be7441a663ef465566e3a6e441a16357@188.225.80.130:7443?sni=tw-vds.t1n2.com&pinSHA256=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://be7441a663ef465566e3a6e441a16357@tw-vds.t1n2.com:7443?insecure=1&sni=tw-vds.t1n2.com#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧

@@ -1,5 +1,2 @@
-# profile-title: 🐟 lte | 2026-06-18 10:26:26
+# profile-title: 🐟 lte | 2026-06-18 14:44:49
 # profile-update-interval: 1
-hysteria2://be7441a663ef465566e3a6e441a16357@tw-vds.t1n2.com:7443?insecure=1&sni=tw-vds.t1n2.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@89.106.86.101:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nlxeon41x611.potatosubge20.org#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
-vless://ca428a2e-7f82-4030-851b-cab731a5645a@l12.l-itx.info:2053?path=%2Fws&security=tls&encryption=none&host=itx-server.digital&fp=firefox&allowinsecure=0&type=ws&sni=itx-server.digital#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
