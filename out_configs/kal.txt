@@ -1,2 +1,7 @@
-# profile-title: 🐟 kal | 2026-06-19 09:08:04
+# profile-title: 🐟 kal | 2026-06-19 14:13:48
 # profile-update-interval: 1
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@144.124.241.233:443?flow=xtls-rprx-vision&fp=firefox&sni=rezerv1.yunus.guru&type=tcp&pbk=-X9CZv5MYKivpxPVP1vdgFKf2AJWmZ0Pju-j8LFmlh4&sid=6c88854e73e86773&security=reality&descriptions=люби_себяdddfba#🇳🇱🚀%20Нидерланды%20[🏳️LTE]%20|%20🥭🔥
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@144.124.241.233:443?security=reality&flow=xtls-rprx-vision&sni=rezerv1.yunus.guru&type=tcp&fp=firefox&sid=6c88854e73e86773&pbk=-X9CZv5MYKivpxPVP1vdgFKf2AJWmZ0Pju-j8LFmlh4#🇳🇱🚀%20Нидерланды%20[🏳️LTE]%20|%20🥭🔥
+vless://7d938228-0ee2-4758-9f33-1a6c6592b791@files.netraidly.ru:40443?spx=%2F&security=reality&sni=deepl.com&sid=d46b&headerType=none&type=tcp&pbk=a1UMmt4ytNFwDizX92056cCle6dG1ASF46vf4awNXTk&fp=qq&flow=xtls-rprx-vision#🇳🇱🚀%20Нидерланды%20[🏳️LTE]%20|%20🥭🔥
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.167:8880/?encryption=none&type=grpc&nonce=NoHFL56F#🇮🇹🚀%20Италия%20[🏳️LTE]%20|%20🥭🔥
+vless://967064b5-3272-431e-8dce-9519acfb94be@node-nl-2.zestful.bond:443?sni=node-nl-2.zestful.bond&flow=xtls-rprx-vision&sid=823257b7b9ab9d02&encryption=none&pbk=KS0F6q2PTY1s6y2sH5PdrznYqprIkUBtS1masvcrJjo&fp=firefox&security=reality&seq=you_are_beautiful6610#🇬🇧🚀%20Великобритания%20[🏳️LTE]%20|%20🥭🔥

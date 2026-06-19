@@ -1,8 +1,5 @@
-# profile-title: 🐟 lte | 2026-06-19 09:08:04
+# profile-title: 🐟 lte | 2026-06-19 14:13:48
 # profile-update-interval: 1
-vless://1750bd54-55e6-4d6b-9e0b-2d32c58dad23@141.8.199.170:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=firefox&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-hysteria2://be7441a663ef465566e3a6e441a16357@tw-vds.t1n2.com:7443?headerType=none&encryption=none&sni=tw-vds.t1n2.com&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-hysteria2://be7441a663ef465566e3a6e441a16357@188.225.80.130:7443?headerType=none&encryption=none&sni=tw-vds.t1n2.com&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@5.182.5.214:443?encryption=none&type=tcp&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://dea0e19a-4987-44a9-836f-63ceaa8f1746@ru.c2horizon.app:443?type=tcp&security=none&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://551b9e18-4327-462d-aa03-f730b4e3bb0a@nagatoro.kosmojoy.ru:443?type=tcp&security=reality&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&sid=be0191cc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@212.192.15.58:443?sni=u711540us306.wagahaha.xyz#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?sni=u711540us1244.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
+hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?sni=u711540us1244.csgfw.top#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
