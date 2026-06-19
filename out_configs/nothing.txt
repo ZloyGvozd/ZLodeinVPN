@@ -1,2 +1,3 @@
-# profile-title: 🐟 nothing | 2026-06-19 14:13:48
+# profile-title: 🐟 nothing | 2026-06-19 17:41:19
 # profile-update-interval: 1
+vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?security=reality&encryption=none&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=4d3ff920673f7534#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20max.ru

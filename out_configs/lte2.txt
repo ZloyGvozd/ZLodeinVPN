@@ -1,3 +1,5 @@
-# profile-title: 🐟 lte2 | 2026-06-19 14:13:48
+# profile-title: 🐟 lte2 | 2026-06-19 17:41:19
 # profile-update-interval: 1
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?headerType=none&encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?sni=u711540us1244.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
+vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwiYWlkIjoiMCIsImFsbG93aW5zZWN1cmUiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsImlkIjoiZGY5YzkzNTUtYjAyYy00YzEyLTkwOWQtMGRiZWI3MjVkNTJiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7Pwn4exIFRoZSBOZXRoZXJsYW5kcyB8IFsqQ0lEUl0iLCJzY3kiOiJhdXRvIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiI5My45My44OC4yMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsImlkIjoiZGY5YzkzNTUtYjAyYy00YzEyLTkwOWQtMGRiZWI3MjVkNTJiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7Pwn4exIFRoZSBOZXRoZXJsYW5kcyB8IFsqQ0lEUl0iLCJzY3kiOiJhdXRvIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
