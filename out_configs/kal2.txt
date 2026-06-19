@@ -1,4 +1,7 @@
-# profile-title: 🐟 kal2 | 2026-06-19 17:41:19
+# profile-title: 🐟 kal2 | 2026-06-19 20:11:09
 # profile-update-interval: 1
-hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?sni=u711540us1244.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
-vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eh.vk.com&fp=qq&pbk=ULdsBE21mblUYXU9xmPQOp66egYcagcgTGZ2gUhnyyg#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20|%20🥭🔧%20eh.vk.com
+vless://5f3b432c-1e4d-4aef-bf55-394ed64eaa6a@45.81.35.125:80?encryption=none&type=xhttp&path=%2Fxhttp&host=max.ru&mode=auto&security=none#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20|%20🥭🔧%20max.ru
+hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?sni=u711540us1244.csgfw.top#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://fd1e4805-c7cb-49cb-8b23-6f78adc78544@80.93.63.202:52847?type=xhttp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=firefox&pbk=7wMTJEfkUiBRKBfonkUQi2jjMkfUjtvvJ8mYMV0XBUI&sid=30f4301b&path=%2FDxTJD4LFyQwz#%F0%9F%87%B5%F0%9F%87%B1%20Польша%20%7C%20%F0%9F%8C%90%20|%20🥭🔧%20api-maps.yandex.ru
+vless://fd1e4805-c7cb-49cb-8b23-6f78adc78544@80.93.63.202:52847?mode=stream-up&path=%2FDxTJD4LFyQwz&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&pbk=7wMTJEfkUiBRKBfonkUQi2jjMkfUjtvvJ8mYMV0XBUI&fp=firefox&allowinsecure=0&type=xhttp&sni=api-maps.yandex.ru&sid=30f4301b#%F0%9F%87%B5%F0%9F%87%B1%20Польша%20%7C%20%F0%9F%8C%90%20|%20🥭🔧%20api-maps.yandex.ru
+vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?security=reality&encryption=none&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=4d3ff920673f7534#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20|%20🥭🔧%20max.ru
