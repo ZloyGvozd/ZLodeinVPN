@@ -1,6 +1,4 @@
-# profile-title: 🐟 kal2 | 2026-06-19 01:51:42
+# profile-title: 🐟 kal2 | 2026-06-19 03:19:59
 # profile-update-interval: 1
-hysteria2://be7441a663ef465566e3a6e441a16357@tw-vds.t1n2.com:7443?sni=tw-vds.t1n2.com#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://be7441a663ef465566e3a6e441a16357@188.225.80.130:7443?sni=tw-vds.t1n2.com&pinSHA256=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
-vless://7096e7da-0f87-4553-a2ee-0ca7e6d51f0b@germany70.clearorbitllc.com:443?security=reality&encryption=none&pbk=5RrWbrejRg6gGFbWuWxps6wbz0YLBgLJ3ZSfwfbnkg0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=germany70.clearorbitllc.com&sid=1eb16f60#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
-vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@37.139.34.63:23356?encryption=none&type=grpc&security=reality&mode=gun&serviceName=api&fp=edge&sni=apple.com&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&sid=483d116ad48a4091#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧%20%20
+hysteria2://be7441a663ef465566e3a6e441a16357@tw-vds.t1n2.com:7443?headerType=none&encryption=none&sni=tw-vds.t1n2.com&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
+vless://1dd5f2be-f124-4f35-9239-8abc042829c2@92.242.61.92:543?type=tcp&security=reality&sni=max.ru&fp=firefox&pbk=H4VeKzsqesO2LggCpL0WuYRojKXWNF_y4UABkGRadxs&sid=d898401f400ccf57&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20|%20🥭🔧%20max.ru
