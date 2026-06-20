@@ -1,3 +1,4 @@
-# profile-title: 🐟 nothing | 2026-06-20 21:04:48
+# profile-title: 🐟 nothing | 2026-06-21 00:59:15
 # profile-update-interval: 1
-vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:62800?encryption=none&type=grpc&serviceName=grpc&mode=gun&security=reality&sni=yandex.ru&fp=edge&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20yandex.ru
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:44333?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yandex.ru&fp=edge&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20yandex.ru
+vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@pol6.odavpn.online:443?type=xhttp&security=reality&fp=chrome&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&sid=aabbccdd&sni=www.kinopoisk.ru&path=%2FtDjkeuxyQPUDqF8wT2&mode=auto#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20www.kinopoisk.ru
