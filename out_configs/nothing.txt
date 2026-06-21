@@ -1,3 +1,5 @@
-# profile-title: 🐟 nothing | 2026-06-21 16:05:07
+# profile-title: 🐟 nothing | 2026-06-21 18:45:37
 # profile-update-interval: 1
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:62800?encryption=none&type=grpc&serviceName=grpc&mode=gun&security=reality&sni=yandex.ru&fp=edge&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20yandex.ru
 vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:55443?type=xhttp&security=reality&fp=edge&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906&sni=yandex.ru&mode=auto&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20yandex.ru
+vless://1281ef13-f1cd-493b-903e-4c2f4ffe1eba@5.35.94.215:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=dzen.ru&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20dzen.ru
