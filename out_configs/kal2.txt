@@ -1,4 +1,7 @@
-# profile-title: 🐟 kal2 | 2026-06-21 02:08:23
+# profile-title: 🐟 kal2 | 2026-06-21 05:37:58
 # profile-update-interval: 1
+vless://ec242fb6-faeb-4f34-afb8-3fbf80e527e3@fr-1.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#%F0%9F%87%AB%F0%9F%87%B7%20Франция%20[🏳️LTE]%20|%20🥭🔧
+vless://ed3e860f-c97d-45be-a56b-47b77da11059@sw-3.coinbridge.nl:443?mode=gun&security=reality&encryption=none&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&fp=random&type=grpc&serviceName=data-sync&sni=google.com&sid=d5c7f84e37e0c12d#%F0%9F%87%B8%F0%9F%87%AA%20Швеция%20[🏳️LTE]%20|%20🥭🔧
+vless://df715bf7-d073-435b-94fa-d5aa4dbbd84c@94.159.103.5:27189?type=tcp&headerType=none&security=reality&encryption=none&sni=www.vk.com&fp=firefox&pbk=QhzHhG3TRaDF3MNj1pBGT1rSPCfRJUfrzc5rBUmuRQ4&sid=65&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20|%20🥭🔧%20www.vk.com
 vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@94.183.170.16:44333?flow=xtls-rprx-vision&fp=firefox&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20Эстония%20|%20🥭🔧%20yandex.ru
-vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@s10211.cdn.ngenix.net:443?path=%2Fapi%2Fuser&security=tls&alpn=http%2F1.1&encryption=none&host=s10211.cdn.ngenix.net&fp=qq&type=ws&sni=s10211.cdn.ngenix.net#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+vless://8d1a1b09-12d6-4b76-82f0-893cc805d9c0@46.173.25.146:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=ru.crunch-crunch.com&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
