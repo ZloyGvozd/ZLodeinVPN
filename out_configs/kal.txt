@@ -1,11 +1,11 @@
-# profile-title: 🐟 kal | 2026-06-23 01:41:23
+# profile-title: 🐟 kal | 2026-06-23 02:59:56
 # profile-update-interval: 1
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@164.38.155.140:80?security=none&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz&freeinternet=kizyak_vpn1782154405421#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥
-vless://1dcf4ce9-a7c7-4f14-ba87-a93e46221d18@cctvhikvision.center:2052?encryption=none&security=none&type=ws&host=uwu.blueknightnet.qzz.io&path=%2Fapi-v1#🇧🇸🚀%20Эщкерия%20[🏳️LTE]%20|%20🥭🔥
-vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?type=tcp&headerType=none&security=none&encryption=none#🇦🇲🚀%20Армения%20[🏳️LTE]%20|%20🥭🔥
-vless://0c9839aa-c64f-4791-9137-420432605987@168.138.166.89:8899?sni=www.lovelive-anime.jp&sid=f0cce996&type=tcp&flow=xtls-rprx-vision&fp=ios&spx=%2F&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&security=reality#🇸🇬🚀%20Сингапур%20[🏳️LTE]%20|%20🥭🔥
-vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@ytt.gazladder.work:443?sni=ytt.gazladder.work&sid=f5781bd8af7dbaf6&fp=chrome&flow=xtls-rprx-vision&security=reality&headerType=none&type=tcp&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&encryption=none#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752#🇱🇻🚀%20Латвия%20[🏳️LTE]%20|%20🥭🔥
+vless://89bbe46b-43fb-4144-9093-bdd98cba3c9a@185.147.27.105:80?encryption=none&security=none&type=websocket&__rand=216c257c#🇫🇮🚀%20Финляндия%20[🏳️LTE]%20|%20🥭🔥
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F&security=&encryption=none#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.71:8443/?type=tcp&security=reality&fp=chrome&encryption=none&flow=xtls-rprx-vision&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&sni=storage.yandex.net#🇸🇨🚀%20Сейшелы%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://eb8bce52-b6b5-4dff-91f5-71afafe9beec@denode1.frost-api.com:443?fp=chrome&sid=66c17371&sni=max.ru&security=reality&flow=xtls-rprx-vision&encryption=none&type=tcp&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&descriptions=СвободуИнтернету808#🇷🇺🚀%20Обход%20БС%20🔐%20[🏳️LTE]%20|%20🥭🔥
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@84.201.180.91:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=firefox&pbk=n995xG00VmlZ2j_SIka7jUo8_jKQO8gIQU5FQaU-0AA&sid=743cdafc&flow=xtls-rprx-vision&descriptions=СвободуИнтернету513#🇷🇺🚀%20Обход%20БС%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://eb8bce52-b6b5-4dff-91f5-71afafe9beec@node2.frost-api.com:443?type=tcp&flow=xtls-rprx-vision&sni=max.ru&encryption=none&sid=fb916778d4&security=reality&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&seq=you_are_beautiful4947#🇷🇺🚀%20Обход%20БС%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.mutiki.ru:443?type=grpc&security=reality&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.mutiki.ru&mode=gun&serviceName=mutiki-grpc&_t=cf9c24f1#🇩🇪🚀%20Германия%20[🏳️LTE]%20|%20🥭🔥
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@104.129.164.140:80?security=none&host=s5.868001.xyz&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&encryption=none#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥
+vless://33de2596-d95d-412b-a8c2-410be7060ca3@87.249.36.136:443?flow=xtls-rprx-vision&fp=firefox&security=reality&sni=sellflow.org&type=tcp&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&_t=ab574ab8#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥
+vless://a487f942-fba4-4d29-ab5d-9c7992064c24@hentai-cdn.apruxdomain.xyz:80?type=ws&freeinternet=kizyak_vpn1782154405788#🇪🇸🚀%20Испания%20[🏳️LTE]%20|%20🥭🔥
+vless://33de2596-d95d-412b-a8c2-410be7060ca3@5.42.121.174:443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp&__rand=e2ccbcd5#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥
