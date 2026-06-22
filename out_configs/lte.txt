@@ -1,9 +1,11 @@
-# profile-title: 🐟 lte | 2026-06-22 09:20:31
+# profile-title: 🐟 lte | 2026-06-22 15:42:43
 # profile-update-interval: 1
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@5.10.245.21:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
-vless://efbb8405-fe89-4830-bc05-e2d1b575f8b5@web.riraro.ru:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&sid=0858af97f4e7324d&sni=web.riraro.ru#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-vless://33de2596-d95d-412b-a8c2-410be7060ca3@5.42.99.188:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.193.29.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
-vless://e3ebd5d5-7553-4f0f-99dd-a5d92029e941@185.147.27.105:80?encryption=none&type=websocket&security=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-vless://ad27d2d9-dd49-4a90-94e9-af7d2202b511@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-vless://f5c9060a-abbb-4f55-8ce3-f4d062eee292@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://c8c0a619-74ad-4365-9ca6-65af13e7739c@hentai-cdn.apruxdomain.xyz:80?type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
+vless://c3506ca8-0224-4711-99b0-276db410af95@hentai-cdn.apruxdomain.xyz:80?type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
+vless://92c3e2ac-c521-4065-9129-f61752c09808@hentai-cdn.apruxdomain.xyz:80?type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
+vless://d0f6d88b-589b-4147-9c72-fa76b3fea3b1@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@216.24.57.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.40.152.140:80?host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
+vless://6aa17b49-5f3c-47e6-9990-305a8b9f705e@hentai-cdn.apruxdomain.xyz:80?type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
+vmess://eyJhZGQiOiIzNy4yMjAuMTYxLjI0OSIsInBvcnQiOiI0NDMiLCJpZCI6ImRmOWM5MzU1LWIwMmMtNGMxMi05MDlkLTBkYmViNzI1ZDUyYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ2IjoiMiIsInBzIjoi8J+Hs/Cfh7EgVGhlIE5ldGhlcmxhbmRzIHwgWypDSURSXSIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwidHlwZSI6Im5vbmUiLCJzZXJ2ZXJQb3J0IjowLCJuYXRpb24iOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vless://d1e2cc62-a7e0-483d-9553-6511bcdfe727@hentai-cdn.apruxdomain.xyz:80?type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
