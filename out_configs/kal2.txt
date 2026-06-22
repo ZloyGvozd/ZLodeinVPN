@@ -1,15 +1,23 @@
-# profile-title: 🐟 kal2 | 2026-06-22 23:32:40
+# profile-title: 🐟 kal2 | 2026-06-23 01:41:23
 # profile-update-interval: 1
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80?host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&type=ws#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20[🏳️LTE]%20|%20🥭🔧
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.193.28.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20[🏳️LTE]%20|%20🥭🔧
-vless://b2fa120e-03d6-4aec-857a-a45013cceb01@hentai-cdn.apruxdomain.xyz:80?type=ws#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
-vless://9f446ac6-593a-41e1-9b69-1fda436fbadb@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20[🏳️LTE]%20|%20🥭🔧
+vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:62800?encryption=none&type=grpc&serviceName=grpc&mode=gun&security=reality&sni=yandex.ru&fp=chrome&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&sid=63a9b4c563de9906&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20|%20🥭🔧%20yandex.ru
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@160.153.1.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20[🏳️LTE]%20|%20🥭🔧
+vless://7d577d3b-71ff-4a12-99e5-b7662c92a9f1@185.147.27.105:80?encryption=none&type=ws&security=none&path=/#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@155.46.167.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20[🏳️LTE]%20|%20🥭🔧
+vless://394389d7-0110-411e-86b1-7fce866db43d@hentai-cdn.apruxdomain.xyz:80?type=ws#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://b21fcdda-72cb-43f1-91cd-04d6f8c46d1c@hentai-cdn.apruxdomain.xyz:80?type=ws#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20[🏳️LTE]%20|%20🥭🔧
+vless://f101fe5a-0b4f-4aaf-9c17-3b0767740259@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://ed8094c5-1232-4cbc-9c4b-d9a0684e388b@185.147.27.105:80?encryption=none&type=websocket&security=none#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://d0fa08fb-4222-4236-bc4e-5b59b1ed927b@185.147.27.105:80?type=websocket&security=none&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://a78fc785-220f-4a90-8970-1a4fd3550e78@hentai-cdn.apruxdomain.xyz:80?type=ws#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
 vless://5a8b3e25-8df4-44de-8d1a-f18483fa73db@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
-vless://dd442fff-2094-4a00-a11b-9dd6ddf2b2af@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
-vless://225f4a4b-5295-4d19-96f2-12326d279049@185.147.27.105:80?type=websocket&security=none&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
-vless://7698fed3-70c6-4938-b2da-e66a76dc44ff@185.147.27.105:80?type=ws&security=none&fp=firefox&path=/#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
-vless://a78fc785-220f-4a90-8970-1a4fd3550e78@185.147.27.105:80?type=ws&security=none&fp=firefox&path=/#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
-vless://7cc2bdf0-5dfe-4a02-a1d6-10d09efc7c11@185.147.27.105:80?type=ws&security=none&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
-vless://742882c9-29b0-4b74-a08d-d8f95ace8ccf@hentai-cdn.apruxdomain.xyz:80?type=ws#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
-vless://7fc295ae-7b73-48ff-a413-bf7cbaf94819@185.147.27.105:80?encryption=none&type=websocket&security=none#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
-vless://8c733dfd-07a4-4ad5-8b28-07ca0e57deda@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://fe33f63d-a57d-463a-962c-65592e614000@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://a5fd96f5-2e65-45cc-8c87-03287d051b65@hentai-cdn.apruxdomain.xyz:80?type=ws#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://16f7d3ac-8c63-4b23-8924-dbc3207d2310@hentai-cdn.apruxdomain.xyz:80?type=ws#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://9f45695f-0848-4d9d-9fac-949efdf2dc0b@hentai-cdn.apruxdomain.xyz:80?type=ws#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://24a151ae-39c7-4b3d-bada-653f12491369@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://a5fd96f5-2e65-45cc-8c87-03287d051b65@185.147.27.105:80?encryption=none&type=websocket&security=none#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://16f7d3ac-8c63-4b23-8924-dbc3207d2310@185.147.27.105:80?encryption=none&type=websocket&security=none#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://95b81434-fa22-4b86-af49-ed0f657624fa@hentai-cdn.apruxdomain.xyz:80?type=ws#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://48849476-d86c-40a7-889e-231a0396553b@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@135.84.73.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20[🏳️LTE]%20|%20🥭🔧

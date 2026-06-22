@@ -1,14 +1,11 @@
-# profile-title: 🐟 nothing2 | 2026-06-22 23:32:40
+# profile-title: 🐟 nothing2 | 2026-06-23 01:41:23
 # profile-update-interval: 1
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.75.199.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=s5.868001.xyz#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.40.146.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
-vless://2e081194-30ab-4df5-b434-173ebfbc7302@185.147.27.105:80?encryption=none&security=none&type=websocket#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-vless://e18dfd9f-15e3-41c0-b779-20b9d68a527e@185.147.27.105:80?type=ws&security=none&fp=firefox&path=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-vless://732914bc-a7ff-4cb0-a8d0-40a67fda19ff@hentai-cdn.apruxdomain.xyz:80?type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-vless://2e081194-30ab-4df5-b434-173ebfbc7302@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-vless://9fc6eff4-8b98-4d4a-9deb-fd27590d8439@hentai-cdn.apruxdomain.xyz:80?type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
-vless://20fc97f0-819c-4186-9004-33e93333f821@hentai-cdn.apruxdomain.xyz:80?type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-vless://1028a267-929a-45ca-a5d8-13dd180941d5@hentai-cdn.apruxdomain.xyz:80?type=ws&sni=hentai-cdn.apruxdomain.xyz#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-vless://caf28bd1-1e3a-4ef1-8b0b-2133330f65c5@185.147.27.105:80?type=websocket&security=none&encryption=none&headerType=none&allowInsecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
-vless://742882c9-29b0-4b74-a08d-d8f95ace8ccf@185.147.27.105:80?encryption=none&type=ws&security=none&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
-vless://b21fcdda-72cb-43f1-91cd-04d6f8c46d1c@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
+vless://871c5149-421e-45d5-8a75-dbbb22eec708@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+vless://d1e2cc62-a7e0-483d-9553-6511bcdfe727@185.147.27.105:80?encryption=none&type=ws&security=none&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+vless://d0f6d88b-589b-4147-9c72-fa76b3fea3b1@hentai-cdn.apruxdomain.xyz:80?type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
+vless://225f4a4b-5295-4d19-96f2-12326d279049@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
+vless://16964702-6ee8-42c2-9d32-ac812688a655@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+vless://26ab47c5-d6c2-493b-829c-2eb04c232ea9@hentai-cdn.apruxdomain.xyz:80?type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
+vless://be0c9e54-2fe1-4130-a280-2607c32f9d57@hentai-cdn.apruxdomain.xyz:80?type=ws&security=none&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+vless://76b46bb4-995b-4c93-8d60-0bbbdf066b2c@hentai-cdn.apruxdomain.xyz:80?type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
+vless://915ee84b-e331-440d-a5ee-3f755a92c4e8@hentai-cdn.apruxdomain.xyz:80?type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D
