@@ -1,6 +1,2 @@
-# profile-title: 🐟 nothing | 2026-06-23 02:59:56
+# profile-title: 🐟 nothing | 2026-06-23 19:20:01
 # profile-update-interval: 1
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@152.233.54.69:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=vLb66rBLZnMI1VPKxp90Dcuc0p2fyHdL3HwaxvNHzTA&sid=f3a0090e#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5BSNI-RU%5D%20api-maps.yandex.ru
-vless://c0fb5126-93f2-45dd-98c7-a1501b93d6db@2.59.80.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rbc.ru&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=caa0a516476ad539#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20rbc.ru
-vless://7f25a44d-d5bc-459b-ae0d-e9729606ba23@89.125.169.89:44333?flow=xtls-rprx-vision&fp=firefox&pbk=i3ZLu0BrMnsEuDUgWoceRnaYMzRVphJE0CiPXmEhE3c&security=reality&sid=63a9b4c563de9906&sni=yandex.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20yandex.ru
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@84.17.58.133:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=3hiGU9oArRYulbhHEJa7nTfx1k0XL6ItE_xs-8Yi_Uc&sid=17a2a5e0#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5BSNI-RU%5D%20api-maps.yandex.ru
