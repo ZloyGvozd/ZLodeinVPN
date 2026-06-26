@@ -1,6 +1,9 @@
-# profile-title: 🐟 kal2 | 2026-06-26 05:11:21
+# profile-title: 🐟 kal2 | 2026-06-27 01:02:17
 # profile-update-interval: 1
-hysteria2://9f57befb-85df-4c38-b921-438a6be3f9a3@213.171.9.195:25443?sni=cloudrynth.com#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://9f57befb-85df-4c38-b921-438a6be3f9a3@62.76.233.254:25443?sni=cloudrynth.com#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?burmalda=f3ababc1&sni=fta.fontanvpn.com&__rand=025d5f55&_t=6cacf777#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=1&sni=fta.fontanvpn.com&burmalda=af3b0558#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
+vless://b0a1db0a-3eb3-4b4c-9f06-8bad15372913@81.163.23.124:12443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ns&fp=firefox&sni=id.pervye.ru&pbk=28Iwv9KyGQTlwhUFKlZlIAKlDm667ETHdv-YgLh0WEM#%F0%9F%87%AC%F0%9F%87%A7%20Великобритания%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&encryption=none&headerType=none&sni=fta.fontanvpn.com&insecure=0&seq=you_are_beautiful5049&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83523#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&burmalda=f3ababc1&sni=fta.fontanvpn.com&descriptions=141&seq=you_are_beautiful4806#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&__rand=c22067a8&__rand=4817afef&seq=you_are_beautiful6001&sni=newlte.kihsuyhf8jkiugsxb.cfd&freeinternet=kizyak_vpn1782416521369#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&sni=fta.fontanvpn.com&descriptions=_a4cf7d#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@82.202.137.6:9887/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&security=reality&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd#%F0%9F%87%B0%F0%9F%87%BF%20Казахстан%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&sni=fta.fontanvpn.com&freeinternet=kizyak_vpn1782262504674#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧

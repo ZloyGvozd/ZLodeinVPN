@@ -1,8 +1,7 @@
-# profile-title: 🐟 lte | 2026-06-26 05:11:21
+# profile-title: 🐟 lte | 2026-06-27 01:02:17
 # profile-update-interval: 1
-vless://69de2fc8-d12f-451c-82b3-d5b578120e50@91.193.58.246:8443?path=%2F&security=tls&encryption=none&insecure=0&host=nova-turbo-core-c842.nova-4ab463.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-turbo-core-c842.nova-4ab463.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-hysteria2://9f57befb-85df-4c38-b921-438a6be3f9a3@194.87.56.99:25443?sni=cloudrynth.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://95ced04a-e23c-49c2-85ff-4c2788e9631d@31.129.42.243:6443?encryption=none&security=reality&type=grpc&sni=5post-gate.x5.ru&fp=qq&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=5c766813929a1fdd&serviceName=grpc&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?insecure=1&sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&insecure=0&seq=you_are_beautiful6001&sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-vless://5fdf2809-9b94-0011-bd50-81027af9cef4@82.202.136.255:443?flow=xtls-rprx-vision&fp=qq&packetencoding=xudp&pbk=ho7BivYLLBlfgtWEaRqF_g6OOHiKINEyAFDm6wbPDXI&security=reality&sid=b8357afdce856d30&sni=cascad.anotherboring.top#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D
+vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none&security=tls&sni=febeyop587.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=febeyop587.pages.dev&path=/service?ed=2560#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?path=%2Fca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&fp=firefox&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com&descriptions=_4bf2f6&nonce=vKY6H3Vl#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?insecure=1&sni=fta.fontanvpn.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@82.202.137.6:9887/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&security=reality&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5B%2ACIDR%5D
