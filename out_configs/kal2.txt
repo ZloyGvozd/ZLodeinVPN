@@ -1,18 +1,6 @@
-# profile-title: 🐟 kal2 | 2026-06-25 05:49:56
+# profile-title: 🐟 kal2 | 2026-06-26 05:11:21
 # profile-update-interval: 1
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&_t=ececfc53&_t=3badc77d#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?security=tls&sni=fta.fontanvpn.com#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&freeinternet=kizyak_vpn1782318548520#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8Fc25a3f#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?encryption=none&sni=fta.fontanvpn.com&insecure=0&headerType=none&__rand=025d5f55&freeinternet=kizyak_vpn178219664666#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?insecure=1&sni=fta.fontanvpn.com#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?security=tls&insecure=0&sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20[🏳️LTE]%20|%20🥭🔧
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&_t=ececfc53&__rand=42b96464#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
-vless://09a61668-5802-4b2e-ae84-d7ca482cac1d@ru.verymad.net:20468?type=tcp&security=reality&encryption=none&fp=firefox&pbk=fZN3RaPoUpvSEE07sPTzvQva27vY3ooA3RYci5KL42Q&sid=a198d287017f32&sni=www.vk.com&spx=%2FLSiXfaHGN6JNCKm#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B5%F0%9F%87%B1%20|%20🥭🔧%20www.vk.com
-vless://0bb3239a-1e0f-4f44-9957-09e70d536125@185.86.146.53:47000/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=8gvuFoZFiWq4Bqrote2sLeQDvjWKV-FbptzTLAYbsEI&sid=6148904a#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?path=%2Fdula&security=none&encryption=none&host=speed.dulacloud.store&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Сингапур%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
-vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@78.41.111.87:443?encryption=none&type=ws&security=tls&path=/api/user&host=s10211.cdn.ngenix.net&fp=qq&sni=s10211.cdn.ngenix.net#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@support.zoom.us:80?type=ws&path=%2Fdula&host=speed.dulacloud.store&sni=support.zoom.us#%F0%9F%87%B8%F0%9F%87%AC%20Сингапур%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
-vless://736dc313-3eb7-46d0-9564-49e3ad1b3fa4@fi.kuda-idem-nvrsk.ru:30904?sni=vk.ru&security=reality&pbk=G8lsgZQLC1cydeTSGFcugL-Zwxq-yIoaLONODkMuQA4&spx=/4GI0RR6YZdFm2nJ&encryption=none&fp=qq&type=tcp&sid=72&__rand=bf8007ec#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20|%20🥭🔧%20vk.ru
+hysteria2://9f57befb-85df-4c38-b921-438a6be3f9a3@213.171.9.195:25443?sni=cloudrynth.com#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://9f57befb-85df-4c38-b921-438a6be3f9a3@62.76.233.254:25443?sni=cloudrynth.com#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?burmalda=f3ababc1&sni=fta.fontanvpn.com&__rand=025d5f55&_t=6cacf777#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=1&sni=fta.fontanvpn.com&burmalda=af3b0558#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
