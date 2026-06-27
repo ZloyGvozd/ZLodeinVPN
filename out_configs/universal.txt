@@ -1,7 +1,4 @@
-# profile-title: 🐟 universal | 2026-06-27 12:22:33
+# profile-title: 🐟 universal | 2026-06-28 01:54:14
 # profile-update-interval: 1
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@85.208.85.235:9877?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-tunnel&fp=chrome&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU#%F0%9F%87%AB%F0%9F%87%B7%20France%20%E2%80%94%20%23133
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@46.16.36.26:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=io.ozone.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4#%F0%9F%87%B7%F0%9F%87%BA%20cloud.ru%20%E2%80%94%20%2313
-vless://8707b088-f0ba-40a0-95f0-ccf99d9b47e2@51.250.47.219:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2369
-vless://8707b088-f0ba-40a0-95f0-ccf99d9b47e2@46.182.24.163:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=PL09r78ubjFaOILv5x6HPsCZeTdwhlRb3tuDY5vASwQ#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23132
-vless://88caf853-db3e-42c1-ae2e-aff2eb7fac2a@46.254.17.72:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-1-1.legendary.ac&pbk=Ce2abow3fU3pN2_mlX3uJW93sBMgTI9qNo5q7_EgFTA&sid=c4a70eddb745b1ea#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%E2%80%94%20%23125
+vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@212.116.115.209:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=chrome&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%E2%80%94%20%2317
+vless://59ba99be-c0ae-4058-a900-4a76549e7d1a@213.219.212.177:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=POvnOAc0uakwEiACRDG0R4z8fO9_GPyh2Ozkd6VAOjU&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23228
