@@ -1,6 +1,3 @@
-# profile-title: 🐟 nothing2 | 2026-06-27 09:20:57
+# profile-title: 🐟 nothing2 | 2026-06-27 12:22:33
 # profile-update-interval: 1
-vless://97d290a0-acec-4aae-b8cf-c7111a5a6397@217.149.29.251:9888?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%B8%20Serbia%20%5B%2ACIDR%5D
-vless://17550015-678f-43ad-b0d2-65c0a829bedb@ads.cloudload.org:443?security=reality&sni=ads.cloudload.org&fp=chrome&pbk=tBm4fiAXNY7qfnNa0TVKHIn3Ayd2caatRhXGh3US-zM&sid=a1ab5a56bc42abb1&flow=xtls-rprx-vision&type=tcp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&headerType=none&seq=you_are_beautiful6001&sni=newlte.kihsuyhf8jkiugsxb.cfd&__rand=4817afef&insecure=0&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F556dab#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?headerType=none&encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&insecure=0&_t=09ddadeb#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=1&sni=fta.fontanvpn.com&freeinternet=kizyak_vpn1782323570413#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
