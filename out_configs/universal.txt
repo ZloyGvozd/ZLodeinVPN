@@ -1,5 +1,2 @@
-# profile-title: 🐟 universal | 2026-06-28 05:28:11
+# profile-title: 🐟 universal | 2026-06-28 09:53:47
 # profile-update-interval: 1
-vless://b62c5da3-e7b8-4f61-82a6-448ea8472984@158.160.249.252:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=xwusQ4IEWdYyuPLCc4LOA89P6HyQDNT7xo_75v2YW2I&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2362
-vless://b62c5da3-e7b8-4f61-82a6-448ea8472984@84.201.153.33:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=iRbc5G3wZbluYutzDvrJlc356yJsEnhV1T4tvE-tCnM&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2355
-vless://0121ffed-0e5e-41c5-aeeb-5f3d036c5e18@62.152.56.73:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=wl-12.nodes.ac&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&sid=cf43c0c197cd464a#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23267
