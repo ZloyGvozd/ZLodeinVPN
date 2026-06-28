@@ -1,3 +1,2 @@
-# profile-title: 🐟 universal | 2026-06-28 16:13:30
+# profile-title: 🐟 universal | 2026-06-28 19:57:53
 # profile-update-interval: 1
-vless://d9228d5d-618d-4771-835f-96b4ebdd38cd@185.72.144.177:2096?encryption=none&type=grpc&security=reality&mode=gun&serviceName=vless-grpc-reality&fp=firefox&sni=id.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2333
