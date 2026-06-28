@@ -1,5 +1,2 @@
-# profile-title: 🐟 nothing2 | 2026-06-28 14:41:22
+# profile-title: 🐟 nothing2 | 2026-06-28 16:13:30
 # profile-update-interval: 1
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&headerType=none&insecure=0&encryption=none&__rand=c22067a8&seq=you_are_beautiful6001&sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?headerType=none&encryption=none&sni=fta.fontanvpn.com&insecure=0&seq=you_are_beautiful5049&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&__rand=1881306f#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://c059a786-3a03-4300-9ace-4f9cda0f360c@wlte9.nimarko.org:8451?insecure=0&sni=testing7.nimarko.org&allowInsecure=0&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8Fa84e7a#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
