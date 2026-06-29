@@ -1,2 +1,5 @@
-# profile-title: 🐟 nothing2 | 2026-06-28 19:57:53
+# profile-title: 🐟 nothing2 | 2026-06-29 21:58:44
 # profile-update-interval: 1
+hysteria2://c059a786-3a03-4300-9ace-4f9cda0f360c@wlte9.nimarko.org:8451?insecure=0&sni=testing7.nimarko.org&allowInsecure=0&nonce=2wV0Z42Z#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+hysteria2://c059a786-3a03-4300-9ace-4f9cda0f360c@wlte3.nimarko.org:8444?allowInsecure=0&insecure=0&sni=testing8.nimarko.org&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F555d8f#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
+hysteria2://c059a786-3a03-4300-9ace-4f9cda0f360c@wlte8.nimarko.org:8450?headerType=none&encryption=none&sni=testing6.nimarko.org&insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
