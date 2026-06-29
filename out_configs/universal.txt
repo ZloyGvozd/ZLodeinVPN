@@ -1,3 +1,5 @@
-# profile-title: 🐟 universal | 2026-06-29 23:48:35
+# profile-title: 🐟 universal | 2026-06-30 02:53:13
 # profile-update-interval: 1
-vless://214906b4-96fd-48f6-977b-a26a89b7b973@81.163.23.115:2097?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=firefox&sni=gazeta-business.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=28a059440d3d5ba1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23105
+vless://c0fb5126-93f2-45dd-98c7-a1501b93d6db@62.113.75.187:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rbc.ru&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=1c74cf626ef50bb3#%F0%9F%87%B7%F0%9F%87%BA%20MTS%20PJSC%20%E2%80%94%20%2313
+vless://15ca1cf6-dfe1-4a06-8328-cc41273dc198@51.250.30.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2360
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@158.160.196.38:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=rezerv9.yunus.guru&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&sid=34256b39b4ebb864#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23176
