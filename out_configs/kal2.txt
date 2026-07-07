@@ -1,4 +1,6 @@
-# profile-title: 🐟 kal2 | 2026-07-07 20:04:52
+# profile-title: 🐟 kal2 | 2026-07-07 22:39:10
 # profile-update-interval: 1
-vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.105:443?type=tcp&security=reality&encryption=none&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://5f2e8fd5-f696-4c55-ac6c-56c2656648b0@185.241.195.217:443?flow=xtls-rprx-vision&fp=firefox&pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&security=reality&sid=be0191cc&sni=www.tesla.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@8.6.112.0:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20Франция%20[🏳️LTE]%20|%20🥭🔧
+vless://02199121-0490-4760-b0c0-7193ce8081aa@ru.monkeyvillage.pro:443?type=tcp&security=reality&sni=ru.monkeyvillage.pro&fp=firefox&pbk=H0bAU_r0uJoCA-yq9TXr54tZZ13jON20h8oGPkvWuS0&sid=63693d891f9d03b8&encryption=none&flow=xtls-rprx-vision#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
+vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.24:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://3483aa7a-8a7d-4561-8f77-4fbf7a0b1033@45.10.246.207:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=sun6-20.userapi.com&pbk=uemqA7VkHB7Xw_gc88AfbBijEJgiWaVdCiIyMae8CSI#%F0%9F%87%AC%F0%9F%87%A7%20Великобритания%20[🏳️LTE]%20|%20🥭🔧

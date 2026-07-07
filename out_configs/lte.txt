@@ -1,6 +1,7 @@
-# profile-title: 🐟 lte | 2026-07-07 20:04:52
+# profile-title: 🐟 lte | 2026-07-07 22:39:10
 # profile-update-interval: 1
 vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.14:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-vless://bef0efb5-8128-4dd7-80ce-f6a2629b338c@46.8.18.166:443?flow=xtls-rprx-vision&fp=firefox&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&security=reality&sid=ae03e6ef452252e0&sni=www.vk.com&type=raw#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://8936e564-711e-4602-86fd-d9fa9ec07695@195.208.65.150:443?type=ws&security=tls&fp=chrome&sni=s46270.cdn.ngenix.net&path=/v1/data/sync/&host=s46270.cdn.ngenix.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-vless://9b585f5c-179f-4060-8f48-e91a7c7ccd44@195.208.65.192:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s46270.cdn.ngenix.net&fp=chrome&sni=s46270.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://429fb070-1b06-498e-a4c2-3f38f07c116a@62.152.60.56:7443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=hlJpjNVBd0c3DP2ngqXoaKtgw-0p5PKj5eF9mO_Od3I&sid=45ba91f179ad1f26#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://78fe8411-ffa8-4ef5-8447-c887e62bf2a7@195.209.88.182:443?type=ws&security=tls&fp=chrome&sni=s36978.cdn.ngenix.net&path=/v1/data/sync/&host=s36978.cdn.ngenix.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://317cc64a-4149-40f2-9f71-f4376acab8b2@78.41.110.128:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&fp=chrome&sni=s36978.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://edbf777a-0b43-45e8-8ca5-fb527d0fbcf7@195.208.65.192:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s46270.cdn.ngenix.net&fp=chrome&sni=s46270.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
