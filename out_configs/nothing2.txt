@@ -1,4 +1,2 @@
-# profile-title: 🐟 nothing2 | 2026-07-06 10:00:43
+# profile-title: 🐟 nothing2 | 2026-07-07 03:02:10
 # profile-update-interval: 1
-vless://7cec3808-65d4-4dbd-941f-e9b640977071@cdn.stroimvmeste.icu:443?encryption=none&mode=auto&path=%2Fstart&security=tls&sni=cdn.stroimvmeste.icu&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://a7cb1c13-7f8e-4806-948c-b60d4e31f5e9@195.208.65.150:443?type=ws&security=tls&encryption=none&path=%2Fv1%2Fdata%2Fsync%2F&host=s46270.cdn.ngenix.net&sni=s46270.cdn.ngenix.net&fp=chrome&alpn=http%2F1.1&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
