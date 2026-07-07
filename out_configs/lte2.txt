@@ -1,4 +1,4 @@
-# profile-title: 🐟 lte2 | 2026-07-07 22:39:10
+# profile-title: 🐟 lte2 | 2026-07-08 00:14:09
 # profile-update-interval: 1
-trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
 vless://8936e564-711e-4602-86fd-d9fa9ec07695@195.208.65.150:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s46270.cdn.ngenix.net&fp=chrome&sni=s46270.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://648e92a4-38a2-419a-803f-03db0fb523fd@195.208.65.150:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s46270.cdn.ngenix.net&fp=chrome&sni=s46270.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D

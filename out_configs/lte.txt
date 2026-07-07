@@ -1,7 +1,5 @@
-# profile-title: 🐟 lte | 2026-07-07 22:39:10
+# profile-title: 🐟 lte | 2026-07-08 00:14:09
 # profile-update-interval: 1
-vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.14:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-vless://429fb070-1b06-498e-a4c2-3f38f07c116a@62.152.60.56:7443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=hlJpjNVBd0c3DP2ngqXoaKtgw-0p5PKj5eF9mO_Od3I&sid=45ba91f179ad1f26#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://78fe8411-ffa8-4ef5-8447-c887e62bf2a7@195.209.88.182:443?type=ws&security=tls&fp=chrome&sni=s36978.cdn.ngenix.net&path=/v1/data/sync/&host=s36978.cdn.ngenix.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-vless://317cc64a-4149-40f2-9f71-f4376acab8b2@78.41.110.128:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&fp=chrome&sni=s36978.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-vless://edbf777a-0b43-45e8-8ca5-fb527d0fbcf7@195.208.65.192:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s46270.cdn.ngenix.net&fp=chrome&sni=s46270.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://ae43ed30-ad71-475d-b55c-b156f602a6cd@securitytrails.com:2087?security=tls&type=xhttp&path=/forall&host=fl2.forall-npv.shop&packetEncoding=xudp&alpn=h2,http/1.1&sni=fl2.forall-npv.shop&fp=chrome&mode=auto&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@ru-213.monkeyisland.xyz:443?type=tcp&security=reality&fp=firefox&sni=eh.vk.ru&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.14:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
