@@ -1,8 +1,3 @@
-# profile-title: 🐟 kal2 | 2026-07-08 10:26:43
+# profile-title: 🐟 kal2 | 2026-07-08 13:06:22
 # profile-update-interval: 1
 vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.30:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://a5d0bebb-3a92-075a-2df3-4c7d36b04af0@194.55.239.243:443?flow=xtls-rprx-vision&fp=firefox&host=194.55.239.243&packetEncoding=xudp&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=ads.x5.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
-vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.105:443?flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://1144c488-b3e9-470b-977c-a12fb75b1113@62.113.75.187:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=rbc.ru&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=caa0a516476ad539#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20|%20🥭🔧%20rbc.ru
-vless://4f27624e-605f-404d-8f39-b03dbcf85f21@195.209.88.182:443?type=ws&security=tls&fp=chrome&sni=s36978.cdn.ngenix.net&path=/v1/data/sync/&host=s36978.cdn.ngenix.net#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20[🏳️LTE]%20|%20🥭🔧
-vless://d5c8cc86-bee1-49fe-9741-af7cd5b3a239@195.208.65.192:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s46270.cdn.ngenix.net&fp=chrome&sni=s46270.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20[🏳️LTE]%20|%20🥭🔧

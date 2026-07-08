@@ -1,3 +1,2 @@
-# profile-title: 🐟 nothing2 | 2026-07-08 10:26:43
+# profile-title: 🐟 nothing2 | 2026-07-08 13:06:22
 # profile-update-interval: 1
-vless://4f27624e-605f-404d-8f39-b03dbcf85f21@195.208.65.163:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&fp=chrome&sni=s36978.cdn.ngenix.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D

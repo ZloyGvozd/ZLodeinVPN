@@ -1,11 +1,2 @@
-# profile-title: 🐟 lte2 | 2026-07-08 10:26:43
+# profile-title: 🐟 lte2 | 2026-07-08 13:06:22
 # profile-update-interval: 1
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@8.47.69.0:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&host=space.byu.id.yxls.eu.cc&allowInsecure=0&insecure=0&path=%2Fau-do#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%BA%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@192.144.13.35:59242?type=raw&security=none&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://27c1d725-629c-4e65-9271-d6f5df82c7e9@176.108.253.62:8443?flow=xtls-rprx-vision&fp=firefox&pbk=EXRoxjZNxee7kHL4YI1ThpL-IiIrXj89gzqY5jvS6BA&security=reality&sid=1f6dffff8a&sni=updx.darkpn.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://dba50bb9-2456-4128-8632-f7ba1e6a7ab5@78.41.111.87:443?encryption=none&type=ws&security=tls&path=/api/user&host=s10211.cdn.ngenix.net&sni=s10211.cdn.ngenix.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@46.8.208.17:7443?encryption=none&type=ws&security=tls&path=%2Fws&sni=mms-3.hysteria.ltd#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://78fe8411-ffa8-4ef5-8447-c887e62bf2a7@195.208.65.163:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&fp=chrome&sni=s36978.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-vless://e369547a-d774-4c07-a81f-6e0749cb8a03@78.41.110.128:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&fp=chrome&sni=s36978.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-vless://d5c8cc86-bee1-49fe-9741-af7cd5b3a239@195.208.65.150:443?type=ws&security=tls&encryption=none&path=%2Fv1%2Fdata%2Fsync%2F&host=s46270.cdn.ngenix.net&sni=s46270.cdn.ngenix.net&fp=chrome&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
