@@ -1,7 +1,9 @@
-# profile-title: 🐟 lte | 2026-07-08 02:45:49
+# profile-title: 🐟 lte | 2026-07-08 04:29:32
 # profile-update-interval: 1
-vless://a5d0bebb-3a92-075a-2df3-4c7d36b04af0@213.219.212.14:443?type=tcp&security=reality&encryption=none&sni=eh.vk.ru&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@185.86.145.231:5443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=max.ru&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
-vless://41fc2bf8-86cb-4c01-93e8-a5c00f73247d@195.208.65.163:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&fp=chrome&sni=s36978.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-vless://e369547a-d774-4c07-a81f-6e0749cb8a03@195.208.65.163:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&fp=chrome&sni=s36978.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-vless://cc439bee-9a29-4cf6-b202-36bab348c962@78.41.110.128:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&fp=chrome&sni=s36978.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://347166e5-b4ee-487a-8b8a-aadf99ffb9f2@192.144.13.35:59242?type=raw&security=none&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
+trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D
+vless://41fc2bf8-86cb-4c01-93e8-a5c00f73247d@78.41.110.128:443?type=ws&security=tls&fp=chrome&sni=s36978.cdn.ngenix.net&path=/v1/data/sync/&host=s36978.cdn.ngenix.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://41fc2bf8-86cb-4c01-93e8-a5c00f73247d@78.41.110.128:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&fp=chrome&sni=s36978.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://e369547a-d774-4c07-a81f-6e0749cb8a03@78.41.110.128:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s36978.cdn.ngenix.net&fp=chrome&sni=s36978.cdn.ngenix.net&alpn=http%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://2dbbc5af-aadb-48fa-8730-52d4d9247184@92.53.74.129:443?flow=xtls-rprx-vision&fp=firefox&pbk=WjuwZbmCjN8TmT4wZL6zTevQr3mnOATafLpQi1ofzCs&security=reality&sid=de7c7bd7&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
+vless://5f068229-56d7-4af0-bdd2-36550e65c3c6@195.209.88.182:443?type=ws&security=tls&fp=chrome&sni=s36978.cdn.ngenix.net&path=/v1/data/sync/&host=s36978.cdn.ngenix.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
