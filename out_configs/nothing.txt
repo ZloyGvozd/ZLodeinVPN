@@ -1,2 +1,6 @@
-# profile-title: 🐟 nothing | 2026-07-09 22:20:34
+# profile-title: 🐟 nothing | 2026-07-10 00:11:16
 # profile-update-interval: 1
+vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=ece180c605b5453c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5BSNI-RU%5D%20yandex.net
+vless://c40f773e-3b96-417e-b22c-e48cb63ca7d9@144.31.87.16:443?fp=safari&pbk=l5eAOSPQMEyzEPvWGAKvCkcPpsJvR3DJfYo6elw1UTE&security=reality&sid=3b802dad547b0847&sni=yandex.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20yandex.ru
+vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@am.janvpn.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=vk-portal.net&fp=firefox&pbk=Qse9gI7x_oaUtYpat3UdIMdIU8x_nYIGegq96omgXg0&sid=fa1aa700&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20vk-portal.net
+vless://5c221de4-590b-41b8-8a3d-4c7dd6d0948f@gb.janaj.space:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=safari&pbk=p2kybyvJhP9F98fLS4TcL8nNcFE-MdhfGoVBlGkdHUs&sid=d1&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru

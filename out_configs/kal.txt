@@ -1,5 +1,3 @@
-# profile-title: 🐟 kal | 2026-07-09 22:20:34
+# profile-title: 🐟 kal | 2026-07-10 00:11:16
 # profile-update-interval: 1
-vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@45.151.101.137:2053?sni=www.amazon.com&sid=17&pbk=l_C0QQhMVDqhDT3-_AS8cBoOOhKksv8ubX4cf4EVjwo&spx=/5QFfdWJo6AMdStV&type=grpc&security=reality&encryption=none&serviceName=grpc-ru-2053-4f7b2a&fp=chrome&mode=gun&seq=you_are_beautiful0124#🇸🇨🚀%20Сейшелы%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://5e8add97-7e48-458a-a000-32d0d6fa253e@195.201.232.215:8443?path=/&fp=chrome&type=xhttp&pbk=nm8EUwqyxdBuJke7StEgzNV9BEeVYDNqfRFb3v_KI2w&host=play.google.com&encryption=none&sni=play.google.com&mode=auto&sid=099fadc24a55af9a&security=reality#🇩🇪🚀%20Германия%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://534773cf-7d0b-4acf-ac4f-dbc79e42a9a8@89.125.201.223:8443?encryption=none&mode=auto&fp=chrome&path=/&type=xhttp&extra={"xPaddingBytes":"100-1000"}&spx=/&sni=www.vk.ru&sid=99ea&security=reality&pbk=4bgFY_YO2RjobBYyYjfEfHIX_dyhtvaDrN086wl1TmE&seq=you_are_beautiful9471#🇦🇪🚀%20ОАЭ%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://a9a96ecb-0d66-5809-a833-7a7431c1ca60@62.60.248.105:2053?mode=gun&security=reality&encryption=none&pbk=kwKk436AjoyIrYSQzm3VoGLoFDLIIYRGLQ-RRVFUH20&fp=chrome&spx=%2FKPC757WiVsr9e7X&type=grpc&serviceName=grpc-bf898949e88a9c94&sni=www.amazon.com&sid=b9b08cbb&_t=b5279345#🇫🇷🚀%20Франция%20🔐%20[🏳️LTE]%20|%20🥭🔥
