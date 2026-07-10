@@ -1,3 +1,4 @@
-# profile-title: 🐟 kal2 | 2026-07-10 00:11:16
+# profile-title: 🐟 kal2 | 2026-07-10 04:50:27
 # profile-update-interval: 1
-vless://cf0c0f54-6ac2-4bec-8ef6-436ef83e2eae@45.192.2.173:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=ece180c605b5453c&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20Франция%20|%20🥭🔧%20yandex.net
+vless://0e3ec08f-840e-46f8-b11e-3a5decbb97b6@46.8.208.49:7443?encryption=none&security=tls&sni=nl-cnn-1.hysteria.ltd&fp=qq&allowinsecure=0&type=ws&path=%2Fws#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20[🏳️LTE]%20|%20🥭🔧
+vless://db7cae85-3c1a-4e4f-b317-7cdeaf419c5a@217.16.31.86:1695?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20[🏳️LTE]%20|%20🥭🔧%20%20
