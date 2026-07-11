@@ -1,2 +1,3 @@
-# profile-title: 🐟 kal2 | 2026-07-11 10:05:23
+# profile-title: 🐟 kal2 | 2026-07-11 12:16:07
 # profile-update-interval: 1
+vless://3961eb2b-920e-4bb9-8e25-50385bb6e61c@158.160.199.147:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=safari&sni=netherlands.sirwallace.online&pbk=uF6p-DVcYWZQzShhxDaS5NmRyKUsIznLasUL6a__J0o&sid=d7b6c1864c0e20c4#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20[🏳️LTE]%20|%20🥭🔧%20%20
