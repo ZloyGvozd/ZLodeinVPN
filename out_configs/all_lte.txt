@@ -1,3 +1,5 @@
-# profile-title: 🐟 all_lte | 2026-07-12 17:22:43
+# profile-title: 🐟 all_lte | 2026-07-12 18:49:17
 # profile-update-interval: 1
+vless://ca816894-0b86-57ed-9512-46cba3dc2656@ansooyefilter-channel-production.up.railway.app:443?encryption=none&security=tls&sni=ansooyefilter-channel-production.up.railway.app&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ansooyefilter-channel-production.up.railway.app&path=%2Fws%2Fca816894-0b86-57ed-9512-46cba3dc2656#%F0%9F%8C%90%20Unknown%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
+vless://891710f4-45f3-41b1-99a6-6f1510f83c10@1.tls.fastly.veraspeed.ir:443?host=pan21.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_409%20t.me%2Frjsxrd
 vless://f22c9b63-f93b-4650-80d7-937c5422c471@51.250.73.31:443?type=tcp&sni=api-maps.yandex.ru&sid=2476f063981ffd92&flow=xtls-rprx-vision&fp=chrome&encryption=none&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg#🇷🇺🚀%20Обход%20БС%20🔐%20[🏳️LTE]%20|%20🥭🔥
