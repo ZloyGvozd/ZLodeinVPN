@@ -1,2 +1,4 @@
-# profile-title: 🐟 nothing | 2026-07-12 12:46:53
+# profile-title: 🐟 nothing | 2026-07-12 14:03:53
 # profile-update-interval: 1
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@alb.neobo-tooth.ru:2053?security=reality&encryption=none&pbk=aRCeR1KbNZot8zPLt92CHF3YsIrQsaYlaqTrqO8TFAo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=4d35aeadedb6b30d#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B1%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BSNI-RU%5D%20vk.ru
+vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@141.98.87.48:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=eh.vk.com&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20eh.vk.com

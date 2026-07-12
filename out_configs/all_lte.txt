@@ -1,4 +1,3 @@
-# profile-title: 🐟 all_lte | 2026-07-12 12:46:53
+# profile-title: 🐟 all_lte | 2026-07-12 14:03:53
 # profile-update-interval: 1
-vless://891710f4-45f3-41b1-99a6-6f1510f83c10@1.tls.fastly.veraspeed.ir:443?host=pan21.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8_%E7%BE%8E%E5%9B%BD_409%20t.me%2Frjsxrd
-vless://2797a040-443c-4249-ab49-546b37519642@90.156.218.124:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=eh.vk.com&pbk=CiWrWBKXgbKMGZPzTxsX05YsTc-_iDiiAIAHj3hReCU&sid=5c18a7d3263f1442&_t=9d0810a8#🇳🇱🚀%20Нидерланды%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://9b6ec118-6543-4137-9817-42820f39d2e6@62.152.59.10:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=m.vk.com&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%E2%80%94%20%23202
