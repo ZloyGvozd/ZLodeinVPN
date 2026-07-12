@@ -1,3 +1,4 @@
-# profile-title: 🐟 kal | 2026-07-12 18:49:17
+# profile-title: 🐟 kal | 2026-07-13 01:37:15
 # profile-update-interval: 1
-vless://f22c9b63-f93b-4650-80d7-937c5422c471@51.250.73.31:443?type=tcp&sni=api-maps.yandex.ru&sid=2476f063981ffd92&flow=xtls-rprx-vision&fp=chrome&encryption=none&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg#🇷🇺🚀%20Обход%20БС%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://af19ce98-b58b-43ef-9f0d-2ae6343e28fe@blue-disk-1124.sawmansafi.workers.dev:2086?encryption=none&host=blue-disk-1124.sawmansafi.workers.dev&type=ws&security=none&path=/eyJqdW5rIjoiQ1ZmVEI4a1lCZmVqRFZyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed=2560#🇧🇸🚀%20Эщкерия%20[🏳️LTE]%20|%20🥭🔥
+vless://6b6733fb-580b-411b-8bf8-51137c2aa037@www.ipget.net:8880?&security=false&fp=chrome&type=ws&headerType=none&host=restless-sky-eb31.438-aa8.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&nonce=N3TmTC26#🇨🇦🚀%20Канада%20[🏳️LTE]%20|%20🥭🔥
