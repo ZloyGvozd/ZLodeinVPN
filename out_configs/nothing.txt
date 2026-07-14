@@ -1,3 +1,2 @@
-# profile-title: 🐟 nothing | 2026-07-15 00:45:41
+# profile-title: 🐟 nothing | 2026-07-15 01:45:22
 # profile-update-interval: 1
-vless://a4a7b274-39e1-4d79-8122-66f96c0affad@185.145.245.227:443?mode=gun&security=reality&encryption=none&pbk=epKxGHvul2A8tNMFsEDFN2P71B-WbEEwbqbPLyNlYFg&fp=edge&type=grpc&serviceName=web-grpc&sni=dzen.ru&sid=e549af0908#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20dzen.ru
