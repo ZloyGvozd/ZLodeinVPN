@@ -1,3 +1,2 @@
-# profile-title: 🐟 kal2 | 2026-07-13 17:02:28
+# profile-title: 🐟 kal2 | 2026-07-15 00:45:41
 # profile-update-interval: 1
-vless://c0aa0cee-e855-4bcc-9afc-46241cb17990@109.120.152.19:443?sni=fast_s89.screw.page&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
