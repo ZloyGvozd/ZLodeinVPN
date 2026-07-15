@@ -1,2 +1,6 @@
-# profile-title: 🐟 nothing | 2026-07-15 01:45:22
+# profile-title: 🐟 nothing | 2026-07-15 12:49:15
 # profile-update-interval: 1
+vless://1388bb49-e4a1-485d-b9ee-02ba3742f8f6@94.183.224.21:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=OnvxYKheQYpnGbyaF5S392QFQwYvFPOTuAnSJEweCG0&sni=avito.ru&sid=078a89fb628b9bd7&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20avito.ru
+vless://1388bb49-e4a1-485d-b9ee-02ba3742f8f6@94.183.224.21:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OnvxYKheQYpnGbyaF5S392QFQwYvFPOTuAnSJEweCG0&security=reality&sid=078a89fb628b9bd7&sni=avito.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20avito.ru
+vless://cc822ee3-51ca-4e28-846d-25ed535491e9@46.243.142.157:8443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=rutube.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20rutube.ru
+vless://cc822ee3-51ca-4e28-846d-25ed535491e9@46.243.142.157:8443?encryption=none&type=raw&security=reality&fp=firefox&sni=rutube.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20rutube.ru
