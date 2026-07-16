@@ -1,2 +1,6 @@
-# profile-title: 🐟 kal2 | 2026-07-15 12:49:15
+# profile-title: 🐟 kal2 | 2026-07-16 04:28:15
 # profile-update-interval: 1
+vless://91d85eaf-f805-433f-8906-53408459ec93@51.250.29.180:443?encryption=none&security=reality&sni=5post-gate.x5.ru&alpn=http/1.1&fp=qq&pbk=8NnEa_OhXRMmdnQrfyr2SLFjl4JXUYb9oy6acyomZAw&sid&type=grpc&serviceName=grpc&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://14de9ca9-c963-4b65-a054-acb98b4abd3f@147.45.163.134:443?encryption=none&type=grpc&serviceName=gun&mode=gun&security=reality&sni=endeavouros.ubuntuhosting.host&fp=chrome&pbk=nbrx6gGjaQ27MLBl-0Tp23ALk9sm95NeOFxhP2ufO1E&sid=707c8615b9#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20[🏳️LTE]%20|%20🥭🔧
+vless://b0c03d71-8139-4639-bb05-e444e07a0d2b@213.219.212.105:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&alpn=http/1.1&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&sid&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://45c8814c-c06f-4444-acda-1b745e74d33e@195.209.88.182:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&host=s76276.cdn.ngenix.net&fp=firefox&sni=s76276.cdn.ngenix.net#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20[🏳️LTE]%20|%20🥭🔧
