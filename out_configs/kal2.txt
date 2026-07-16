@@ -1,5 +1,7 @@
-# profile-title: 🐟 kal2 | 2026-07-16 20:02:27
+# profile-title: 🐟 kal2 | 2026-07-16 22:55:42
 # profile-update-interval: 1
-vless://58aeca19-0425-4b55-bdef-01ded23f5acc@2.26.5.168:2087?type=grpc&security=reality&encryption=none&sni=ads.x5.ru&pbk=8pUN-PAnf8heTQepzV7AslEWwwePXGH4TV2tD44Xgy4&sid=c226283c4de5b1ad&fp=firefox&serviceName=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Польша%20|%20🥭🔧%20ads.x5.ru
-vless://d4aad26f-70b6-4411-8517-17f7b4281886@217.177.74.38:2200?type=ws&security=none&path=/v1&sni=tn.tmn141246.ru#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
-vless://fdb773e6-7446-4c89-8f3d-296b48f77446@89.110.98.232:446?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=3w_rGK3Ht1HnuT453oqFwJn7zQofWhHkKYd6I7_85Qo&sid=c226283c4de5b1ad&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Финляндия%20[🏳️LTE]%20|%20🥭🔧
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&sni=tjplay.lxdxo.kdns.fr&path=%2FTelegram+%40WangCai2&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20[🏳️LTE]%20|%20🥭🔧
+vless://a521084f-7c84-4fe0-adfb-e71328d715f9@178.130.131.62:2087?type=grpc&security=reality&encryption=none&sni=ads.x5.ru&pbk=TBSxUY80b781ud7T6Eka0hLpGfG-hMC7TiWSej4D8UM&sid=c226283c4de5b1ad&fp=firefox&serviceName=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@51.250.44.66:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=ads.x5.ru&pbk=MZ4v9kcs6nnAKuCAz4pvViC50BoM3exoL_5Yi-1b1kE&sid=59de66570907b747#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧%20%20
+vless://a77cedab-f429-40bb-b6d4-fd9dd681e675@45.146.131.109:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=vHEMY-e-qmXcjg2ZobK1jVBnKipB2egKNxNu5ayVOiA&sid=b4713cf7cec8d7da&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20[🏳️LTE]%20|%20🥭🔧
+vless://68d3fcbe-f025-1f40-82d6-9455c5e5f6b5@secget.ru:8443?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=secget.ru&pbk=vV3mxSgZ-8x3Gp373AXdMDM3FAdmLP0v5zIfI486SDI&sid=f8a8ee8381529673&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧%20%20
