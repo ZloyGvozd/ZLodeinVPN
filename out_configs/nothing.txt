@@ -1,2 +1,4 @@
-# profile-title: 🐟 nothing | 2026-07-16 04:28:15
+# profile-title: 🐟 nothing | 2026-07-16 07:50:21
 # profile-update-interval: 1
+vless://d5502031-63a4-4e7d-a4e7-775f31caeba3@152.233.31.72:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5BSNI-RU%5D%20api-maps.yandex.ru
+vless://3cae7515-8967-49bc-ae9d-49fcf3d9dc3e@217.60.23.184:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=edge&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&sid=d82c4b67f9a13e5c&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20api-maps.yandex.ru
