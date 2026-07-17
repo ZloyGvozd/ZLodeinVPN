@@ -1,7 +1,5 @@
-# profile-title: 🐟 kal | 2026-07-17 21:03:28
+# profile-title: 🐟 kal | 2026-07-17 23:47:37
 # profile-update-interval: 1
-vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@sw.srv.anti-zapret.com:443?flow=xtls-rprx-vision&sni=sw.srv.anti-zapret.com&type=tcp&fp=firefox&sid=17faf32cb516c9cb&security=reality&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&encryption=none#🇸🇪🚀%20Швеция%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@usa.vrsvpn.com:444?serviceName=web.max.ru&sid=8311761729abcdef&mode=gun&security=reality&fp=edge&type=grpc&sni=web.max.ru&pbk=MF_E-_CYAXdWxC1N_wTkdFyk3K7_1cNqNDPb0vnwl20&encryption=none&descriptions=люби_себя73b02e#🇺🇸🚀%20США%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@2.27.26.51:443?type=grpc&serviceName=nexusGrpc&sid=d9662905&sni=draftnest-rrew.ru&fp=firefox&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&security=reality&mode=gun&descriptions=СвободуИнтернету863#🇬🇧🚀%20Великобритания%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://45a390ed-0ddb-4dc3-8b5e-2fee9d044665@167.82.75.226:80?path=%2Fvideo%3Fed%3D1024&type=xhttp&encryption=none&host=lowtechdevelopersltd.co.uk&security=none&mode=auto&freeinternet=kizyak_vpn1784307524661#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
-vless://fcf3f42a-1b88-e1b1-968f-c5ad00000000@172.67.219.137:80?encryption=none&type=ws&host=delicate-cell-a4e1.ir-comx1.workers.dev&path=/sync&packetEncoding=xudp#🇧🇸🚀%20Эщкерия%20[🏳️LTE]%20|%20🥭🔥
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@104.18.43.204:2052?security=none&host=3o3ed92e.xn--nxa.nyc.mn&type=ws&path=/sub&descriptions=люби_себя2fe7fd#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
+vless://8742ef5a-20a5-403f-8f6e-99a9cd0f3efb@49.12.102.241:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=orpheous.ru&fp=qq&security=reality&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&freeinternet=kizyak_vpn1784307522708#🇩🇪🚀%20Германия%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?type=ws#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥

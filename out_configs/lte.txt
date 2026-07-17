@@ -1,4 +1,3 @@
-# profile-title: 🐟 lte | 2026-07-17 21:03:28
+# profile-title: 🐟 lte | 2026-07-17 23:47:37
 # profile-update-interval: 1
-vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?security=false&type=ws&headerType=none&host=26bc92586944.apruxdomain.online&path=%2F&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
-vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://ecad47b0-249e-0009-adff-e3c8f02b1897@78.159.250.193:8443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=player.mediavitrina.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20Beeline
