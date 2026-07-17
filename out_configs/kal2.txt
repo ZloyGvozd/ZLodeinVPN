@@ -1,5 +1,4 @@
-# profile-title: 🐟 kal2 | 2026-07-17 10:09:56
+# profile-title: 🐟 kal2 | 2026-07-17 12:45:58
 # profile-update-interval: 1
-vless://04c75bdf-461f-417e-8bcd-b3bf89a8524a@31.76.113.178:2087?type=grpc&security=reality&encryption=none&sni=ads.x5.ru&pbk=4qI0xhPUwTmO7yMwDlgf2eI-fFP9C9i0iu2d8WHoDTw&sid=c226283c4de5b1ad&fp=firefox&serviceName=grpc#%F0%9F%87%AE%F0%9F%87%B9%20Италия%20|%20🥭🔧%20ads.x5.ru
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20|%20🥭🔧%20web.max.ru
-vless://ecad47b0-249e-00ad-adff-e3c8f02b1897@72.56.55.26:443?encryption=none&type=raw&security=reality&fp=firefox&sni=auto.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%87%AA%F0%9F%87%AA%20Эстония%20[🏳️LTE]%20|%20🥭🔧
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0&type=ws&path=%2FTelegram%2B%40WangCai2&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://92ed2a4f-5219-444f-8b0b-a5d07a7e3ed2@94.183.221.233:443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=api-maps.yandex.ru&type=tcp&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20|%20🥭🔧%20api-maps.yandex.ru
