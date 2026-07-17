@@ -1,3 +1,3 @@
-# profile-title: 🐟 nothing | 2026-07-16 22:55:42
+# profile-title: 🐟 nothing | 2026-07-17 10:09:56
 # profile-update-interval: 1
-vless://aea30a00-4cbb-4acc-b1c2-cb53a7522d09@germnode2.izzzyvpn.ru:443?encryption=none&security=reality&sni=ads.x5.ru%3A443&pbk=WrgS5ITjOMoZjMYOBi5wmTREOuRce_hTiR7avUsqsg8&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20ads.x5.ru
+vless://92ed2a4f-5219-444f-8b0b-a5d07a7e3ed2@94.183.221.233:443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=api-maps.yandex.ru&type=tcp&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
