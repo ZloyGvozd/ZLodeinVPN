@@ -1,4 +1,4 @@
-# profile-title: 🐟 universal | 2026-07-17 23:47:37
+# profile-title: 🐟 universal | 2026-07-18 00:40:55
 # profile-update-interval: 1
-vless://ecad47b0-249e-0006-adff-e3c8f02b1897@46.243.142.242:8443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=rutube.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%E2%80%94%20%2361
-vless://510a7c87-0aa0-4ead-9c9f-6e1700e12b09@109.172.46.105:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=edge&sni=run.homeston.space&pbk=wR1YUNd4Vbpn7rDgjblAP6SLhqaYiL1XElrn0J0VDjE&sid=77&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%2312
+vless://510a7c87-0aa0-4ead-9c9f-6e1700e12b09@109.172.46.105:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=edge&sni=run.homeston.space&pbk=wR1YUNd4Vbpn7rDgjblAP6SLhqaYiL1XElrn0J0VDjE&sid=77&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%238
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@77.222.35.36:4100?encryption=none&type=ws&security=none&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20SpaceWeb%20Hosting%20provider%20%E2%80%94%20%2317

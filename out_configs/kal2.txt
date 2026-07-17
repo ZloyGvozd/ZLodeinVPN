@@ -1,3 +1,3 @@
-# profile-title: 🐟 kal2 | 2026-07-17 23:47:37
+# profile-title: 🐟 kal2 | 2026-07-18 00:40:55
 # profile-update-interval: 1
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@nl2.vrsvpn.com:444?encryption=none&security=reality&type=grpc&sni=web.max.ru&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&sid=8321461729abcdef&serviceName=web.max.ru&mode=gun&fp=safari#%F0%9F%87%A7%F0%9F%87%AC%20Болгария%20|%20🥭🔧%20web.max.ru
+vless://cad59ee8-e80f-4d0f-a9dd-d082e00a75e4@93.77.188.102:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&sni=wde3.whitedeu.org&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20[🏳️LTE]%20|%20🥭🔧%20%20

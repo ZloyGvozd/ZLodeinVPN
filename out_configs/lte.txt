@@ -1,3 +1,4 @@
-# profile-title: 🐟 lte | 2026-07-17 23:47:37
+# profile-title: 🐟 lte | 2026-07-18 00:40:55
 # profile-update-interval: 1
-vless://ecad47b0-249e-0009-adff-e3c8f02b1897@78.159.250.193:8443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&sni=player.mediavitrina.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20Beeline
+vless://153560b0-1a33-4b44-b059-ca5b22e55c19@corelink.su:443?security=reality&flow=xtls-rprx-vision&pbk=b0y3fVgL8jKbO3cNmh_qCoZWoWRsY6BYc6VDJFkNe2I&sid=b7fc0f11dda97edb&sni=corelink.su&type=tcp&headerType=none&host=corelink.su&path=%2F&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?encryption=none&security=none&type=ws&host=26bc92586944.apruxdomain.online&path=%2F&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D

@@ -1,5 +1,7 @@
-# profile-title: 🐟 kal | 2026-07-17 23:47:37
+# profile-title: 🐟 kal | 2026-07-18 00:40:55
 # profile-update-interval: 1
-vless://4a805850-a2c4-42b3-898a-798f0c19c609@104.18.43.204:2052?security=none&host=3o3ed92e.xn--nxa.nyc.mn&type=ws&path=/sub&descriptions=люби_себя2fe7fd#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
-vless://8742ef5a-20a5-403f-8f6e-99a9cd0f3efb@49.12.102.241:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=orpheous.ru&fp=qq&security=reality&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&freeinternet=kizyak_vpn1784307522708#🇩🇪🚀%20Германия%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?type=ws#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥
+vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@cur01.myxasecure.space:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=cur01.myxasecure.space&fp=qq&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&descriptions=СвободуИнтернету922#🇨🇾🚀%20Кипр%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@81.85.78.78:4100?encryption=none&type=ws&path=/v1&host=live.ok.ru#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥
+hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc&nonce=7kdt2wzs#🇭🇰🚀%20Гонконг%20🛡️%20[🏳️LTE]%20|%20🥭🔥
+vless://b79ada82-b394-4afd-828f-7eefecae3a97@nd03.myxasecure.space:443?encryption=none&sid=d67ec5a8fc40ebea&type=tcp&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sni=nd03.myxasecure.space&headerType=none&security=reality&fp=firefox&flow=xtls-rprx-vision&descriptions=люби_себяd1be16#🇨🇭🚀%20Швейцария%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@au273g4s.cf.3666888.xyz:2095?type=ws&host=7cflukl1.cnm.qzz.io&path=/sub#🇧🇸🚀%20Эщкерия%20[🏳️LTE]%20|%20🥭🔥
