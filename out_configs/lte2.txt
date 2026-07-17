@@ -1,6 +1,6 @@
-# profile-title: 🐟 lte2 | 2026-07-17 14:14:01
+# profile-title: 🐟 lte2 | 2026-07-17 16:02:02
 # profile-update-interval: 1
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0&type=ws&path=%2FTelegram+%40VPNine1&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
-vless://ecad47b0-249e-0007-adff-e3c8f02b1897@194.55.239.189:8443?encryption=none&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp&fp=qq#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D
-vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?type=ws&sni=26bc92586944.apruxdomain.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://27c1d725-629c-4e65-9271-d6f5df82c7e9@ru-1.converter.darkpn.com:443?encryption=none&type=tcp&security=reality&sni=ru-1.converter.darkpn.com&flow=xtls-rprx-vision&pbk=BOy13xo8YM122qGijiuvcDOLp2sszSPDp2wSzfEbUHg&sid=64ba14e7098191e0&spx=%2F&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=tjplay.lxdxo.kdns.fr&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0&type=ws&path=%2FTelegram%2B%40WangCai2&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@89.23.113.168:7443?encryption=none&pbk=aBs0x09cXtjTpsrGb21cJsEmDsaCaC1RPeutNu404V0&security=reality&serviceName=grpc&sid=6fa13cdb&sni=www.aviasales.com&type=grpc&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D
+vless://cad59ee8-e80f-4d0f-a9dd-d082e00a75e4@bs1.whitehost.org:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=wde3.whitedeu.org&type=tcp&headerType=none&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA
