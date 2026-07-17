@@ -1,4 +1,2 @@
-# profile-title: 🐟 kal2 | 2026-07-17 12:45:58
+# profile-title: 🐟 kal2 | 2026-07-17 14:14:01
 # profile-update-interval: 1
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0&type=ws&path=%2FTelegram%2B%40WangCai2&fp=firefox#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20[🏳️LTE]%20|%20🥭🔧
-vless://92ed2a4f-5219-444f-8b0b-a5d07a7e3ed2@94.183.221.233:443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=api-maps.yandex.ru&type=tcp&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20%7C%20|%20🥭🔧%20api-maps.yandex.ru
