@@ -1,2 +1,5 @@
-# profile-title: 🐟 lte | 2026-07-17 16:02:02
+# profile-title: 🐟 lte | 2026-07-17 18:04:52
 # profile-update-interval: 1
+vless://c8b5f6c9-83ff-4ca1-be9c-f997a5b2f692@81.163.22.231:47884?encryption=none&pbk=4kfgvWhvI42Kjaf9y8Pw006LCSUQyeiosQSNa2RrK14&security=reality&serviceName=cloud&sid=847a06884457c506&sni=kinopoisk.ru&type=grpc&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?headerType=none&encryption=none&sni=ru1.kinotorg.net&insecure=0#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?type=ws&sni=26bc92586944.apruxdomain.online#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D

@@ -1,3 +1,2 @@
-# profile-title: 🐟 nothing | 2026-07-17 16:02:02
+# profile-title: 🐟 nothing | 2026-07-17 18:04:52
 # profile-update-interval: 1
-vless://7d964bd1-f1af-45a5-926f-56238617ac50@89.222.123.211:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
