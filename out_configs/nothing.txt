@@ -1,3 +1,2 @@
-# profile-title: 🐟 nothing | 2026-07-18 20:46:07
+# profile-title: 🐟 nothing | 2026-07-18 21:44:51
 # profile-update-interval: 1
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@nl2.vrsvpn.com:444?encryption=none&security=reality&type=grpc&sni=web.max.ru&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&sid=8321461729abcdef&serviceName=web.max.ru&mode=gun&fp=safari#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5BSNI-RU%5D%20web.max.ru
