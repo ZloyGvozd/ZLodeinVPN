@@ -1,3 +1,2 @@
-# profile-title: 🐟 nothing | 2026-07-18 02:41:43
+# profile-title: 🐟 nothing | 2026-07-18 04:22:46
 # profile-update-interval: 1
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.205.216:444?security=reality&sni=web.max.ru&type=grpc&serviceName=web.max.ru&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&sid=8321461729abcdef&fp=firefox#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5BSNI-RU%5D%20web.max.ru
