@@ -1,8 +1,5 @@
-# profile-title: 🐟 kal | 2026-07-19 00:40:01
+# profile-title: 🐟 kal | 2026-07-19 01:37:49
 # profile-update-interval: 1
-vless://34ce8760-24ed-41e7-a1f5-aa6c2660a53c@104.24.152.211:8880?encryption=none&security=none&type=ws&host=quiet-frost-ac61.333-07d.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&descriptions=люби_себя854276#🇸🇪🚀%20Швеция%20[🏳️LTE]%20|%20🥭🔥
-vless://4a805850-a2c4-42b3-898a-798f0c19c609@104.18.43.204:80?path=/sub&security=none&type=ws&host=tqmfs45y.xn--nxa.nyc.mn#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@144.31.129.42:443/?type=grpc&encryption=none&flow=&serviceName=nexusGrpc&sni=morphbinerkkw.ru&security=reality&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=5e3ab3ab228625&_t=da0010b9#🇦🇱🚀%20Албания%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.205.216:444?security=reality&sni=web.max.ru&type=grpc&serviceName=web.max.ru&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&sid=8321461729abcdef&fp=safari&freeinternet=kizyak_vpn1784382074508#🇺🇸🚀%20США%20🔐%20[🏳️LTE]%20|%20🥭🔥
 vless://8742ef5a-20a5-403f-8f6e-99a9cd0f3efb@49.12.102.241:443?flow=xtls-rprx-vision&sid=9e4eced6e98ed4d4&fp=&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&encryption=none&sni=orpheous.ru&security=reality&type=tcp&freeinternet=kizyak_vpn1784382076146#🇩🇪🚀%20Германия%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://4a805850-a2c4-42b3-898a-798f0c19c609@37jqbzdg.cf.3666888.xyz:80?encryption=none&security=none&type=ws&host=tqmfs45y.xn--nxa.nyc.mn&path=%2Fsub#🇧🇸🚀%20Эщкерия%20[🏳️LTE]%20|%20🥭🔥
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@89.127.217.210:4100?type=ws&path=/v1&host=live.ok.ru&encryption=none#🇮🇪🚀%20Ирландия%20[🏳️LTE]%20|%20🥭🔥
-vless://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443?sni=site.rumedia-cdn.com&sid=cd40c992fe4b10c2&headerType=none&security=reality&pbk=JwL5KoiWkCJI2vMJxyTEplfv-zBAtwxOH8SMbw6QHzY&fp=chrome&flow=xtls-rprx-vision&type=raw&encryption=none#🇸🇪🚀%20Швеция%20🔐%20[🏳️LTE]%20|%20🥭🔥
