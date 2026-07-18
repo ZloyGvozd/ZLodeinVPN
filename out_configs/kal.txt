@@ -1,7 +1,8 @@
-# profile-title: 🐟 kal | 2026-07-18 23:43:07
+# profile-title: 🐟 kal | 2026-07-19 00:40:01
 # profile-update-interval: 1
-vless://9e4e5d64-11a3-48bc-8622-1d39bd1c2573@app.he-happ.com:443?mode=gun&security=reality&encryption=none&pbk=0DJvjVOtuyfSDnioOJJzHKMsYGgUD95Sw153xEJrBgo&fp=firefox&type=grpc&serviceName=cloud.v2.RelayService&sni=app.he-happ.com&sid=db8389179a5852d4&_t=765cb4d5#🇺🇸🚀%20США%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@2.27.26.51:443/?sni=draftnest-rrew.ru&type=grpc&serviceName=nexusGrpc&security=reality&sid=5e3ab3ab228625&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&flow=&encryption=none&_t=4919d5af#🇬🇧🚀%20Великобритания%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://111841ae-8ee4-4ac7-b750-717d46f17492@144.31.218.79:10443?pbk=6RnCVPCohP4zBcbSmEJD9RRia8gERSV3Q0IaZec4El0&security=reality&type=tcp&sni=www.tesla.com&flow=xtls-rprx-vision&fp=firefox&sid=be0191cc&encryption=none&_t=da515d28#🇺🇦🚀%20Украина%20🔐%20[🏳️LTE]%20|%20🥭🔥
-vless://4a805850-a2c4-42b3-898a-798f0c19c609@cs3iiova.cf.3666888.xyz:2086?type=ws&host=od1kl638.xn--nxa.nyc.mn&path=/sub#🇧🇸🚀%20Эщкерия%20[🏳️LTE]%20|%20🥭🔥
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@5.129.194.34:4100?host=live.ok.ru&path=%2Fv1&provider_id=zieng_vless_universal&security=none&source_name=zieng_vless_universal&type=ws#🇷🇺🚀%20Обход%20БС%20[🏳️LTE]%20|%20🥭🔥
+vless://34ce8760-24ed-41e7-a1f5-aa6c2660a53c@104.24.152.211:8880?encryption=none&security=none&type=ws&host=quiet-frost-ac61.333-07d.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&descriptions=люби_себя854276#🇸🇪🚀%20Швеция%20[🏳️LTE]%20|%20🥭🔥
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@104.18.43.204:80?path=/sub&security=none&type=ws&host=tqmfs45y.xn--nxa.nyc.mn#🇺🇸🚀%20США%20[🏳️LTE]%20|%20🥭🔥
+vless://8742ef5a-20a5-403f-8f6e-99a9cd0f3efb@49.12.102.241:443?flow=xtls-rprx-vision&sid=9e4eced6e98ed4d4&fp=&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&encryption=none&sni=orpheous.ru&security=reality&type=tcp&freeinternet=kizyak_vpn1784382076146#🇩🇪🚀%20Германия%20🔐%20[🏳️LTE]%20|%20🥭🔥
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@37jqbzdg.cf.3666888.xyz:80?encryption=none&security=none&type=ws&host=tqmfs45y.xn--nxa.nyc.mn&path=%2Fsub#🇧🇸🚀%20Эщкерия%20[🏳️LTE]%20|%20🥭🔥
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@89.127.217.210:4100?type=ws&path=/v1&host=live.ok.ru&encryption=none#🇮🇪🚀%20Ирландия%20[🏳️LTE]%20|%20🥭🔥
+vless://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443?sni=site.rumedia-cdn.com&sid=cd40c992fe4b10c2&headerType=none&security=reality&pbk=JwL5KoiWkCJI2vMJxyTEplfv-zBAtwxOH8SMbw6QHzY&fp=chrome&flow=xtls-rprx-vision&type=raw&encryption=none#🇸🇪🚀%20Швеция%20🔐%20[🏳️LTE]%20|%20🥭🔥

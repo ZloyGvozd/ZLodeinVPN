@@ -1,4 +1,6 @@
-# profile-title: 🐟 kal2 | 2026-07-18 23:43:07
+# profile-title: 🐟 kal2 | 2026-07-19 00:40:01
 # profile-update-interval: 1
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=0&allowInsecure=0&type=ws&path=%2FTelegram%2B%40WangCai2&fp=edge#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B3%F0%9F%87%B1%20[🏳️LTE]%20|%20🥭🔧
-vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?encryption=none&security=none&type=ws&host=26bc92586944.apruxdomain.online&path=%2F&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@213.241.198.20:443?type=ws&headerType=none&security=tls&encryption=none&sni=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=cf11.evan00.dpdns.org&insecure=0&fp=chrome#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20[🏳️LTE]%20|%20🥭🔧
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@213.241.198.20:443?sni=cf11.evan00.dpdns.org&type=ws&host=cf11.evan00.dpdns.org&path=Telegram+%40WangCai2fp%3Dchrome&security=tls&fp=qq#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20[🏳️LTE]%20|%20🥭🔧
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@nl2.vrsvpn.com:444?encryption=none&security=reality&type=grpc&sni=web.max.ru&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&sid=8321461729abcdef&serviceName=web.max.ru&mode=gun&fp=safari#%F0%9F%87%A7%F0%9F%87%AC%20Болгария%20|%20🥭🔧%20web.max.ru
+vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?security=false&type=ws&headerType=none&host=26bc92586944.apruxdomain.online&path=%2F&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Германия%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
