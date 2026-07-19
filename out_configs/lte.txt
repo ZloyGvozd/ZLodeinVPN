@@ -1,4 +1,3 @@
-# profile-title: 🐟 lte | 2026-07-20 00:42:06
+# profile-title: 🐟 lte | 2026-07-20 01:40:33
 # profile-update-interval: 1
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@media.kinodrozd.com:14443?encryption=none&security=tls&sni=media.kinodrozd.com&type=ws&host=media.kinodrozd.com&path=%2F&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@media.kinodrozd.com:14443?type=ws&security=tls&sni=media.kinodrozd.com&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+vless://c436d7dc-170d-40bf-b2b8-6cf468db5e65@92.223.109.89:443?encryption=none&flow=xtls-rprx-vision&pbk=wlCVdU8TCIBjIKRPWA6kpmptW0MV9rCP8WfWLSapsjU&security=reality&sid=cc7dc5fb&sni=mc.yandex.ru&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
