@@ -1,8 +1,6 @@
-# profile-title: 🐟 universal | 2026-07-19 15:52:10
+# profile-title: 🐟 universal | 2026-07-19 18:45:11
 # profile-update-interval: 1
-vless://83cf222f-8aa3-46ec-8a29-d47361bf8903@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%232
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=4e07408562be&spx=%2F#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%E2%80%94%20%23196
-vless://cf8906f5-63d3-44c2-8c1f-d2906cb3a229@195.58.49.41:33729?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=ymail.com&pbk=b5vvvll6WHFXYBOc-P4iEYNFw_uVALgypTESN0Nup2s&sid=0bd4698a48&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23236
-vless://ef2add87-1f2e-47a1-a453-627ea78b5fdd@212.193.153.93:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=cdn-discover.truesight.store&alpn=http%2F1.1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23204
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&type=raw&security=reality&fp=chrome&sni=ya.ru&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%239
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?encryption=none&type=ws&security=none&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20SpaceWeb%20Hosting%20provider%20%E2%80%94%20%2317
+vless://29caf19a-74c7-4e6d-8143-0f7a6ddf65bd@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%236
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&type=raw&security=reality&fp=firefox&sni=ya.ru&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%2310
+vless://c7b01766-fe25-412c-b128-f939d1626729@194.55.239.87:8444?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=safari&sni=manage.rushtaxi.ru&pbk=Skfx5UvBjoad_PuuLRXcE1quXaTbRcB0kAk1YP0UwnQ#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23146
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@89.127.197.71:2200?encryption=none&type=ws&security=none&path=%2Fv1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2328
