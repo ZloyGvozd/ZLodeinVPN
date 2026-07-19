@@ -1,7 +1,8 @@
-# profile-title: 🐟 universal | 2026-07-19 14:03:33
+# profile-title: 🐟 universal | 2026-07-19 15:52:10
 # profile-update-interval: 1
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@213.241.198.20:443?encryption=none&type=ws&security=tls&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2fp%3Dchrome&fp=ios&sni=cf11.evan00.dpdns.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23216
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.66:2200?encryption=none&type=ws&security=none&path=%2Fv1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2340
-vless://36683b83-f0d9-43ef-97e1-1d6e303293ba@62.152.56.73:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=wl-12.nodes.ac&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&sid=cf43c0c197cd464a#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23253
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@194.55.239.174:443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fv1%2Fvideo-stream&fp=qq&sni=furrycdn.net#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2322
-vless://cad59ee8-e80f-4d0f-a9dd-d082e00a75e4@93.77.188.102:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=tls&fp=firefox&sni=wde3.whitedeu.org#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2347
+vless://83cf222f-8aa3-46ec-8a29-d47361bf8903@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%232
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=4e07408562be&spx=%2F#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%E2%80%94%20%23196
+vless://cf8906f5-63d3-44c2-8c1f-d2906cb3a229@195.58.49.41:33729?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=ymail.com&pbk=b5vvvll6WHFXYBOc-P4iEYNFw_uVALgypTESN0Nup2s&sid=0bd4698a48&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23236
+vless://ef2add87-1f2e-47a1-a453-627ea78b5fdd@212.193.153.93:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=chrome&sni=cdn-discover.truesight.store&alpn=http%2F1.1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23204
+vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&type=raw&security=reality&fp=chrome&sni=ya.ru&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%239
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?encryption=none&type=ws&security=none&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20SpaceWeb%20Hosting%20provider%20%E2%80%94%20%2317
