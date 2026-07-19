@@ -1,5 +1,4 @@
-# profile-title: 🐟 lte | 2026-07-19 20:47:58
+# profile-title: 🐟 lte | 2026-07-20 00:42:06
 # profile-update-interval: 1
-vless://ecad47b0-249e-0011-adff-e3c8f02b1897@185.40.28.212:8443?encryption=none&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru&type=tcp&fp=qq#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5B%2ACIDR%5D
-hysteria2://0b0e9802-3a94-4cb0-83e3-293b94a1ee2e@78.159.250.230:5555?sni=31.56.188.66.tyr-agentstvo.tech&insecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%B7%20%5B%2ACIDR%5D%20Beeline
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@media.kinodrozd.com:14443?type=ws&security=tls&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@media.kinodrozd.com:14443?encryption=none&security=tls&sni=media.kinodrozd.com&type=ws&host=media.kinodrozd.com&path=%2F&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@media.kinodrozd.com:14443?type=ws&security=tls&sni=media.kinodrozd.com&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
