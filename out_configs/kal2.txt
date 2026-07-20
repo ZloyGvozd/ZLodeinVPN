@@ -1,6 +1,5 @@
-# profile-title: 🐟 kal2 | 2026-07-20 11:37:37
+# profile-title: 🐟 kal2 | 2026-07-20 16:46:40
 # profile-update-interval: 1
-vless://e6ac4241-abbb-40a7-953a-4acc87f2ece1@46.243.142.32:7443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=X3ukS8lu3cNsbazVqxhD7yoRNfofmLqb0LzOKcMAyTs&security=reality&sid=1497fe3dff69ff78&sni=ads.x5.ru&type=tcp#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20|%20🥭🔧%20ads.x5.ru
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=ios&sni=api-maps.yandex.ru&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&sid=4e07408562be&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧%20%20
-hysteria2://0b0e9802-3a94-4cb0-83e3-293b94a1ee2e@78.159.250.230:5555?sni=31.56.188.66.tyr-agentstvo.tech&insecure=0#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%B7%20[🏳️LTE]%20|%20🥭🔧%20%20
-vless://a17945f1-e8d3-4b7a-89a2-b2d4fecfaa92@51.250.40.183:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=web.max.ru&pbk=FkyjJ-RLGIBWnsUQAuyfv-qReJSiuyb7qFnJS14ASgQ&sid=27e53bbcab7593d7#%F0%9F%87%B3%F0%9F%87%B1%20Нидерланды%20[🏳️LTE]%20|%20🥭🔧%20%20
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=chrome#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20[🏳️LTE]%20|%20🥭🔧
+vless://ba0f90b6-3c3c-4701-b2b6-afe57da05527@185.221.199.129:10443?encryption=none&fp=firefox&pbk=WF3RXrggPm9ILy5KS7-N9rfBi7d1rgZAkK4X2Owstlk&security=reality&serviceName=grpc&sni=5post-gate.x5.ru&type=grpc#%F0%9F%87%A8%F0%9F%87%BF%20Чехия%20[🏳️LTE]%20|%20🥭🔧
+vless://566f8818-17fe-4ca9-8035-c9081ece6f68@192.144.13.35:18054?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Франция%20%7C%20%F0%9F%8C%90%20[🏳️LTE]%20|%20🥭🔧
