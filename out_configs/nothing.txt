@@ -1,2 +1,4 @@
-# profile-title: 🐟 nothing | 2026-07-20 01:40:33
+# profile-title: 🐟 nothing | 2026-07-20 11:37:37
 # profile-update-interval: 1
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.205.216:444?security=reality&sni=web.max.ru&type=grpc&serviceName=web.max.ru&pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&sid=8321461729abcdef&fp=ios#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5BSNI-RU%5D%20web.max.ru
+vless://e6ac4241-abbb-40a7-953a-4acc87f2ece1@46.243.142.32:7443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=X3ukS8lu3cNsbazVqxhD7yoRNfofmLqb0LzOKcMAyTs&security=reality&sid=1497fe3dff69ff78&sni=ads.x5.ru&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5BSNI-RU%5D%20ads.x5.ru
