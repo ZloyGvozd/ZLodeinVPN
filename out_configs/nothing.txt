@@ -1,2 +1,4 @@
-# profile-title: 🐟 nothing | 2026-07-21 02:02:55
+# profile-title: 🐟 nothing | 2026-07-21 04:28:22
 # profile-update-interval: 1
+vless://6838017e-160d-434b-84ee-a94c35e25272@152.233.41.30:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5BSNI-RU%5D%20api-maps.yandex.ru
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@red-fhmq5ehr3ievlnabv8l2.concept7.ru:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=4e07408562be#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20api-maps.yandex.ru
