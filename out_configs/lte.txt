@@ -1,6 +1,6 @@
-# profile-title: 🐟 lte | 2026-07-21 07:58:09
+# profile-title: 🐟 lte | 2026-07-23 02:54:16
 # profile-update-interval: 1
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:35412?type=tcp&security=none&encryption=none&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@87.242.85.201:13561?type=tcp&security=none&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://d768d4ba-0b73-4509-87ea-afb074d2f766@194.26.229.162:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=tr.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B%2ACIDR%5D
-vless://0b0e9802-3a94-4cb0-83e3-293b94a1ee2e@158.160.182.90:443?encryption=none&type=ws&security=tls&path=%2Fwebsocket&host=cloudflare.vhub.pro&fp=chrome&sni=cloudflare.vhub.pro#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5B%2ACIDR%5D
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?encryption=none&extra=null&mode=auto&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+vless://bfa96ee8-0d73-4f24-9b61-4833e8a04b9b@176.108.245.184:25565?encryption=none&flow=xtls-rprx-vision&pbk=4i3aVyDqVM-6wbiUQnfaXfBwQkNXxQp5YQZ4SRVbL2I&security=reality&sni=gp.x5.ru&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D

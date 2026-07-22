@@ -1,5 +1,4 @@
-# profile-title: 🐟 kal2 | 2026-07-21 07:58:09
+# profile-title: 🐟 kal2 | 2026-07-23 02:54:16
 # profile-update-interval: 1
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=edge#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20[🏳️LTE]%20|%20🥭🔧
-vless://566f8818-17fe-4ca9-8035-c9081ece6f68@192.144.13.35:59242?type=tcp&security=none&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Россия%20[🏳️LTE]%20|%20🥭🔧
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@red-fhmq5ehr3ievlnabv8l2.concept7.ru:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=4e07408562be&fp=edge#%F0%9F%87%B1%F0%9F%87%B9%20Литва%20%7C%20%F0%9F%8C%90%20%7C%20|%20🥭🔧%20api-maps.yandex.ru
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram+%40WangCai2&fp=safari#🇧🇸%20Эщкерия%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20[🏳️LTE]%20|%20🥭🔧
+vless://27c1d725-629c-4e65-9271-d6f5df82c7e9@85.208.87.184:9443?encryption=none&flow=xtls-rprx-vision&pbk=6RL8C_2Hi2awKka98Kkx62STPrDXSb25C5u66GIhXRI&security=reality&sid=b703abc44e905632&sni=fr-1.converter.darkpn.com&spx=%2F&type=raw&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20Франция%20%7C%20[🏳️LTE]%20|%20🥭🔧
