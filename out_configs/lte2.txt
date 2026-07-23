@@ -1,5 +1,6 @@
-# profile-title: 🐟 lte2 | 2026-07-23 02:54:16
+# profile-title: 🐟 lte2 | 2026-07-23 11:09:56
 # profile-update-interval: 1
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-vless://4caea542-6519-422c-9f4e-fd15758c011f@185.229.9.31:49010?encryption=none&mode=gun&pbk=t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0&security=reality&serviceName=grpc&sid=dfdee30a27b11f0f&sni=ads.x5.ru&type=grpc&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@77.222.35.36:4100?encryption=none&security=none&type=ws&host=77.222.35.36&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?encryption=none&type=xhttp&security=tls&host=ch-de.sdcards.ir&path=%2F%3FTelegram-WangCai2&mode=auto&extra=null&sni=ch-de.sdcards.ir&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+vless://27c1d725-629c-4e65-9271-d6f5df82c7e9@85.208.87.184:9443?encryption=none&flow=xtls-rprx-vision&pbk=6RL8C_2Hi2awKka98Kkx62STPrDXSb25C5u66GIhXRI&security=reality&sid=b703abc44e905632&sni=fr-1.converter.darkpn.com&spx=%2F&type=raw&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%5B%2ACIDR%5D
