@@ -1,6 +1,5 @@
-# profile-title: 🐟 universal | 2026-07-23 23:09:53
+# profile-title: 🐟 universal | 2026-07-24 00:56:03
 # profile-update-interval: 1
-vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&spx=%2F%2B&type=raw#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23165
-vless://b6dfd34e-03c7-4e5a-a276-97bf4b9a258b@89.208.210.216:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23107
-vless://c9e0064b-bd76-4e9c-9c36-32f24352f6a3@51.250.14.147:8765?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ziMxBJ19IhB8Yty3u1opTNdCb74WJhTP98Nvt2K3RCM&security=reality&sid=6a723b8c9d&sni=fallback.cdn-tinkoff.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2373
-vless://24abc411-b777-4ffc-8201-29ea08a9fe66@62.152.56.73:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=lh3qj3VX335HGH2T3xQ8RHZ4v3zEStbz6ENiPwkILSg&security=reality&sid=cf43c0c197cd464a&sni=wl-12.nodes.ac&type=raw#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23216
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?encryption=none&extra=null&fp=edge&path=%2F%3FTelegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2371
+vless://340e4de3-144b-49c4-ad72-b49b35713728@135.106.158.189:443?encryption=none&fp=firefox&mode=gun&pbk=w5fBwTRrvLjDfKKfYM88Lrh7DpwSVlhnCCyo4FxLUSo&security=reality&serviceName=api.v1.StreamService&sid=096bb498&sni=funny1.oneok.name&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2323
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@51.250.82.165:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4e07408562be&sni=api-maps.yandex.ru&spx=%2F&type=raw#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%E2%80%94%20%23189
