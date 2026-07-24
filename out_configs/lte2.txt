@@ -1,4 +1,7 @@
-# profile-title: 🐟 lte2 | 2026-07-24 02:50:04
+# profile-title: 🐟 lte2 | 2026-07-24 04:42:43
 # profile-update-interval: 1
-trojan://521314@45.67.215.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=%2FTelegram%2B%40WangCai2&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@31.12.75.21:2087?alpn=h2%2Chttp%2F1.1&encryption=none&mode=auto&security=tls&sni=ch-de.sdcards.ir&type=xhttp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5B%2ACIDR%5D
+vless://ed425746-3d10-4b45-a71d-11ff5c3a772f@213.171.31.29:443?encryption=none&fp=firefox&mode=gun&pbk=I2aM-iYWKsWCPtzA_zRbq4AYiaZFDrDNo--xFI51Nlw&security=reality&serviceName=clgoto&sid=7a842f6632c23114&sni=ru2.fastfive.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://d4aad26f-70b6-4411-8517-17f7b4281886@77.222.35.10:2200?encryption=none&security=none&fp=chrome&type=ws&path=%2Fv1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?encryption=none&type=ws&security=none&path=%2Fv1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
+vless://df2b6103-3323-4ed4-8417-bfa80bc66848@171.22.138.19:443?encryption=none&mode=auto&path=%2Fxhttp&pbk=CrpgGxcohQuHi10Ogf4iwm_C7FZxd6WPg6e7lVzen1Y&security=reality&sid=8eb14f87fd57847c&sni=bestrecipes-online.site&type=xhttp&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://6ed59a5b-efef-4ddf-99f2-57d200caed47@130.49.148.134:8880?encryption=none&security=none&type=ws&host=cnd.usa.newwaycdn.com&path=%2Fcdn%2Fassets%2Fstream#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
